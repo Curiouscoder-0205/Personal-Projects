@@ -1,0 +1,276 @@
+---
+title: "FIFA Top-10 forward-line players comparison on different attributes for Years 2019 and 2020"
+output: 
+ flexdashboard::flex_dashboard:
+    theme: yeti
+    orientation: columns
+---
+
+```{r setup, include=FALSE}
+
+####Calling libraries to be used
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(plotly)
+library(flexdashboard)
+
+####Importing datasets to be used for plotting
+players_20 <- data.frame(read.csv ("players_20.csv"))   #Year 2020
+players_19 <- data.frame(read.csv ("players_19.csv"))   #Year 2019
+
+####Data Wrangling: Making datasets ready by filtering and selecting relevant information
+players_filtered_2020 <- players_20 %>% select(sofifa_id,short_name,age,club,overall,team_position,
+                                               pace,shooting,passing,dribbling,defending) %>% filter(team_position %in% c("ST","LW","RW","CF") & overall >= 89)
+
+players_filtered_2019 <- players_19 %>% select(sofifa_id,short_name,age,club,overall,team_position,
+                                               pace,shooting,passing,dribbling,defending) %>% filter(short_name %in% players_filtered_2020$short_name & overall >= 87)
+
+####Code to show final datasets to be used for both years
+players_filtered_2020
+players_filtered_2019
+
+```
+
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+### YEAR 2020
+``` {r}
+####Code used for plotting the Radar-chart: YEAR 2020
+
+##defining the plot
+fig_1 <- plot_ly(
+    type = 'scatterpolar',
+    fill = 'toself'
+  ) 
+
+##Adding traces to the plot for each player
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(87,92,92,96,39),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'L. Messi'
+  ) 
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(90,93,82,89,35),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'Cristiano Ronaldo'
+  )
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(91,83,86,94,35),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'E. Hazard'
+  ) 
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(93,86,81,89,45),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'M. Salah'
+  ) 
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(96,84,78,90,39),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'K. MbappÃ©'
+  ) 
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(70,91,79,81,47),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'H. Kane'
+  ) 
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(80,90,77,88,33),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'S. AgÃ¼ero'
+  ) 
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(73,89,80,84,51),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'L. SuÃ¡rez'
+  ) 
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(77,87,74,85,41),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'R. Lewandowski'
+  ) 
+fig_1 <- fig_1 %>%
+  add_trace(
+    r = c(81,86,84,89,57),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'A. Griezmann'
+  ) 
+
+## layout settings of the plot
+fig_1 <- fig_1 %>%
+  layout(
+    title = "Attribute scores (out of 100) 
+    2020",
+    titlefont = list(size = 17),
+    annotations = list(
+      x = 0.55, y = 0, #position of text adjust as needed 
+      text = " NOTES: Single-click on the legend of a player to show/hide his scores.
+               Double-click the same to isolate trace and view scores for a particular player.
+               Move the scale by click-and-hold.",
+      showarrow = F,
+      font=list(
+        size=12, color="red")),
+    polar = list(
+      radialaxis = list(
+        visible = T,
+        showline = F,
+        range = c(0,100)
+      )
+    )
+  )
+
+## calling the first figure
+fig_1
+
+```
+
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+### YEAR 2019
+```{r}
+####Code used for plotting the Radar-chart: YEAR 2019
+
+##defining the plot
+fig_2 <- plot_ly(
+    type = 'scatterpolar',
+    fill = 'toself'
+  ) 
+
+##Adding traces to the plot for each player
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(88,91,88,96,32),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'L. Messi'
+  ) 
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(90,93,81,89,35),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'Cristiano Ronaldo'
+  )
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(91,82,86,94,35),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'E. Hazard'
+  ) 
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(92,84,79,89,45),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'M. Salah'
+  ) 
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(96,81,79,89,39),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name ='K. MbappÃ©'
+  ) 
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(70,90,79,80,47),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'H. Kane'
+  ) 
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(84,89,76,89,28),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'S. AgÃ¼ero'
+  ) 
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(80,90,79,88,52),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'L. SuÃ¡rez'
+  ) 
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(78,89,75,85,41),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'R. Lewandowski'
+  ) 
+fig_2 <- fig_2 %>%
+  add_trace(
+    r = c(86,86,81,89,50),
+    theta = c('Pace','Shooting','Passing','Dribbling','Defending'),
+    name = 'A. Griezmann'
+  ) 
+
+## layout settings of the plot
+fig_2 <- fig_2 %>%
+  layout(
+    title = "Attribute scores (out of 100) 
+    2019",
+    titlefont = list(size = 17),
+    annotations = list(
+      x = 0.55, y = 0, #position of text adjust as needed 
+      text = " NOTES: Single-click on the legend of a player to show/hide his scores.
+               Double-click the same to isolate trace and view scores for a particular player.
+               Move the scale by click-and-hold.",
+      showarrow = F,
+      font=list(
+        size=12, color="red")),
+    polar = list(
+      radialaxis = list(
+        visible = T,
+        showline = F,
+        range = c(0,100)
+      )
+    )
+  )
+
+## calling the second figure
+fig_2
+
+``` 
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+### Overall Scores: Year 2019 and 2020.
+``` {r}
+
+####Code used for plotting the Faceted-bar-chart: YEAR 2019 and YEAR 2020
+
+##Making a new filtered dataframe with names and overall for both years
+players_overall <- data.frame("short_name" = players_filtered_2020$short_name, 
+                              "Overall_2020" = players_filtered_2020$overall, 
+                              "Overall_2019" = players_filtered_2019$overall)
+
+##gathering data in a single data-frame for faceting
+Overall_combine <- gather(players_overall, key="measure", value="value", c("Overall_2020", "Overall_2019"))
+
+##defining and aading settings to the bar chart, using ggplot() function
+fig_3 <- ggplot(Overall_combine, aes(x=short_name, y=value))+
+  geom_bar(stat='identity', fill="lightblue")+
+  ylab("Overall")+ xlab("Names")+
+  ggtitle("Players Overall Scores with Names")+
+  theme(plot.title = element_text(face = "bold"))+
+  theme(axis.text.x = element_text(angle = 90))+
+  geom_text(aes(label=value), position = position_dodge(1), hjust=1)+
+  facet_wrap(~measure,  ncol=1)  #to facet
+
+## calling the third figure
+fig_3
+
+```
+
+-----------------------------------------------------------------------
+### References
+* FIFA 20 complete player dataset.Datasets for both the years obtained from:
+  https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
+  
+* Original Data Source (Public website): https://sofifa.com
