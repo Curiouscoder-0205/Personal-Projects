@@ -5,6 +5,8 @@ Personal projects outside work
 Free dataset sourced online showing country wise data such as certain product types sold, along with the year, months, unit price, units sold, etc.
 I have created some custom measures (such as profit, profit ratio) to understand more about the data and have created some intractive visuals on the dashboard.
 
+Please click option 'View raw' after clicking on 'Finance_dashboard.pbix' to download the dashboard in your local.
+
 # Project 2 : Fifa Top Players Dashboard in R
 FIFA Top-10 forward-line players comparison on different attributes for Years 2019 and 2020. This dashboard was created in R and published on R pubs.
 Please find Rpubs link: https://rpubs.com/Sahilnagpal_0205/627178.
@@ -20,3 +22,5 @@ Number of Attributes: 21
 Missing Values: 0
 
 The analysis done includes creating a new table relationship in Power BI by creating a new master of Reason for absence ID and Reason for absence description. It also inlcudes analysis of which reason is the leading factor contributing to absenteeism at work, along with correlation analysis of factors such as 'Age' and 'Distance from Residence to Work', with total absenteeism in hours for employees.
+
+Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
