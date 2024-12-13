@@ -21,6 +21,6 @@ Number of Instances: 740
 Number of Attributes: 21
 Missing Values: 0
 
-The analysis done includes creating a new table relationship in Power BI by creating a new master of Reason for absence ID and Reason for absence description. It also inlcudes analysis of which reason is the leading factor contributing to absenteeism at work, along with correlation analysis of factors such as 'Age' and 'Distance from Residence to Work', with total absenteeism in hours for employees.
+The analysis done includes creating a new table relationship in Power BI by creating a new master of Reason for absence ID and Reason for absence description. It also includes analysis of which reason is the leading factor contributing to absenteeism at work, along with correlation analysis of factors such as 'Age' and 'Distance from Residence to Work', with total absenteeism in hours for employees.
 
 Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
