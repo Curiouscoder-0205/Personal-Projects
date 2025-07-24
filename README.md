@@ -25,7 +25,7 @@ The analysis done includes creating a new table relationship in Power BI by crea
 
 Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
 
-# Project 4: GCP BigQuery anb Looker Studio - Workforce Diversity Analysis using Google DEI Dataset
+# Project 4: GCP BigQuery and Looker Studio - Workforce Diversity Analysis using Google DEI Dataset
 
 This project explores diversity trends across sectors in the U.S. workforce post-2020 using Google’s DEI public dataset. 
 Data was queried using Google BigQuery, ranked using SQL window functions, and prepared for visualization in Looker Studio.
