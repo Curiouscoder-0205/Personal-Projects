@@ -1,0 +1,77 @@
+--1) Previewing Google’s public DEI dataset.
+
+/* This query previews the first 10 rows of Google's public DEI dataset to explore workforce diversity data structure. */
+
+SELECT
+  *
+FROM
+  `bigquery-public-data.google_dei.full_csv-latest-data-is-2023`
+   limit 10;
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--2) Analyzing post-2020 workforce diversity trends across sectors using row-level year rankings from Google’s public DEI dataset.
+
+/*
+This SQL query analyzes workforce diversity data from Google’s public DEI dataset, focusing on the years after 2020.
+
+It uses a Common Table Expression (CTE) to:
+
+Filter records where year > 2020
+
+and then:
+
+Ranks industries within each sector and year by total employment using Google’s DEI dataset. It highlights the most employed industries per group and prepares the data for deeper diversity and trend analysis.
+*/
+
+WITH full_data_filtered AS (
+  SELECT *
+  FROM `bigquery-public-data.google_dei.full_csv-latest-data-is-2023`
+  WHERE year > 2020
+)
+
+SELECT
+ year
+,ROW_NUMBER() OVER (PARTITION BY sector,year ORDER BY total_employed_in_thousands DESC) AS employment_rank_within_sector_year
+,sector
+,subsector
+,industry_group
+,industry
+,total_employed_in_thousands
+,percent_women
+,percent_white
+,percent_black_or_african_american
+,percent_asian
+,percent_hispanic_or_latino
+FROM full_data_filtered;
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--3) Change in % of women from 2021 to 2023
+
+/* This query shows the growth or decline in women’s representation across sectors. */
+
+WITH sector_year_stats AS (
+  SELECT
+    sector,
+    year,
+    ROUND(AVG(percent_women), 2) AS avg_percent_women
+  FROM `bigquery-public-data.google_dei.full_csv-latest-data-is-2023`
+  WHERE year IN (2021, 2023)
+  GROUP BY sector, year
+)
+
+SELECT
+  s1.sector,
+  s1.avg_percent_women AS percent_women_2021,
+  s2.avg_percent_women AS percent_women_2023,
+  ROUND(s2.avg_percent_women - s1.avg_percent_women, 2) AS change_in_percent
+FROM sector_year_stats s1
+JOIN sector_year_stats s2
+  ON s1.sector = s2.sector
+WHERE s1.year = 2021 AND s2.year = 2023
+ORDER BY change_in_percent DESC;
+
+
