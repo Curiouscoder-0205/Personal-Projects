@@ -21,7 +21,7 @@ Please find Rpubs link: https://rpubs.com/Sahilnagpal_0205/627178.
 
 Code used to create the dashboard has been attached in a separate file: "Dashboard codes Fifa Players.txt"
 
-# Project 3: 🤒 Power BI Absenteeism at Work Dashboard
+# Project 3: 📉 Power BI Absenteeism at Work Dashboard
 Folder Link [PowerBI_Proj1_absenteeism](./PowerBI_Proj1_absenteeism/) 
 
 Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
