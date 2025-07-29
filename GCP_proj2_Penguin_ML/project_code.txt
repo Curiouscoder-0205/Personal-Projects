@@ -1,0 +1,204 @@
+-- Penguins dataset preview
+
+SELECT *
+FROM `bigquery-public-data.ml_datasets.penguins`
+LIMIT 10;
+
+--------------------1) Single-Class Model---------------------------
+
+-- Logistic regression model to predict if a penguin is of Adelie species using BigQuery ML
+
+CREATE OR REPLACE MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_classifier`
+OPTIONS(
+  model_type='logistic_reg',
+  input_label_cols=['is_adelie']
+) AS
+SELECT
+  body_mass_g,
+  flipper_length_mm,
+  culmen_length_mm,
+  culmen_depth_mm,
+  sex,
+  island,
+  CASE 
+    WHEN species = 'Adelie Penguin (Pygoscelis adeliae)' THEN 1 ELSE 0
+  END AS is_adelie
+FROM `bigquery-public-data.ml_datasets.penguins`
+WHERE species IN ('Adelie Penguin (Pygoscelis adeliae)', 
+'Chinstrap penguin (Pygoscelis antarctica)', 'Gentoo penguin (Pygoscelis papua)');
+
+-- Prediction Query
+
+SELECT
+  *,
+  predicted_is_adelie,
+  predicted_is_adelie_probs
+FROM ML.PREDICT(
+  MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_classifier`,
+  (
+    SELECT
+      body_mass_g,
+      flipper_length_mm,
+      culmen_length_mm,
+      culmen_depth_mm,
+      sex,
+      island
+    FROM `bigquery-public-data.ml_datasets.penguins`
+    WHERE species IN (
+      'Adelie Penguin (Pygoscelis adeliae)', 
+      'Chinstrap penguin (Pygoscelis antarctica)', 
+      'Gentoo penguin (Pygoscelis papua)'
+    )
+      AND body_mass_g IS NOT NULL
+      AND flipper_length_mm IS NOT NULL
+      AND culmen_length_mm IS NOT NULL
+      AND culmen_depth_mm IS NOT NULL
+      AND sex IS NOT NULL
+  )
+);
+
+-- Evaluation Query
+
+SELECT *
+FROM ML.EVALUATE(
+  MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_classifier`,
+  (
+    SELECT
+      body_mass_g,
+      flipper_length_mm,
+      culmen_length_mm,
+      culmen_depth_mm,
+      sex,
+      island,
+      CASE 
+        WHEN species = 'Adelie Penguin (Pygoscelis adeliae)' THEN 1 ELSE 0
+      END AS is_adelie
+    FROM `bigquery-public-data.ml_datasets.penguins`
+    WHERE species IN (
+      'Adelie Penguin (Pygoscelis adeliae)', 
+      'Chinstrap penguin (Pygoscelis antarctica)', 
+      'Gentoo penguin (Pygoscelis papua)'
+    )
+      AND body_mass_g IS NOT NULL
+      AND flipper_length_mm IS NOT NULL
+      AND culmen_length_mm IS NOT NULL
+      AND culmen_depth_mm IS NOT NULL
+      AND sex IS NOT NULL
+  )
+);
+
+-----------------------2) Multi-Class Model-------------------------
+
+-- Logistic regression model to predict species class for penguin using BigQuery ML
+
+CREATE OR REPLACE MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_multiclass_classifier`
+OPTIONS(
+  model_type = 'logistic_reg',
+  input_label_cols = ['species']
+) AS
+SELECT
+  body_mass_g,
+  flipper_length_mm,
+  culmen_length_mm,
+  culmen_depth_mm,
+  sex,
+  island,
+  species
+FROM `bigquery-public-data.ml_datasets.penguins`
+WHERE species IN (
+  'Adelie Penguin (Pygoscelis adeliae)', 
+  'Chinstrap penguin (Pygoscelis antarctica)', 
+  'Gentoo penguin (Pygoscelis papua)'
+)
+AND body_mass_g IS NOT NULL
+AND flipper_length_mm IS NOT NULL
+AND culmen_length_mm IS NOT NULL
+AND culmen_depth_mm IS NOT NULL
+AND sex IS NOT NULL;
+
+-- Prediction Query
+
+SELECT
+  species,
+  predicted_species,
+  predicted_species_probs
+FROM ML.PREDICT(
+  MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_multiclass_classifier`,
+  (
+    SELECT
+      species,
+      body_mass_g,
+      flipper_length_mm,
+      culmen_length_mm,
+      culmen_depth_mm,
+      sex,
+      island
+    FROM `bigquery-public-data.ml_datasets.penguins`
+    WHERE body_mass_g IS NOT NULL
+      AND flipper_length_mm IS NOT NULL
+      AND culmen_length_mm IS NOT NULL
+      AND culmen_depth_mm IS NOT NULL
+      AND sex IS NOT NULL
+  )
+);
+
+-- Evaluation Query
+
+SELECT *
+FROM ML.EVALUATE(
+  MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_multiclass_classifier`,
+  (
+    SELECT
+      body_mass_g,
+      flipper_length_mm,
+      culmen_length_mm,
+      culmen_depth_mm,
+      sex,
+      island,
+      species
+    FROM `bigquery-public-data.ml_datasets.penguins`
+    WHERE species IN (
+      'Adelie Penguin (Pygoscelis adeliae)',
+      'Chinstrap penguin (Pygoscelis antarctica)',
+      'Gentoo penguin (Pygoscelis papua)'
+    )
+      AND body_mass_g IS NOT NULL
+      AND flipper_length_mm IS NOT NULL
+      AND culmen_length_mm IS NOT NULL
+      AND culmen_depth_mm IS NOT NULL
+      AND sex IS NOT NULL
+  )
+);
+
+-- For Table output
+
+CREATE OR REPLACE TABLE `sahil-project-2-ml.proj2_ml_dataset.prediction_flat_output` AS
+SELECT
+  species,
+  predicted_species,
+  probs.label AS class_label,
+  probs.prob AS class_probability
+FROM ML.PREDICT(
+  MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_multiclass_classifier`,
+  (
+    SELECT
+      species,
+      body_mass_g,
+      flipper_length_mm,
+      culmen_length_mm,
+      culmen_depth_mm,
+      sex,
+      island
+    FROM `bigquery-public-data.ml_datasets.penguins`
+    WHERE body_mass_g IS NOT NULL
+      AND flipper_length_mm IS NOT NULL
+      AND culmen_length_mm IS NOT NULL
+      AND culmen_depth_mm IS NOT NULL
+      AND sex IS NOT NULL
+  )
+) AS result,
+UNNEST(result.predicted_species_probs) AS probs;
+
+-- Table output for Looker Studio
+
+SELECT * FROM `sahil-project-2-ml.proj2_ml_dataset.prediction_flat_output`;

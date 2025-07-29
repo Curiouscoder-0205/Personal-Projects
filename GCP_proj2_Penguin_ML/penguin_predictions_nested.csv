@@ -1,0 +1,4009 @@
+species,predicted_species,predicted_species_probs
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99992422932144209""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""6.4351417504635161e-05""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.1419261053257465e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99969696153242338""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00021115929701489552""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""9.1879170561765807e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.98833163047044825""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.010919615265437992""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00074875426411370944""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99189260741897034""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0080678703602700668""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.9522220759653422e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99932681583140925""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0005228484453005548""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00015033572329018439""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.9889896943957911""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0083544073818068131""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0026558982224021031""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98841359718878175""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.011576350458779689""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.0052352438594166e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.98822098660079727""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0103127733093829""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00146624008981974""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99894883149848368""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0010448820977668354""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""6.286403749620497e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99930075899234994""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000694226751949749""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.014255700322874e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9750276396111629""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.024381582736978293""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.000590777651858873""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99987607324035743""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00011549859468712585""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""8.4281649554597831e-06""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.98940194975470186""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.010406589803733591""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00019146044156443531""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9991034232875996""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0005933596254067108""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00030321708699374141""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99844546203870388""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0010732489432378515""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00048128901805817885""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.998607486158017""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.001334518032317788""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""5.7995809665343258e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99990388129083541""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""8.3152341213548538e-05""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.2966367951067914e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99919904822030692""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00074146214756556461""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.9489632127628473e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99717058038099193""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0025879339900146017""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00024148562899343183""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99980959865508068""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00015530838918244175""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.509295573697316e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99666470896044024""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0032619921271616298""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""7.3298912398075009e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99952764949365691""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00032775599316595637""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00014459451317724306""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99909207532846445""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00082589722666779025""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""8.20274448677009e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99504273495784412""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0030877821594165657""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0018694828827392927""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.98945056179080493""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0099196200861968922""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00062981812299823929""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99995138400640859""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""2.7141647708616461e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.1474345882812871e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99975344278145151""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00020582048103198129""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.0736737516522846e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.97817909852491558""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.018960410855082002""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0028604906200025127""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.994997887544862""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0047740794784889825""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00022803297664904471""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999895616921941""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""7.7429880483936428e-07""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.6953197572582954e-07""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99647871685909961""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0034211943597824163""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00010008878111796678""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99949463691733009""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00026329857635842889""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00024206450631147523""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98554518581705786""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.009997636057311847""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0044571781256303187""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99989338516599013""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""7.8717442200417273e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.7897391809352216e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99749558282018735""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0018253801728437952""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00067903700696890967""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99897985848488247""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00054611329149843041""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00047402822361907745""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99973620212541625""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00023112667395820252""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.2671200625584274e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.96372376905119417""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.03571326405645326""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00056296689235253575""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99051927504897042""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0094015193187423178""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""7.92056322873549e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98826399734294668""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.011720466190209701""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.5536466843588443e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99338778477146261""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0062676068318604956""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.000344608396676981""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99925524142433986""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00072724600099658527""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.751257466357062e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99992823250566565""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.4049233412504091e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""1.7718260921850317e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99946385627829426""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00032152641374092123""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00021461730796485""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99928189582427474""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00071107278014184716""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""7.0313955834906861e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98946512854370594""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00895973131639374""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0015751401399003264""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99745240861668727""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0020860350735032083""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00046155630980954229""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.999907481054188""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""6.1578886153485226e-05""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.0940059658498233e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99911442316776855""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000800259336939345""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""8.5317495292092641e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.999533460789756""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0004544617073719777""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.2077502872008897e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.96781591610993811""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.024332006292690608""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00785207759737123""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99949108756822713""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000299116500338999""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00020979593143379181""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99689132124179669""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0031086077237607824""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""7.1034442617581027e-08""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9649965936160052""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.033734844985254336""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0012685613987403882""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99989796239099993""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""7.1924952720888683e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.0112656279138654e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.95249616519375846""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.047360818347768063""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00014301645847347824""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99929247705012247""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00068493655021360539""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.2586399663880167e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99913778042658874""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00070283575079811841""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00015938382261314273""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99736374307820308""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0018530613437314791""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00078319557806551449""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99831522335656786""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.001319659001727925""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00036511764170413062""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99518636230415358""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0044038310915899053""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00040980660425640058""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99444666428779549""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0049784329074818445""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00057490280472261761""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99465188771317026""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0053292119344382624""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.8900352391396915e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99581599722648106""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0039914067553018934""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00019259601821697972""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99551103446243638""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0036983891389261747""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00079057639863738089""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99987956782703047""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00011236283804558199""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""8.0693349239898585e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99994353982336059""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.3149599095998563e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.3310577543417732e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99914860277088535""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0008049670990785447""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""4.6430130036158945e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.98945347524672123""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0095056509073511986""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0010408738459275536""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99569543777436453""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0026483052469338359""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0016562569787016107""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99353168112313894""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0035402045903816476""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0029281142864794251""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.97439988639038988""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.024924871377135147""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00067524223247509348""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9999980038435704""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""1.8535324935794543e-06""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.4262393609285641e-07""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.999679361045266""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00017576810822402499""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00014487084651004082""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99132738765865036""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0086251093523505816""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""4.7502988999044234e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99942011512686424""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000528401727262388""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.1483145873504419e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.97206258553076819""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.026811655406382386""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0011257590628495453""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99633268561697219""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0025009185658158156""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0011663958172118956""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.97028402088662946""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.029484649318793559""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00023132979457702948""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99017755861041179""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0087121137860670644""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0011103276035211152""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99659900257858813""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0029407285011710136""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00046026892024084837""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99006734691400589""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0099179195101181637""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.4733575875892238e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.997248117504504""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0026515953723221584""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00010028712317369131""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99713990754508408""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0015984864801358994""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0012616059747799818""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99756457311965319""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0024120942704086825""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.3332609938172512e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99831456832336551""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0016761255268914334""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""9.3061497431370019e-06""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99979191016278557""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0001696404104168566""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.8449426797534174e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99579078317569669""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0041563597982131051""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.2857026090197621e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99939991599521638""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00054037192742309665""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""5.97120773604841e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99998524668299493""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""8.0459829606253184e-06""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""6.7073340444588491e-06""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9998014755436011""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00010931758947706167""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""8.9206866921842987e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99887760298686368""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0010832295712880076""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.9167441848262337e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99285485706630994""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0062965622661241777""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00084858066756582807""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.998972637495328""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00054456893181051584""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00048279357286130052""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9995624565474549""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00029948290195054111""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00013806055059460411""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99828710342764038""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00097873710811075963""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.000734159464248847""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99974263476976921""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00023269492580720754""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.4670304423536807e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9930997508065168""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0061877357179005955""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00071251347558261985""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.52026205992495944""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.47955119755428294""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00018674252075754057""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99957579921810946""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00026160697200978234""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00016259380988088872""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99968531691985418""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0002038045867821548""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00011087849336362382""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99741186353891331""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00237417880571597""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00021395765537070803""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.95147253122724951""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.047003648473219556""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0015238202995309783""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99821741715142109""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0016752450115309061""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00010733783704800299""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99935270047732538""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00047388793213318459""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00017341159054138833""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99742386150164941""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0018203655464516983""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000755772951898898""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99980142033043562""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00011297226790144212""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""8.5607401662981855e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.8839884131003779""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.11494857708939329""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.001063009810228825""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99993466230788441""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""5.2542266827682433e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.2795425287891109e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99671741027123417""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0031499703487615745""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00013261938000427848""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99403328632561816""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0058997089105147235""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""6.7004763867043956e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99463201845111571""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0053056537017824243""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.2327847101773182e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99865792482691407""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0012781068363532837""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.3968336732623564e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99965247105461286""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00019804088121167909""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00014948806417545773""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99788114748535284""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0016371472497593352""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000481705264887761""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99918234995629784""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00057492531894549979""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00024272472475663203""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99830379947982084""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0016241716918590982""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""7.2028828320057546e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99989901679921855""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""5.102516961686473e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.9958031164635283e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99933781731121307""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00065704019155336444""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.142497233489856e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99993087097520983""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""4.0316728084738229e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.8812296705455443e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99916125247342014""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00063611469104489775""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00020263283553491958""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99193497203515579""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0078580219650175778""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00020700599982658902""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.96832708165070014""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.026430501206666117""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0052424171426337166""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99997817288193447""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.4768660225888288e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""7.0584578397818346e-06""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99617778623390085""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0036807445695737563""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00014146919652543739""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.97265093284141124""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.022704764514363693""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0046443026442250469""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99984960878575946""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00012328082920895942""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.7110385031611086e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99593196977568288""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0039982151362612222""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.9815088055943418e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99506937053485545""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0027034633707937621""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0022271660943507994""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9942824120258289""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.005541187948548864""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00017640002562223619""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99176342486355584""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0067615637583821444""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0014750113780619746""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.97313938942822442""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.026763024724726144""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""9.7585847049305678e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99907841972888267""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00076301097690265355""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00015856929421475006""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99977320503507394""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00022338269409450471""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.4122708316106698e-06""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99613934232357""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0030798566233038115""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00078080105312613784""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99999432174161929""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.5137177665032406e-06""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.6454061426543106e-07""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99103893070808324""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0081670897110802648""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00079397958083643233""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99909494409577448""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00088538501931322542""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.9670884912345352e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99816317042364322""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0015547737008829116""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00028205587547397903""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99782879061952523""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0017441080920530387""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00042710128842169884""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98988586238438314""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0079931089969376562""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0021210286186792828""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99402506218092435""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0059134627896509449""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.1475029424586225e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99996198093324851""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.1760938011095418e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""1.6258128740436534e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99474220170383365""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0052471981583294266""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.0600137836902699e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.97785848689753918""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.021941901299341413""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00019961180311936581""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99976773585561751""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0001714448712214664""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.0819273161108291e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.999661845508494""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00025638478892366345""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""8.1769702582323709e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99948278094303822""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00047476543067287674""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""4.2453626288902854e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.999768631069312""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00018923627144840679""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""4.21326592395979e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999986370481142""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.0337301199895971e-07""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.29221764783832e-08""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99601287053102616""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0025327538743270452""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0014543755946468215""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99681429888503492""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00287428432254235""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00031141679242267323""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99895082193307327""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0010383137548537406""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.0864312072981126e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99800163297935007""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0019256838299441345""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""7.26831907058647e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99815820660580379""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0018047027689806479""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.7090625215603992e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99891579999010227""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00059336824305151082""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00049083176684630559""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.985707239470353""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.01388216478764215""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00041059574200491485""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99971089239610111""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00026169070443863874""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.7416899460212105e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99787788907434549""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0019782818392478697""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00014382908640656435""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99975382055472917""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00014561618288734491""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00010056326238350799""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99880126380276546""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0011490708654523852""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""4.9665331782084546e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9717990628919454""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.026219022044247083""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0019819150638074991""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.98273635811495252""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.017213947560482314""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.9694324565169875e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99829571153019458""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0010900848381080299""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00061420363169729843""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99971831026618174""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00021886041649670036""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""6.28293173215926e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9993015146678047""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00037144165261444634""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00032704367958089395""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99986335904503953""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00010989387647416224""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.6747078486357963e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.999377304276657""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00061341144579922784""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""9.2842775437849087e-06""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99912803003227058""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0006063834064979649""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00026558656123142906""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99874156299111827""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00082378792775084856""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00043464908113080022""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999608200354173""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""2.9395090927184334e-06""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""9.7848736556171079e-07""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9981779165455209""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0018119929339509805""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.0090520528167834e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99914611211547133""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00079408902786154943""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.9798856667197174e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99842237708253345""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0015098662175275621""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""6.7756699938989072e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99666860290232118""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00279151777772614""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.000539879319952667""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99111575118950856""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0088793646809529839""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.8841295384023209e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99778950855722093""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0019168248837145724""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00029366655906450025""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99551411591660921""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0029955591438881003""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0014903249395027212""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99976179732324422""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00022358512639414471""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.4617550361549861e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99875947978486779""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0010347562955743904""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00020576391955777926""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99995971599164979""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""2.776986720424007e-05""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""1.2514141145977477e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99976700625009107""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00021909002329502446""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.3903726613987249e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98228219806861117""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.015362650449951007""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0023551514814378481""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99932236331484847""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00051852552539377258""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00015911115975775051""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99971486229606654""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000234526512335566""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""5.0611191597991223e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.999981495625303""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""1.1658730951401455e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.8456437456879474e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99990794642982883""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""5.4373561620679415e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.7680008550486943e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9984715950896913""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00093471578973581052""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0005936891205729235""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99997595916697035""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.0531577055941175e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.509255973678076e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99996661645992435""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""2.0132024232197083e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.3251515843433058e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.83463416508633892""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.16508966677622389""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00027616813743721686""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.9923675364543324""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0075736224010257919""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.8841144641831032e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99926518859189151""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00070915731033890646""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.5654097769600381e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.98638178391629117""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.013426497497228252""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00019171858648060438""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99994134920177125""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.9919265971645784e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""8.7315322569999015e-06""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99369274229305726""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0049745351180981254""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0013327225888445638""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99989976573765083""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""6.787737300811478e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.2356889341127265e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99278573254869851""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0071795182927378576""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.4749158563654281e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.95897357554155""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.040818867314768296""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00020755714368164723""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99546524233160594""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0037580932439086477""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.000776664424485386""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9981599298489835""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0013216612978962964""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00051840885312015822""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.97726038946307414""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.022602892216917737""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00013671832000821754""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99739377705654442""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0014506292180366241""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0011555937254189425""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99961063257120641""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00034366112424897666""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.5706304544609622e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9998381841558257""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""9.3865154442810276e-05""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""6.7950689731601381e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9926438280965264""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0073254067983255277""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.0765105148088635e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99988772016056415""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""9.82158410563273e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""1.4063998379601507e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.992682186272971""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0071622845512283638""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0001555291758006541""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.84012484688226041""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.15816690288843158""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0017082502293081332""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9984729182937212""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0014833593212326347""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""4.3722385046066909e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99698872996562282""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.002248969237614537""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00076230079676263681""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99964801256131741""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00031980507474585316""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.2182363936685148e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99997303421848871""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""2.1082964587612522e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.8828169236014683e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9977299706889684""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0021325079850717291""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00013752132595998344""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9984538598250946""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0011295235418055786""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00041661663309981571""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99634292095652122""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0034812456438339796""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00017583339964487697""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.947403873419566""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.052203142592406784""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00039298398802731737""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99828348039158454""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0015895087343252845""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00012701087409019477""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99872803320063352""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0011338566304552838""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0001381101689111088""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99898393082747394""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00076354439299986421""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00025252477952616818""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99894313217013775""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00064212524629457849""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00041474258356778579""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99828212236480307""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0015434584261668197""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00017441920903011693""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99770405539404738""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0019124243772739421""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0003835202286787272""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99771041374001945""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0016795634081717733""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00061002285180878062""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99961810826230446""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00026362782001122234""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00011826391768423519""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99664520309431492""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0020755944378813319""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0012792024678038299""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99933514916480015""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00050679511584680772""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00015805571935298228""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99390713127339825""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.003754828982487832""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00233803974411393""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.999833158902958""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""9.0740724198536617e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""7.6100372843371567e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.999046433198244""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000931633208858105""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""2.1933592897889006e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999187205578366""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""6.9805518892855568e-06""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.1473923271319987e-06""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.997354709052474""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.002380469731195445""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00026482121633052938""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.98975433649781275""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00933930884601274""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00090635465617445977""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99012630638805355""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0094648349342167839""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00040885867772966417""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99744880100008138""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0020132297587409894""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00053796924117772754""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99972261204154445""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00018919128899754046""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""8.81966694580251e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.98184803692041955""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.017545970193019764""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00060599288656070828""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99956722549710142""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00043218019028616963""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""5.9431261250336837e-07""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99914194412846524""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00073187801086716171""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00012617786066761725""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99819419607489934""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0017726833023857577""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.3120622714815349e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999817610991815""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""1.1595336114614287e-06""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.6435647040005536e-07""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99955326874340344""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00023829410683938644""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00020843714975719502""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99931955093364322""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000590880576596631""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""8.95684897601511e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999574395191171""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.5935557640958281e-06""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.6249232424356317e-07""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99802898741114232""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0016005929080652444""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0003704196807925027""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99319578608846715""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0047450465409831794""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0020591673705496558""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99968314713355166""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00025145646070380643""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""6.5396405744518572e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99130852922996426""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00861349677376217""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""7.7973996273517521e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9981475118605504""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0014917953586866288""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00036069278076299329""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98183684866780729""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.01768337267630618""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00047977865588649159""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99011933890201065""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0050698310097730889""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0048108300882163009""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99967880278672439""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00016787297179893476""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00015332424147662348""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99649377493340063""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0029274969034702994""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00057872816312915865""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99283660835693521""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0071504026917303823""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.2988951334391458e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99941510679682222""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00041929033520798561""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00016560286796976344""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99806267779391511""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0019011667371310284""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.61554689538457e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9995124442406822""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00048710639356467256""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""4.4936575307812074e-07""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99894722140650394""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00096054857403150991""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""9.223001946455947e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99024998028906575""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0054847321737935672""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0042652875371405469""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99963371472457718""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00033585008139697825""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.0435194025846275e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.995130206289018""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0047628609723850534""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00010693273859683521""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99995492062203661""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.1710385329574834e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.3368992633752106e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99329259361278011""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0062356171493596051""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00047178923786033529""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.96622445832615245""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.03353956756586568""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0002359741079818782""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99751561205034645""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0015966482147124561""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00088773973494110192""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.999600109700561""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.000299608712681249""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00010028158675771651""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999940563414191""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.7425936269509226e-07""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""1.201064953273367e-07""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99876874221340184""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0010696342429313344""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00016162354366687048""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999422716459418""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""5.4363332021132668e-06""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.3650220369312735e-07""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99976842239921693""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00014539450675147238""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""8.6183094031574476e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99986607478523937""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""6.83062029942145e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""6.5619011766431142e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99260835327263119""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0040521007730565592""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0033395459543122744""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.97741766427729948""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0224231811190057""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0001591546036947663""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99966640922974381""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00029837840683767566""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.5212363418569707e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99480103405593923""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0049111153020370739""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000287850642023711""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99945924952920151""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00050659303915467967""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.41574316438082e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99354391157108812""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0054328679454753656""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0010232204834365482""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.9304796873360871""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.067221926180183134""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0022983864837297931""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99742053550011578""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0017209892290670106""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0008584752708171655""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9912287262787326""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0046561954658673153""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0041150782554002325""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99899025513938966""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000969341366766072""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.0403493844406808e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.998786243799898""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0011728700717312142""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.088612837090508e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99899049396149386""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00063934825772875021""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00037015778077746257""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99216840854855037""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0066463401637066894""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0011852512877429727""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.79486082784029344""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.20416632478118887""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0009728473785178116""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99922035977076507""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00072314835655640708""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""5.6491872678543068e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.998512071652242""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0014556175130214096""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.2310834736568028e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99942616353229263""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00052528830356780322""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""4.8548164139655281e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99613051928779628""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0037855269761347273""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""8.3953736068921e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.90224453560473916""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.096736722542702144""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0010187418525587561""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.571687880762902""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.4268307979657589""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0014813212713391741""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99935142156990053""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000566137937024127""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""8.2440493075394334e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98128210431780316""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.017713044048914155""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0010048516332826617""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.97644928616892857""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.023221105826369073""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0003296080047023358""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99775880708852682""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0021515397501816694""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""8.9653161291461907e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.999696942529936""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00027191389328056181""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""3.1143576783438153e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9974267842621124""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0023904051557933721""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00018281058209422134""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99471707392813058""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0047569095204683352""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00052601655140104649""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99940126981674793""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.000573525784161066""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.5204399091014289e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99963163224894058""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00031769793884895515""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""5.06698122103465e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.98487491976772135""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.014810063829437368""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00031501640284122803""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99999831765083247""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""1.142380844028343e-06""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""5.3996832348985079e-07""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.67664375446785407""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.32249771421969164""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00085853131245444518""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99977719750105376""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00021343120995169284""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""9.3712889946024277e-06""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99977548379463566""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00018848151257661708""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""3.6034692787645889e-05""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.94226054907572954""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.05721741407973114""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00052203684453936588""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99981308458717477""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00016438789948628973""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.252751333884316e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.62693921760579319""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.37055420457118354""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0025065778230231868""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99334348947887174""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0061570571525975254""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00049945336853081846""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.84960163967648417""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.15007390543421384""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00032445488930195332""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.98603251288985516""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.013088721426991903""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00087876568315298448""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99752877579346333""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.002256923285889537""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00021430092064715368""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.997889242291305""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0013937659483613644""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00071699176033363681""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99998076477995479""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.4927918208398693e-05""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""4.3073018367691649e-06""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99946985727863191""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0003697797058624047""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00016036301550569336""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.97002494286421181""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.024851283678867325""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0051237734569208092""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.995924147037549""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0037111426229122059""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00036471033953886168""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99488346366282432""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0046918352727871523""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.000424701064388454""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.9999089193015458""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""8.9514269931513513e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""1.5664285226001737e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99978888111194641""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00017535018693913359""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""3.576870111438578e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99982284724906456""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00011187857340450732""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""6.5274177531068756e-05""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99241626921774873""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0039944187233054464""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0035893120589458889""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99981218172347652""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00011979489660919294""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""6.8023379914249917e-05""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99622945526573392""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0021712245641096885""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0015993201701562415""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.9972051775114954""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0026346617955042197""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.00016016069300047""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99652865231429189""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0034691661502887108""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""2.1815354193845865e-06""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.99722278552641808""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0014400479261128733""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0013371665474690281""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99959957404620925""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00021325490028413423""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00018717105350667365""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99996586116786124""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""2.9912170845497628e-05""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""4.2266612931812538e-06""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.97282617838362262""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.025479299020867607""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0016945225955097131""
+  }]
+}"
+Gentoo penguin (Pygoscelis papua),Gentoo penguin (Pygoscelis papua),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.99956591820604956""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.00042697417745867519""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""7.107616491795387e-06""
+  }]
+}"
+Adelie Penguin (Pygoscelis adeliae),Adelie Penguin (Pygoscelis adeliae),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.99565406214215635""
+  }, {
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.0043377190524287795""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""8.2188054147872319e-06""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.991182738176521""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.0080192295062897941""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.00079803231718916833""
+  }]
+}"
+Chinstrap penguin (Pygoscelis antarctica),Chinstrap penguin (Pygoscelis antarctica),"{
+  ""predicted_species_probs"": [{
+    ""label"": ""Chinstrap penguin (Pygoscelis antarctica)"",
+    ""prob"": ""0.989377797183489""
+  }, {
+    ""label"": ""Adelie Penguin (Pygoscelis adeliae)"",
+    ""prob"": ""0.008466898948725354""
+  }, {
+    ""label"": ""Gentoo penguin (Pygoscelis papua)"",
+    ""prob"": ""0.0021553038677856995""
+  }]
+}"

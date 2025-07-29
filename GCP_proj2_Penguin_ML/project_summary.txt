@@ -1,0 +1,95 @@
+📁 Project Title: Penguin Species Classification using BigQuery ML
+
+👤 Author: Sahil Nagpal
+☁️ Platform: Google Cloud Platform (BigQuery ML)
+📚 Dataset: `bigquery-public-data.ml_datasets.penguins`
+
+------------------------------------------------------------
+🔍 1) Dataset Preview
+
+SELECT *
+FROM `bigquery-public-data.ml_datasets.penguins`
+LIMIT 10;
+
+A quick preview of the penguin dataset which includes features like body mass, flipper length, culmen (beak) dimensions, sex, island, and species.
+
+------------------------------------------------------------
+🧪 2) Binary Classification (Is Adelie Penguin?)
+
+🎯 Goal: Build a logistic regression model to classify whether a penguin belongs to the Adelie species (1 = Adelie, 0 = Others)
+
+-- Model Training Query
+
+CREATE OR REPLACE MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_classifier`
+OPTIONS(model_type='logistic_reg', input_label_cols=['is_adelie']) AS
+SELECT [...], CASE WHEN species = 'Adelie Penguin...' THEN 1 ELSE 0 END AS is_adelie
+FROM penguins
+WHERE species IN ('Adelie...', 'Chinstrap...', 'Gentoo...');
+
+-- Prediction Query
+
+SELECT *, predicted_is_adelie, predicted_is_adelie_probs
+FROM ML.PREDICT(...)
+
+-- Evaluation Query
+
+SELECT * FROM ML.EVALUATE(...)
+
+📈 Model Performance Summary:
+The classification model achieved perfect accuracy (1.0) with near-zero log loss (0.012), indicating that penguin species are linearly separable based on beak, flipper, and body measurements.
+
+------------------------------------------------------------
+🧪 3) Multi-Class Classification (Which Penguin Species?)
+
+🎯 Goal: Predict the exact species (Adelie, Chinstrap, Gentoo) using logistic regression
+
+-- Model Training Query
+
+CREATE OR REPLACE MODEL `sahil-project-2-ml.proj2_ml_dataset.penguin_multiclass_classifier`
+OPTIONS(model_type='logistic_reg', input_label_cols=['species']) AS
+SELECT [...], species FROM penguins
+WHERE species IN ('Adelie...', 'Chinstrap...', 'Gentoo...');
+
+-- Prediction Query
+
+SELECT species, predicted_species, predicted_species_probs
+FROM ML.PREDICT(...)
+
+-- Evaluation Query
+
+SELECT * FROM ML.EVALUATE(...)
+
+📈 Model Performance Summary:
+This near-perfect performance is likely due to the dataset's small size and clear feature separation across species, making it ideal for learning and demonstration purposes. The logistic regression model achieved 100% accuracy, precision, recall, and F1 score, indicating it correctly classified every penguin in the evaluation set. Additionally, a low log loss of 0.016 confirms that the model was not only accurate but also highly confident in its predictions.
+
+------------------------------------------------------------
+📊 4) Visual Preparation (Flattened Output for Looker Studio)
+
+-- Create Flat Table
+
+CREATE OR REPLACE TABLE `sahil-project-2-ml.proj2_ml_dataset.prediction_flat_output` AS
+SELECT
+  species,
+  predicted_species,
+  probs.label AS class_label,
+  probs.prob AS class_probability
+FROM ML.PREDICT(...) AS result,
+UNNEST(result.predicted_species_probs) AS probs;
+
+-- Select for Looker Studio
+
+SELECT * FROM `sahil-project-2-ml.proj2_ml_dataset.prediction_flat_output`;
+
+✅ This table can be used in Looker Studio to build visual summaries of predicted species and confidence levels.
+
+------------------------------------------------------------
+📦 Final Deliverables:
+
+✔️ adelie_predictions.csv
+✔️ adelie_model_evaluation.csv
+✔️ penguin_predictions_nested.csv
+✔️ penguin_predictions_flat.csv
+✔️ penguin_model_evaluation.csv
+✔️ project_code.txt
+✔️ Model_Confidence_by_Species.pdf <https://lookerstudio.google.com/s/nobB8kyg_mE>
+✔️ project_summary.txt (this file)
