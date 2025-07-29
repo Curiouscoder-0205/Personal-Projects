@@ -1,6 +1,8 @@
 # Personal-Projects
 Personal projects outside work
 
+> 📘 This is a read-only public portfolio. Feel free to view or fork, but editing is restricted to the owner.
+
 # Project 1: 🏦 Power BI Finance Dashboard
 Folder Link [PowerBI_Proj2_fin](./PowerBI_Proj2_fin/)
 
