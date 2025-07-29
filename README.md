@@ -2,12 +2,16 @@
 Personal projects outside work
 
 # Project 1: Power BI Finance Dashboard
+Folder Link [PowerBI_Proj2_fin](./PowerBI_Proj2_fin/)
+
 Free dataset sourced online showing country wise data such as certain product types sold, along with the year, months, unit price, units sold, etc.
 I have created some custom measures (such as profit, profit ratio) to understand more about the data and have created some interactive visuals on the dashboard.
 
 Please click option 'View raw' after clicking on 'Finance_dashboard.pbix' to download the dashboard in your local.
 
 # Project 2: Fifa Top Players Dashboard in R
+Folder Link [R_proj1_fifa](./R_proj1_fifa/)
+
 FIFA Top-10 forward-line players comparison on different attributes for Years 2019 and 2020. This dashboard was created in R and published on R pubs.
 Please find Rpubs link: https://rpubs.com/Sahilnagpal_0205/627178.
 
@@ -28,6 +32,7 @@ The analysis done includes creating a new table relationship in Power BI by crea
 Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
 
 # Project 4: GCP BigQuery and Looker Studio - Workforce Diversity Analysis using Google DEI Dataset
+Folder Link [GCP_proj1_google_dei](./GCP_proj1_google_dei/)
 
 This project explores diversity trends across sectors in the U.S. workforce post-2020 using Google’s DEI public dataset. 
 Data was queried using Google BigQuery, ranked using SQL window functions, and prepared for visualization in Looker Studio.
