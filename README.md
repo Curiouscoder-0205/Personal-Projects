@@ -2,7 +2,8 @@
 Personal projects outside work
 
 # Project 1: 🏦 Power BI Finance Dashboard
-Folder Link [PowerBI_Proj2_fin](./PowerBI_Proj2_fin/) 
+Folder Link [PowerBI_Proj2_fin](./PowerBI_Proj2_fin/)
+
 Please click option 'View raw' after clicking on 'Finance_dashboard.pbix' to download the dashboard in your local.
 
 ## ℹ️ About the Project
@@ -20,6 +21,7 @@ Code used to create the dashboard has been attached in a separate file: "Dashboa
 
 # Project 3: 🤒 Power BI Absenteeism at Work Dashboard
 Folder Link [PowerBI_Proj1_absenteeism](./PowerBI_Proj1_absenteeism/) 
+
 Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
 
 ## ℹ️ About the Project
