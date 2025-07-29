@@ -54,3 +54,15 @@ Files Included:
 6. LookerStudio_Report.pdf — https://lookerstudio.google.com/s/rbbIFHNp-Ao
 
 Date: July 2025
+
+# Project 5: 🐧 GCP Penguin Species Classification with BigQuery ML
+Folder Link [GCP_proj2_Penguin_ML](./GCP_proj2_Penguin_ML/)
+
+A hands-on machine learning project using Google BigQuery ML to classify penguin species based on physical features. This project includes both binary and multi-class classification models built and evaluated using SQL-only workflows — ideal for data analysts looking to break into ML.
+
+## 📁 Dataset
+- Source: [`bigquery-public-data.ml_datasets.penguins`](https://console.cloud.google.com/marketplace/product/bigquery-public-data/ml-datasets)
+- Features used:
+  - `body_mass_g`, `flipper_length_mm`, `culmen_length_mm`, `culmen_depth_mm`
+  - `sex`, `island`
+  - `species` (label)
