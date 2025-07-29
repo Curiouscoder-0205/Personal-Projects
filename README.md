@@ -15,6 +15,7 @@ Code used to create the dashboard has been attached in a separate file: "Dashboa
 
 # Project 3: Power BI Absenteeism at Work Dashboard
 Folder Link [PowerBI_Proj1_absenteeism](./PowerBI_Proj1_absenteeism/)
+
 Free Kaggle dataset used for analysis, original source - https://www.kaggle.com/datasets/kewagbln/absenteeism-at-work-uci-ml-repositiory.
 The database was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil.
 
