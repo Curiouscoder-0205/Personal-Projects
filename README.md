@@ -54,6 +54,7 @@ https://console.cloud.google.com/ (requires login)
 # Project 5: 🐧 GCP Penguin Species Classification with BigQuery ML
 Folder Link [GCP_proj2_Penguin_ML](./GCP_proj2_Penguin_ML/)
 
+## ℹ️ About the Project
 A hands-on machine learning project using Google BigQuery ML to classify penguin species based on physical features. This project includes both binary and multi-class classification models built and evaluated using SQL-only workflows — ideal for data analysts looking to break into ML.
 
 ## 📁 Data Source
