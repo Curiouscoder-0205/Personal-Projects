@@ -14,6 +14,7 @@ Please find Rpubs link: https://rpubs.com/Sahilnagpal_0205/627178.
 Code used to create the dashboard has been attached in a separate file: "Dashboard codes Fifa Players.txt"
 
 # Project 3: Power BI Absenteeism at Work Dashboard
+Folder Link <https://github.com/Curiouscoder-0205/Personal-Projects#:~:text=23%20Commits-,PowerBI%20Proj%2D1,-Rename%20Absenteeism%20at>
 Free Kaggle dataset used for analysis, original source - https://www.kaggle.com/datasets/kewagbln/absenteeism-at-work-uci-ml-repositiory.
 The database was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil.
 
