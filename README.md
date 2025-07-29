@@ -37,7 +37,7 @@ Number of Instances: 740
 Number of Attributes: 21
 Missing Values: 0
 
-# Project 4: GCP BigQuery and Looker Studio - Workforce Diversity Analysis using Google DEI Dataset
+# Project 4: 👥 GCP BigQuery and Looker Studio - Workforce Diversity Analysis using Google DEI Dataset
 Folder Link [GCP_proj1_google_dei](./GCP_proj1_google_dei/)
 
 ## ℹ️ About the Project
