@@ -1,25 +1,31 @@
 # Personal-Projects
 Personal projects outside work
 
-# Project 1: Power BI Finance Dashboard
-Folder Link [PowerBI_Proj2_fin](./PowerBI_Proj2_fin/)
+# Project 1: 🏦 Power BI Finance Dashboard
+Folder Link [PowerBI_Proj2_fin](./PowerBI_Proj2_fin/) 
+Please click option 'View raw' after clicking on 'Finance_dashboard.pbix' to download the dashboard in your local.
 
+## ℹ️ About the Project
 Free dataset sourced online showing country wise data such as certain product types sold, along with the year, months, unit price, units sold, etc.
 I have created some custom measures (such as profit, profit ratio) to understand more about the data and have created some interactive visuals on the dashboard.
 
-Please click option 'View raw' after clicking on 'Finance_dashboard.pbix' to download the dashboard in your local.
-
-# Project 2: Fifa Top Players Dashboard in R
+# Project 2: ⚽️ Fifa Top Players Dashboard in R
 Folder Link [R_proj1_fifa](./R_proj1_fifa/)
 
+## ℹ️ About the Project
 FIFA Top-10 forward-line players comparison on different attributes for Years 2019 and 2020. This dashboard was created in R and published on R pubs.
 Please find Rpubs link: https://rpubs.com/Sahilnagpal_0205/627178.
 
 Code used to create the dashboard has been attached in a separate file: "Dashboard codes Fifa Players.txt"
 
-# Project 3: Power BI Absenteeism at Work Dashboard
-Folder Link [PowerBI_Proj1_absenteeism](./PowerBI_Proj1_absenteeism/)
+# Project 3: 🤒 Power BI Absenteeism at Work Dashboard
+Folder Link [PowerBI_Proj1_absenteeism](./PowerBI_Proj1_absenteeism/) 
+Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
 
+## ℹ️ About the Project
+The analysis done includes creating a new table relationship in Power BI by creating a new master of Reason for absence ID and Reason for absence description. It also includes analysis of which reason is the leading factor contributing to absenteeism at work, along with correlation analysis of factors such as 'Age' and 'Distance from Residence to Work', with total absenteeism in hours for employees.
+
+## 📁 Data Source:
 Free Kaggle dataset used for analysis, original source - https://www.kaggle.com/datasets/kewagbln/absenteeism-at-work-uci-ml-repositiory.
 The database was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil.
 
@@ -27,42 +33,37 @@ Number of Instances: 740
 Number of Attributes: 21
 Missing Values: 0
 
-The analysis done includes creating a new table relationship in Power BI by creating a new master of Reason for absence ID and Reason for absence description. It also includes analysis of which reason is the leading factor contributing to absenteeism at work, along with correlation analysis of factors such as 'Age' and 'Distance from Residence to Work', with total absenteeism in hours for employees.
-
-Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
-
 # Project 4: GCP BigQuery and Looker Studio - Workforce Diversity Analysis using Google DEI Dataset
 Folder Link [GCP_proj1_google_dei](./GCP_proj1_google_dei/)
 
+## ℹ️ About the Project
 This project explores diversity trends across sectors in the U.S. workforce post-2020 using Google’s DEI public dataset. 
 Data was queried using Google BigQuery, ranked using SQL window functions, and prepared for visualization in Looker Studio.
 
-Data Source:
+## 📁 Data Source:
 
 Google DEI Public Dataset (BigQuery)
 Table: bigquery-public-data.google_dei.full_csv-latest-data-is-2023
 Accessed via: Google Cloud BigQuery Public Datasets Explorer
 https://console.cloud.google.com/ (requires login)
 
-Files Included:
-
-1. FullDataset-full_csv-latest-data-is-2023.csv — Full dataset 
-2. query_1_preview.csv — First 10 rows preview
-3. query_2_ranked.csv — Industries ranked by total employment within sector-year
-4. query_3_PercWomen.csv — Average % of women by sector (post-2020)
-5. SqlQueries.txt — All queries with descriptions
-6. LookerStudio_Report.pdf — https://lookerstudio.google.com/s/rbbIFHNp-Ao
-
-Date: July 2025
+## 📅 Date: 27 July 2025
 
 # Project 5: 🐧 GCP Penguin Species Classification with BigQuery ML
 Folder Link [GCP_proj2_Penguin_ML](./GCP_proj2_Penguin_ML/)
 
 A hands-on machine learning project using Google BigQuery ML to classify penguin species based on physical features. This project includes both binary and multi-class classification models built and evaluated using SQL-only workflows — ideal for data analysts looking to break into ML.
 
-## 📁 Dataset
+## 📁 Data Source
 - Source: [`bigquery-public-data.ml_datasets.penguins`](https://console.cloud.google.com/marketplace/product/bigquery-public-data/ml-datasets)
 - Features used:
   - `body_mass_g`, `flipper_length_mm`, `culmen_length_mm`, `culmen_depth_mm`
   - `sex`, `island`
   - `species` (label)
+    
+## 📅 Date: 29 July 2025
+    
+# 👤 Author
+
+**Sahil Nagpal**  
+
