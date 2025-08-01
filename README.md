@@ -4,7 +4,7 @@ Personal projects outside work
 > 📘 This is a read-only public portfolio. Feel free to view or fork, but editing is restricted to the owner.
 
 # Project 1: 🏦 Power BI Finance Dashboard
-Folder Link [PowerBI_Proj2_fin](./PowerBI_Proj2_fin/)
+Folder Link [PowerBI_proj2_fin](./PowerBI_proj2_fin/)
 
 Please click option 'View raw' after clicking on 'Finance_dashboard.pbix' to download the dashboard in your local, or view the PDF report attached in the project GIT folder.
 
@@ -22,7 +22,7 @@ Please find Rpubs link: https://rpubs.com/Sahilnagpal_0205/627178.
 Code used to create the dashboard has been attached in a separate file: "Dashboard codes Fifa Players.txt"
 
 # Project 3: 📉 Power BI Absenteeism at Work Dashboard
-Folder Link [PowerBI_Proj1_absenteeism](./PowerBI_Proj1_absenteeism/) 
+Folder Link [PowerBI_proj1_absenteeism](./PowerBI_proj1_absenteeism/) 
 
 Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local, or view the PDF report attached in the project GIT folder.
 
