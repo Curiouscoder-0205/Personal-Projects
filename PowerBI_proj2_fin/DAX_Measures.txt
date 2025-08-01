@@ -1,0 +1,5 @@
+
+New Measures Created:
+---------------------
+
+1) Profit ratio = DIVIDE('financials'[Profit], 'financials'[Gross Sales], 0)
