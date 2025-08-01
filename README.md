@@ -6,7 +6,7 @@ Personal projects outside work
 # Project 1: 🏦 Power BI Finance Dashboard
 Folder Link [PowerBI_Proj2_fin](./PowerBI_Proj2_fin/)
 
-Please click option 'View raw' after clicking on 'Finance_dashboard.pbix' to download the dashboard in your local.
+Please click option 'View raw' after clicking on 'Finance_dashboard.pbix' to download the dashboard in your local, or view the PDF report attached in the project GIT folder.
 
 ## ℹ️ About the Project
 Free dataset sourced online showing country wise data such as certain product types sold, along with the year, months, unit price, units sold, etc.
@@ -24,7 +24,7 @@ Code used to create the dashboard has been attached in a separate file: "Dashboa
 # Project 3: 📉 Power BI Absenteeism at Work Dashboard
 Folder Link [PowerBI_Proj1_absenteeism](./PowerBI_Proj1_absenteeism/) 
 
-Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local.
+Please click option 'View raw' after clicking on 'Absenteeism at work_Dashboard.pbix' to download the dashboard in your local, or view the PDF report attached in the project GIT folder.
 
 ## ℹ️ About the Project
 The analysis done includes creating a new table relationship in Power BI by creating a new master of Reason for absence ID and Reason for absence description. It also includes analysis of which reason is the leading factor contributing to absenteeism at work, along with correlation analysis of factors such as 'Age' and 'Distance from Residence to Work', with total absenteeism in hours for employees.
