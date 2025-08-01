@@ -1,0 +1,23 @@
+New Measures Created:
+----------------------
+
+1) Correlation Coeff  Age and Absenteeism = 
+VAR AvgAge = CALCULATE(AVERAGE('Absenteeism at work'[Age]))
+VAR AvgAbsenteeism = CALCULATE(AVERAGE('Absenteeism at work'[Absenteeism time in hours]))
+
+VAR Numerator = sumx('Absenteeism at work',('Absenteeism at work'[Age] - AvgAge) * ('Absenteeism at work'[Absenteeism time in hours] - AvgAbsenteeism))
+VAR Denominator = SQRT(sumx('Absenteeism at work',('Absenteeism at work'[Age] - AvgAge) ^ 2) * sumx('Absenteeism at work',('Absenteeism at work'[Absenteeism time in hours] - AvgAbsenteeism) ^ 2))
+
+RETURN
+    DIVIDE(Numerator,Denominator,0)
+
+
+2) Correlation Coeff Distance and Absenteeism = 
+VAR AvgDist = CALCULATE(AVERAGE('Absenteeism at work'[Distance from Residence to Work]))
+VAR AvgAbsenteeism = CALCULATE(AVERAGE('Absenteeism at work'[Absenteeism time in hours]))
+
+VAR Numerator = sumx('Absenteeism at work',('Absenteeism at work'[Distance from Residence to Work] - AvgDist) * ('Absenteeism at work'[Absenteeism time in hours] - AvgAbsenteeism))
+VAR Denominator = SQRT(sumx('Absenteeism at work',('Absenteeism at work'[Distance from Residence to Work] - AvgDist) ^ 2) * sumx('Absenteeism at work',('Absenteeism at work'[Absenteeism time in hours] - AvgAbsenteeism) ^ 2))
+
+RETURN
+    DIVIDE(Numerator,Denominator,0)
