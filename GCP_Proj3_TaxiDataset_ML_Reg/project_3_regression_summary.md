@@ -1,6 +1,8 @@
 
 # Project 6: 🚕 Predicting Taxi Tip Amounts using Linear Regression in BigQuery ML
 
+## 📅 Date: 03 August 2025
+
 ## 📌 Objective
 To predict the tip amount of New York yellow taxi rides using a linear regression model in BigQuery ML based on features such as fare amount, trip distance, passenger count, and payment type.
 
