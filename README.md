@@ -68,6 +68,21 @@ A hands-on machine learning project using Google BigQuery ML to classify penguin
     
 ## 📅 Date: 29 July 2025
 
+# Project 6: Predicting Taxi Tip Amounts using Linear Regression in BigQuery ML
+Folder Link [GCP_proj2_Penguin_ML](./GCP_proj2_Penguin_ML/)
+
+## ℹ️ About the Project
+To predict the tip amount of New York yellow taxi rides using a linear regression model in BigQuery ML based on features such as fare amount, trip distance, passenger count, and payment type.
+
+## 📁 Data Source
+- **Source**: `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2018`
+- **Features Used**:
+  - `fare_amount`
+  - `trip_distance`
+  - `passenger_count`
+  - `payment_type`
+- **Target Column**:
+  - `tip_amount`
 
     
 # 👤 Author
