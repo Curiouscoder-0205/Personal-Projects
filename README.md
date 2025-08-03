@@ -66,7 +66,7 @@ A hands-on machine learning project using Google BigQuery ML to classify penguin
   - `sex`, `island`
   - `species` (label)
     
-## 📅 Date: 03 August 2025
+## 📅 Date: 29 July 2025
 
 # Project 6: 🚕 Predicting Taxi Tip Amounts using Linear Regression in BigQuery ML
 Folder Link [GCP_Proj3_TaxiDataset_ML_Reg](./GCP_Proj3_TaxiDataset_ML_Reg/)
@@ -83,6 +83,8 @@ To predict the tip amount of New York yellow taxi rides using a linear regressio
   - `payment_type`
 - **Target Column**:
   - `tip_amount`
+
+## 📅 Date: 03 August 2025
 
     
 # 👤 Author
