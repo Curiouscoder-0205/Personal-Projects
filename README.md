@@ -68,7 +68,7 @@ A hands-on machine learning project using Google BigQuery ML to classify penguin
     
 ## 📅 Date: 29 July 2025
 
-# Project 6: Predicting Taxi Tip Amounts using Linear Regression in BigQuery ML
+# Project 6: 🚕 Predicting Taxi Tip Amounts using Linear Regression in BigQuery ML
 Folder Link [GCP_Proj3_TaxiDataset_ML_Reg](./GCP_Proj3_TaxiDataset_ML_Reg/)
 
 ## ℹ️ About the Project
