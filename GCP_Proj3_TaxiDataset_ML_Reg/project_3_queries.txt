@@ -1,0 +1,100 @@
+
+/*
+SELECT 
+*
+FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2018`
+LIMIT 10;
+*/
+
+--1) Query to preview and filter for valid, positive values
+SELECT 
+  trip_distance,
+  fare_amount,
+  tip_amount,
+  total_amount,
+  passenger_count,
+  payment_type,
+  pickup_datetime,
+  dropoff_datetime
+FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2018`
+WHERE 
+  tip_amount IS NOT NULL
+  AND fare_amount > 0
+  AND trip_distance > 0
+  AND tip_amount >= 0
+  AND passenger_count > 0
+LIMIT 1000;
+
+--2) Creating a Regression Model on 'tip_amount'
+CREATE OR REPLACE MODEL `sahil-project-3-ml-reg.proj3_ml_dataset.tip_prediction_model`
+OPTIONS(
+  model_type = 'linear_reg',
+  input_label_cols = ['tip_amount']
+) AS
+SELECT
+  fare_amount,
+  trip_distance,
+  passenger_count,
+  payment_type,
+  tip_amount
+FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2018`
+WHERE 
+  tip_amount IS NOT NULL
+  AND fare_amount > 0
+  AND trip_distance > 0
+  AND passenger_count > 0
+  AND payment_type IS NOT NULL
+  AND tip_amount >= 0
+  LIMIT 100000;
+
+--3) Predicting tip_amount on unseen data
+SELECT
+  predicted.fare_amount,
+  predicted.trip_distance,
+  predicted.passenger_count,
+  predicted.payment_type,
+  predicted.predicted_tip_amount,
+  predicted.actual_tip_amount
+FROM ML.PREDICT(
+  MODEL `sahil-project-3-ml-reg.proj3_ml_dataset.tip_prediction_model`,
+  (
+    SELECT
+      fare_amount,
+      trip_distance,
+      passenger_count,
+      payment_type,
+      tip_amount AS actual_tip_amount
+    FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2018`
+    WHERE 
+      tip_amount IS NOT NULL
+      AND fare_amount > 0
+      AND trip_distance > 0
+      AND passenger_count > 0
+      AND payment_type IS NOT NULL
+      AND tip_amount >= 0
+      LIMIT 1000 OFFSET 100000
+  )
+) as predicted;
+
+--4) Evaluation Query
+SELECT *
+FROM ML.EVALUATE(
+  MODEL `sahil-project-3-ml-reg.proj3_ml_dataset.tip_prediction_model`,
+  (
+    SELECT
+      fare_amount,
+      trip_distance,
+      passenger_count,
+      payment_type,
+      tip_amount
+    FROM `bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2018`
+    WHERE 
+      tip_amount IS NOT NULL
+      AND tip_amount >= 0
+      AND fare_amount > 0
+      AND trip_distance > 0
+      AND passenger_count > 0
+      AND payment_type IS NOT NULL
+    LIMIT 1000 OFFSET 100000
+  )
+);
