@@ -87,7 +87,7 @@ To predict the tip amount of New York yellow taxi rides using a linear regressio
 ## 📅 Date: 03 August 2025
  
 # Project 7: 🧠 Credit Card Fraud Detection using Vertex AI AutoML
-Folder Link [GCP_Proj3_TaxiDataset_ML_Reg](./GCP_Proj3_TaxiDataset_ML_Reg/)
+Folder Link [GCP_Proj4_Fraud_Detection_AutoML](./GCP_Proj4_Fraud_Detection_AutoML/)
 
 
 ## ℹ️ About the Project
