@@ -38,6 +38,8 @@ Number of Attributes: 21
 Missing Values: 0
 
 # Project 4: 👥 GCP BigQuery and Looker Studio - Workforce Diversity Analysis using Google DEI Dataset
+
+## 📅 Date: 27 July 2025
 Folder Link [GCP_proj1_google_dei](./GCP_proj1_google_dei/)
 
 ## ℹ️ About the Project
@@ -51,9 +53,10 @@ Table: bigquery-public-data.google_dei.full_csv-latest-data-is-2023
 Accessed via: Google Cloud BigQuery Public Datasets Explorer
 https://console.cloud.google.com/ (requires login)
 
-## 📅 Date: 27 July 2025
 
 # Project 5: 🐧 GCP Penguin Species Classification with BigQuery ML
+
+## 📅 Date: 29 July 2025
 Folder Link [GCP_proj2_Penguin_ML](./GCP_proj2_Penguin_ML/)
 
 ## ℹ️ About the Project
@@ -66,9 +69,10 @@ A hands-on machine learning project using Google BigQuery ML to classify penguin
   - `sex`, `island`
   - `species` (label)
     
-## 📅 Date: 29 July 2025
 
 # Project 6: 🚕 Predicting Taxi Tip Amounts using Linear Regression in BigQuery ML
+
+## 📅 Date: 03 August 2025
 Folder Link [GCP_Proj3_TaxiDataset_ML_Reg](./GCP_Proj3_TaxiDataset_ML_Reg/)
 
 ## ℹ️ About the Project
@@ -83,10 +87,11 @@ To predict the tip amount of New York yellow taxi rides using a linear regressio
   - `payment_type`
 - **Target Column**:
   - `tip_amount`
- 
-## 📅 Date: 03 August 2025
+    
  
 # Project 7: 🧠 Credit Card Fraud Detection using Vertex AI AutoML
+
+## 📅 Date: 04 August 2025
 Folder Link [GCP_Proj4_Fraud_Detection_AutoML](./GCP_Proj4_Fraud_Detection_AutoML/)
 
 
@@ -101,8 +106,6 @@ To classify credit card transactions as fraudulent or legitimate using Google Cl
 - **Imported to Vertex AI Dataset**: `fraud_detection_ml`
 - **Target Column**: `Class` (1 = Fraud, 0 = Not Fraud)
 - **Features**: `V1` to `V28`, `Amount`, `Time` (numerical features)
-
-## 📅 Date: 04 August 2025
 
 
 
