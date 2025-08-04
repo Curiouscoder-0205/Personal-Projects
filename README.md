@@ -83,8 +83,27 @@ To predict the tip amount of New York yellow taxi rides using a linear regressio
   - `payment_type`
 - **Target Column**:
   - `tip_amount`
-
+ 
 ## 📅 Date: 03 August 2025
+ 
+# Project 7: 🧠 Credit Card Fraud Detection using Vertex AI AutoML
+Folder Link [GCP_Proj3_TaxiDataset_ML_Reg](./GCP_Proj3_TaxiDataset_ML_Reg/)
+
+
+## ℹ️ About the Project
+To classify credit card transactions as fraudulent or legitimate using Google Cloud Vertex AI AutoML on a public anonymised dataset.
+
+---
+
+## 📁 Data Source
+- **Source**: `bigquery-public-data.ml_datasets.ulb_fraud_detection`
+- **Copied Table**: `sahil-project-4-automl.fraud_detection.ulb_fraud_detection`
+- **Imported to Vertex AI Dataset**: `fraud_detection_ml`
+- **Target Column**: `Class` (1 = Fraud, 0 = Not Fraud)
+- **Features**: `V1` to `V28`, `Amount`, `Time` (numerical features)
+
+## 📅 Date: 04 August 2025
+
 
     
 # 👤 Author
