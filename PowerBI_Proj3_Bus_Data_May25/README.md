@@ -1,7 +1,15 @@
 # 🚍 Bus Service Performance Dashboard – Greater Sydney & Outer Metropolitan
 
-### 📅 Data as on: May 2025  
+###  Data as on: May 2025  
 ### 🔧 Tools Used: BigQuery | Power BI (Online) | DAX | Data Modelling | Visual Analytics
+
+---
+
+## 📁 Data Source: https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data
+
+---
+
+## 📅 Date: 07 August 2025
 
 ---
 
@@ -13,10 +21,6 @@ To analyse and visualise bus performance data for Greater Sydney (GS) and Outer 
 - Passenger Complaints per 100K
 - Driver Vacancies
 - Untracked Trips
-
----
-
-## 📁 Data Source: https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data
 
 ---
 
