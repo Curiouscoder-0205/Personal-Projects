@@ -1,0 +1,81 @@
+
+New Measures
+———————————
+
+AvgDriverVacancies = 
+AVERAGE('BigQuery_Final_Dashboard_Input 2'[Driver Vacancies])
+
+———
+
+MaxDriverVacancies = 
+MAX('BigQuery_Final_Dashboard_Input 2'[Driver Vacancies])
+
+——-
+
+MinDriverVacancies = 
+MIN('BigQuery_Final_Dashboard_Input 2'[Driver Vacancies])
+
+——-
+
+VacancyTarget = 0
+
+———
+
+Correlation_Coefficient = 
+VAR xMean = AVERAGE('BigQuery_Final_Dashboard_Input 2'[Normalized_Complaints_Col])
+VAR yMean = AVERAGE('BigQuery_Final_Dashboard_Input 2'[Normalized_Untracked_Col])
+
+VAR numerator =
+    SUMX(
+        'BigQuery_Final_Dashboard_Input 2',
+        ('BigQuery_Final_Dashboard_Input 2'[Normalized_Complaints_Col] - xMean) *
+        ('BigQuery_Final_Dashboard_Input 2'[Normalized_Untracked_Col] - yMean)
+    )
+
+VAR xStdDev =
+    SQRT(
+        SUMX(
+            'BigQuery_Final_Dashboard_Input 2',
+            POWER('BigQuery_Final_Dashboard_Input 2'[Normalized_Complaints_Col] - xMean, 2)
+        )
+    )
+
+VAR yStdDev =
+    SQRT(
+        SUMX(
+            'BigQuery_Final_Dashboard_Input 2',
+            POWER('BigQuery_Final_Dashboard_Input 2'[Normalized_Untracked_Col] - yMean, 2)
+        )
+    )
+
+RETURN
+    DIVIDE(numerator, xStdDev * yStdDev)
+
+————————————————————
+
+New Columns
+———————————
+
+Normalized_Complaints_Col = 
+DIVIDE(
+    [Complaints per 100K],
+    CALCULATE(
+        MAX('BigQuery_Final_Dashboard_Input 2'[Complaints per 100K]),
+        ALL('BigQuery_Final_Dashboard_Input 2')
+    )
+)
+
+
+————
+
+Normalized_Untracked_Col = 
+DIVIDE(
+    [Untracked Trips],
+    CALCULATE(
+        MAX('BigQuery_Final_Dashboard_Input 2'[Untracked Trips]),
+        ALL('BigQuery_Final_Dashboard_Input 2')
+    )
+)
+
+
+————————————————————

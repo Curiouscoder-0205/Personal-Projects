@@ -1,0 +1,35 @@
+--1) Original Data Preview.
+
+select * from `sahil-project-6-busdatamay25.bus_data.busses_performance_data` limit 10;
+
+--2) Excluding month Jun-25 for both GS and ROM regions, being Placeholder rows.
+
+Create or replace table `sahil-project-6-busdatamay25.bus_data.busses_performance_data_filtered` as
+select * from `sahil-project-6-busdatamay25.bus_data.busses_performance_data`
+where Month <> 'Jun-25';
+
+--3) Interpolating missing values for the months of Jan-25 and Feb-25 for both GS and ROM regions by taking average of Dec-24 and Mar-25 months for each region.
+MERGE `sahil-project-6-busdatamay25.bus_data.busses_performance_data_filtered` T
+USING (
+  SELECT `Region`, AVG(`Complaints per 100K`) AS average_comp_impute
+  FROM `sahil-project-6-busdatamay25.bus_data.busses_performance_data_filtered`
+  WHERE `Month` IN ('Dec-24', 'Mar-25') AND `Complaints per 100K` IS NOT NULL
+  GROUP BY `Region`
+) AS source
+ON T.`Region` = source.`Region`
+   AND T.`Month` IN ('Jan-25', 'Feb-25')
+   AND T.`Complaints per 100K` IS NULL
+WHEN MATCHED THEN
+  UPDATE SET T.`Complaints per 100K` = source.average_comp_impute;
+
+--For consistency in reporting, coverting all ratios back in percentages format, rounded to 3 decimal places, which improves readability in dashboards and aligns with standard KPI formats.
+UPDATE `sahil-project-6-busdatamay25.bus_data.busses_performance_data_filtered`
+SET 
+  `OTR` = ROUND(`OTR`*100, 3),
+  `% of services cancelled` = ROUND(`% of services cancelled`*100, 3),
+  `Untracked trips` = ROUND(`Untracked trips`*100, 3),
+  `Complaints per 100K` = ROUND(`Complaints per 100K`, 3) --only round to 3 decimals, no conversion to percentage
+WHERE TRUE;
+
+--Final Data for Dashboard
+select * from `sahil-project-6-busdatamay25.bus_data.busses_performance_data_filtered`;
