@@ -94,11 +94,9 @@ To predict the tip amount of New York yellow taxi rides using a linear regressio
 ## 📅 Date: 04 August 2025
 Folder Link [GCP_Proj4_Fraud_Detection_AutoML](./GCP_Proj4_Fraud_Detection_AutoML/)
 
-
 ## ℹ️ About the Project
 To classify credit card transactions as fraudulent or legitimate using Google Cloud Vertex AI AutoML on a public anonymised dataset.
 
----
 
 ## 📁 Data Source
 - **Source**: `bigquery-public-data.ml_datasets.ulb_fraud_detection`
@@ -108,6 +106,28 @@ To classify credit card transactions as fraudulent or legitimate using Google Cl
 - **Features**: `V1` to `V28`, `Amount`, `Time` (numerical features)
 
 
+# Project 8: 🚍 Bus Service Performance Dashboard – Greater Sydney & Outer Metropolitan
+
+###  Data as on: May 2025  
+### 🔧 Tools Used: BigQuery | Power BI (Online) | DAX | Data Modelling | Visual Analytics
+
+## 📅 Date: 07 August 2025
+
+Folder Link [PowerBI_Proj3_Bus_Data_May25](./PowerBI_Proj3_Bus_Data_May25/)
+
+Please click option 'View raw' after clicking on 'Bus_Data_Report.pbix' to download the dashboard in your local, or view the PDF report attached in the project GIT folder.
+
+
+## ℹ️  About the Project
+
+To analyse and visualise bus performance data for Greater Sydney (GS) and Outer Metropolitan (ROM) across two financial years (FY24 & FY25), focusing on key performance indicators such as:
+- On-Time Running (OTR)
+- % of Services Cancelled
+- Passenger Complaints per 100K
+- Driver Vacancies
+- Untracked Trips
+
+## 📁 Data Source: https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data
 
     
 # 👤 Author
