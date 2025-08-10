@@ -133,7 +133,7 @@ To analyse and visualise bus performance data for Greater Sydney (GS) and Outer 
 # 🚃 Project 9: Public Transport Trip Forecasting (NSW) — Linear Regression, SARIMA, SARIMAX
 
 ## 📅 Date: 10 August 2025
-Folder Link [PowerBI_Proj3_Bus_Data_May25](./PowerBI_Proj3_Bus_Data_May25/)
+Folder Link [Python_Proj1_ML_OpalAllModes](./Python_Proj1_ML_OpalAllModes/)
 
 ## ℹ️  About the Project
 
