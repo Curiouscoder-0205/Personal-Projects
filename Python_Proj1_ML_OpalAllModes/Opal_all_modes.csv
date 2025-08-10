@@ -1,0 +1,978 @@
+Year_Month,Card Type,Travel_Mode,Trip
+2024-01,Adult,Ferry,504780
+2024-01,Adult,Light Rail,1203585
+2024-01,Adult,Metro,709103
+2024-01,Adult,Train,9987934
+2024-01,Adult,unallocated,5
+2024-01,CTP,Ferry,917501
+2024-01,CTP,Light Rail,1366699
+2024-01,CTP,Metro,513133
+2024-01,CTP,Train,8608350
+2024-01,CTP,unallocated,8
+2024-01,CTP,unallocated,1
+2024-01,Child/Youth,Ferry,175863
+2024-01,Child/Youth,Light Rail,190537
+2024-01,Child/Youth,Metro,154316
+2024-01,Child/Youth,Train,1029984
+2024-01,Child/Youth,unallocated,1
+2024-01,Concession,Ferry,19658
+2024-01,Concession,Light Rail,98008
+2024-01,Concession,Metro,84711
+2024-01,Concession,Train,725147
+2024-01,Day Pass Child/Youth w/o SAF,Ferry,1
+2024-01,Day Pass Child/Youth w/o SAF,Light Rail,8
+2024-01,Day Pass Child/Youth w/o SAF,Train,20
+2024-01,Day Pass without SAF,Ferry,55
+2024-01,Day Pass without SAF,Light Rail,79
+2024-01,Day Pass without SAF,Metro,21
+2024-01,Day Pass without SAF,Train,973
+2024-01,Employee,Ferry,4789
+2024-01,Employee,Light Rail,9363
+2024-01,Employee,Metro,7477
+2024-01,Employee,Train,177193
+2024-01,Free Travel,Ferry,1978
+2024-01,Free Travel,Light Rail,2929
+2024-01,Free Travel,Metro,1198
+2024-01,Free Travel,Train,20322
+2024-01,School Student,Ferry,617
+2024-01,School Student,Light Rail,1350
+2024-01,School Student,Metro,3271
+2024-01,School Student,Train,23876
+2024-01,Senior/Pensioner,Ferry,211877
+2024-01,Senior/Pensioner,Light Rail,402535
+2024-01,Senior/Pensioner,Metro,133445
+2024-01,Senior/Pensioner,Train,2191128
+2024-01,Senior/Pensioner,unallocated,1
+2024-01,Sgl Trip Ferry Adult,Ferry,39508
+2024-01,Sgl Trip Ferry Child/Youth,Ferry,26479
+2024-01,Sgl Trip LR Adult,Light Rail,5101
+2024-01,Sgl Trip LR Child/Youth,Light Rail,3566
+2024-01,Sgl Trip Rail Adult,Metro,4261
+2024-01,Sgl Trip Rail Adult,Train,91416
+2024-01,Sgl Trip Rail Child/Youth,Metro,7488
+2024-01,Sgl Trip Rail Child/Youth,Train,71657
+2024-01,UNKNOWN,Light Rail,9
+2024-01,UNKNOWN,Metro,1
+2024-01,UNKNOWN,Train,12
+2024-02,Adult,Ferry,439623
+2024-02,Adult,Light Rail,1335960
+2024-02,Adult,Metro,829981
+2024-02,Adult,Train,11484876
+2024-02,Adult,unallocated,238
+2024-02,CTP,Ferry,834298
+2024-02,CTP,Light Rail,1563894
+2024-02,CTP,Metro,623196
+2024-02,CTP,Train,10500907
+2024-02,CTP,unallocated,368
+2024-02,Child/Youth,Ferry,62236
+2024-02,Child/Youth,Light Rail,118438
+2024-02,Child/Youth,Metro,94236
+2024-02,Child/Youth,Train,706430
+2024-02,Concession,Ferry,20322
+2024-02,Concession,Light Rail,288205
+2024-02,Concession,Metro,154618
+2024-02,Concession,Train,1277244
+2024-02,Concession,unallocated,12
+2024-02,Day Pass Child/Youth w/o SAF,Train,18
+2024-02,Day Pass without SAF,Ferry,47
+2024-02,Day Pass without SAF,Light Rail,63
+2024-02,Day Pass without SAF,Metro,13
+2024-02,Day Pass without SAF,Train,1160
+2024-02,Employee,Ferry,4007
+2024-02,Employee,Light Rail,8926
+2024-02,Employee,Metro,9141
+2024-02,Employee,Train,254095
+2024-02,Free Travel,Ferry,1665
+2024-02,Free Travel,Light Rail,3092
+2024-02,Free Travel,Metro,1576
+2024-02,Free Travel,Train,25856
+2024-02,School Student,Ferry,10798
+2024-02,School Student,Light Rail,45849
+2024-02,School Student,Metro,182990
+2024-02,School Student,Train,1188297
+2024-02,Senior/Pensioner,Ferry,181934
+2024-02,Senior/Pensioner,Light Rail,392059
+2024-02,Senior/Pensioner,Metro,137363
+2024-02,Senior/Pensioner,Train,2441037
+2024-02,Senior/Pensioner,unallocated,14
+2024-02,Sgl Trip Ferry Adult,Ferry,30418
+2024-02,Sgl Trip Ferry Child/Youth,Ferry,10049
+2024-02,Sgl Trip LR Adult,Light Rail,4725
+2024-02,Sgl Trip LR Child/Youth,Light Rail,1754
+2024-02,Sgl Trip Rail Adult,Metro,4369
+2024-02,Sgl Trip Rail Adult,Train,112429
+2024-02,Sgl Trip Rail Child/Youth,Metro,4234
+2024-02,Sgl Trip Rail Child/Youth,Train,49152
+2024-02,UNKNOWN,Ferry,1
+2024-02,UNKNOWN,Light Rail,15
+2024-02,UNKNOWN,Metro,10
+2024-02,UNKNOWN,Train,86
+2024-03,Adult,Ferry,470129
+2024-03,Adult,Light Rail,1340120
+2024-03,Adult,Metro,810822
+2024-03,Adult,Train,11758264
+2024-03,Adult,unallocated,1
+2024-03,CTP,Ferry,891009
+2024-03,CTP,Light Rail,1611321
+2024-03,CTP,Metro,606473
+2024-03,CTP,Train,10444109
+2024-03,CTP,unallocated,2
+2024-03,Child/Youth,Ferry,69354
+2024-03,Child/Youth,Light Rail,99235
+2024-03,Child/Youth,Metro,73633
+2024-03,Child/Youth,Train,690692
+2024-03,Concession,Ferry,26341
+2024-03,Concession,Light Rail,354611
+2024-03,Concession,Metro,228750
+2024-03,Concession,Train,1766052
+2024-03,Day Pass Child/Youth w/o SAF,Ferry,4
+2024-03,Day Pass Child/Youth w/o SAF,Light Rail,6
+2024-03,Day Pass Child/Youth w/o SAF,Train,124
+2024-03,Day Pass without SAF,Ferry,42
+2024-03,Day Pass without SAF,Light Rail,59
+2024-03,Day Pass without SAF,Metro,5
+2024-03,Day Pass without SAF,Train,933
+2024-03,Employee,Ferry,4336
+2024-03,Employee,Light Rail,9593
+2024-03,Employee,Metro,7752
+2024-03,Employee,Train,181469
+2024-03,Free Travel,Ferry,1878
+2024-03,Free Travel,Light Rail,3421
+2024-03,Free Travel,Metro,1365
+2024-03,Free Travel,Train,23624
+2024-03,School Student,Ferry,10448
+2024-03,School Student,Light Rail,46368
+2024-03,School Student,Metro,163938
+2024-03,School Student,Train,1002825
+2024-03,Senior/Pensioner,Ferry,214787
+2024-03,Senior/Pensioner,Light Rail,453237
+2024-03,Senior/Pensioner,Metro,133696
+2024-03,Senior/Pensioner,Train,2559290
+2024-03,Sgl Trip Ferry Adult,Ferry,24896
+2024-03,Sgl Trip Ferry Child/Youth,Ferry,9172
+2024-03,Sgl Trip LR Adult,Light Rail,2497
+2024-03,Sgl Trip LR Child/Youth,Light Rail,1008
+2024-03,Sgl Trip Rail Adult,Metro,3291
+2024-03,Sgl Trip Rail Adult,Train,78598
+2024-03,Sgl Trip Rail Child/Youth,Metro,2765
+2024-03,Sgl Trip Rail Child/Youth,Train,32569
+2024-03,UNKNOWN,Ferry,11
+2024-03,UNKNOWN,Light Rail,5
+2024-03,UNKNOWN,Metro,1
+2024-03,UNKNOWN,Train,29
+2024-04,Adult,Ferry,411457
+2024-04,Adult,Light Rail,1218202
+2024-04,Adult,Metro,789842
+2024-04,Adult,Train,10638796
+2024-04,Adult,unallocated,3
+2024-04,CTP,Ferry,751418
+2024-04,CTP,Light Rail,1449475
+2024-04,CTP,Metro,593295
+2024-04,CTP,Train,9388176
+2024-04,CTP,unallocated,2
+2024-04,CTP,unallocated,1
+2024-04,Child/Youth,Ferry,113603
+2024-04,Child/Youth,Light Rail,136878
+2024-04,Child/Youth,Metro,118429
+2024-04,Child/Youth,Train,828772
+2024-04,Child/Youth,unallocated,1
+2024-04,Concession,Ferry,22459
+2024-04,Concession,Light Rail,293402
+2024-04,Concession,Metro,169505
+2024-04,Concession,Train,1377700
+2024-04,Day Pass Child/Youth w/o SAF,Ferry,2
+2024-04,Day Pass Child/Youth w/o SAF,Light Rail,5
+2024-04,Day Pass Child/Youth w/o SAF,Train,22
+2024-04,Day Pass without SAF,Ferry,34
+2024-04,Day Pass without SAF,Light Rail,60
+2024-04,Day Pass without SAF,Metro,8
+2024-04,Day Pass without SAF,Train,891
+2024-04,Employee,Ferry,4467
+2024-04,Employee,Light Rail,9309
+2024-04,Employee,Metro,7928
+2024-04,Employee,Train,177176
+2024-04,Employee,unallocated,1
+2024-04,Free Travel,Ferry,1849
+2024-04,Free Travel,Light Rail,3151
+2024-04,Free Travel,Metro,1383
+2024-04,Free Travel,Train,22891
+2024-04,School Student,Ferry,5361
+2024-04,School Student,Light Rail,21274
+2024-04,School Student,Metro,80255
+2024-04,School Student,Train,459445
+2024-04,Senior/Pensioner,Ferry,194839
+2024-04,Senior/Pensioner,Light Rail,400193
+2024-04,Senior/Pensioner,Metro,136296
+2024-04,Senior/Pensioner,Train,2304212
+2024-04,Sgl Trip Ferry Adult,Ferry,22078
+2024-04,Sgl Trip Ferry Child/Youth,Ferry,14294
+2024-04,Sgl Trip LR Adult,Light Rail,2481
+2024-04,Sgl Trip LR Child/Youth,Light Rail,1669
+2024-04,Sgl Trip Rail Adult,Metro,3458
+2024-04,Sgl Trip Rail Adult,Train,66095
+2024-04,Sgl Trip Rail Adult,unallocated,1
+2024-04,Sgl Trip Rail Child/Youth,Metro,5467
+2024-04,Sgl Trip Rail Child/Youth,Train,43686
+2024-04,Sgl Trip Rail Child/Youth,unallocated,1
+2024-04,UNKNOWN,Ferry,1
+2024-04,UNKNOWN,Light Rail,2
+2024-04,UNKNOWN,Metro,4
+2024-04,UNKNOWN,Train,11
+2024-05,Adult,Ferry,336037
+2024-05,Adult,Light Rail,1257739
+2024-05,Adult,Metro,900636
+2024-05,Adult,Train,11827782
+2024-05,Adult,unallocated,115
+2024-05,CTP,Ferry,629255
+2024-05,CTP,Light Rail,1479898
+2024-05,CTP,Metro,683413
+2024-05,CTP,Train,10444363
+2024-05,CTP,unallocated,107
+2024-05,CTP,unallocated,5
+2024-05,Child/Youth,Ferry,41444
+2024-05,Child/Youth,Light Rail,68304
+2024-05,Child/Youth,Metro,71584
+2024-05,Child/Youth,Train,569273
+2024-05,Child/Youth,unallocated,6
+2024-05,Concession,Ferry,20824
+2024-05,Concession,Light Rail,241804
+2024-05,Concession,Metro,209096
+2024-05,Concession,Train,1496935
+2024-05,Concession,unallocated,6
+2024-05,Day Pass Child/Youth w/o SAF,Ferry,102
+2024-05,Day Pass Child/Youth w/o SAF,Light Rail,2
+2024-05,Day Pass Child/Youth w/o SAF,Metro,30
+2024-05,Day Pass Child/Youth w/o SAF,Train,109
+2024-05,Day Pass without SAF,Ferry,33
+2024-05,Day Pass without SAF,Light Rail,52
+2024-05,Day Pass without SAF,Metro,7
+2024-05,Day Pass without SAF,Train,1001
+2024-05,Employee,Ferry,4134
+2024-05,Employee,Light Rail,10532
+2024-05,Employee,Metro,9757
+2024-05,Employee,Train,213322
+2024-05,Employee,unallocated,3
+2024-05,Free Travel,Ferry,1612
+2024-05,Free Travel,Light Rail,3125
+2024-05,Free Travel,Metro,1728
+2024-05,Free Travel,Train,26137
+2024-05,School Student,Ferry,11100
+2024-05,School Student,Light Rail,50457
+2024-05,School Student,Metro,197296
+2024-05,School Student,Train,1132947
+2024-05,Senior/Pensioner,Ferry,173711
+2024-05,Senior/Pensioner,Light Rail,413899
+2024-05,Senior/Pensioner,Metro,149043
+2024-05,Senior/Pensioner,Train,2562626
+2024-05,Senior/Pensioner,unallocated,13
+2024-05,Sgl Trip Ferry Adult,Ferry,15287
+2024-05,Sgl Trip Ferry Child/Youth,Ferry,5858
+2024-05,Sgl Trip LR Adult,Light Rail,2839
+2024-05,Sgl Trip LR Child/Youth,Light Rail,956
+2024-05,Sgl Trip Rail Adult,Metro,3622
+2024-05,Sgl Trip Rail Adult,Train,78277
+2024-05,Sgl Trip Rail Adult,unallocated,3
+2024-05,Sgl Trip Rail Child/Youth,Metro,3859
+2024-05,Sgl Trip Rail Child/Youth,Train,37225
+2024-05,Sgl Trip Rail Child/Youth,unallocated,8
+2024-05,UNKNOWN,Ferry,2
+2024-05,UNKNOWN,Light Rail,1
+2024-05,UNKNOWN,Metro,9
+2024-05,UNKNOWN,Train,36
+2024-06,Adult,Ferry,330366
+2024-06,Adult,Light Rail,1052876
+2024-06,Adult,Metro,770655
+2024-06,Adult,Train,10574002
+2024-06,Adult,unallocated,764
+2024-06,CTP,Ferry,611151
+2024-06,CTP,Light Rail,1227583
+2024-06,CTP,Metro,572790
+2024-06,CTP,Train,9451589
+2024-06,CTP,unallocated,1119
+2024-06,Child/Youth,Ferry,65674
+2024-06,Child/Youth,Light Rail,84467
+2024-06,Child/Youth,Metro,83303
+2024-06,Child/Youth,Train,664207
+2024-06,Child/Youth,unallocated,59
+2024-06,Concession,Ferry,19924
+2024-06,Concession,Light Rail,278188
+2024-06,Concession,Metro,131769
+2024-06,Concession,Train,1155520
+2024-06,Concession,unallocated,45
+2024-06,Day Pass Child/Youth w/o SAF,Ferry,112
+2024-06,Day Pass Child/Youth w/o SAF,Light Rail,2
+2024-06,Day Pass Child/Youth w/o SAF,Train,212
+2024-06,Day Pass without SAF,Ferry,44
+2024-06,Day Pass without SAF,Light Rail,40
+2024-06,Day Pass without SAF,Metro,18
+2024-06,Day Pass without SAF,Train,973
+2024-06,Employee,Ferry,4067
+2024-06,Employee,Light Rail,8895
+2024-06,Employee,Metro,9027
+2024-06,Employee,Train,196785
+2024-06,Employee,unallocated,5
+2024-06,Free Travel,Ferry,1591
+2024-06,Free Travel,Light Rail,2838
+2024-06,Free Travel,Metro,1629
+2024-06,Free Travel,Train,22924
+2024-06,School Student,Ferry,9108
+2024-06,School Student,Light Rail,33214
+2024-06,School Student,Metro,161338
+2024-06,School Student,Train,898900
+2024-06,Senior/Pensioner,Ferry,161244
+2024-06,Senior/Pensioner,Light Rail,357834
+2024-06,Senior/Pensioner,Metro,140630
+2024-06,Senior/Pensioner,Train,2353296
+2024-06,Senior/Pensioner,unallocated,143
+2024-06,Sgl Trip Ferry Adult,Ferry,17839
+2024-06,Sgl Trip Ferry Child/Youth,Ferry,10608
+2024-06,Sgl Trip LR Adult,Light Rail,2755
+2024-06,Sgl Trip LR Child/Youth,Light Rail,1452
+2024-06,Sgl Trip Rail Adult,Metro,3274
+2024-06,Sgl Trip Rail Adult,Train,73843
+2024-06,Sgl Trip Rail Adult,unallocated,1
+2024-06,Sgl Trip Rail Child/Youth,Metro,4283
+2024-06,Sgl Trip Rail Child/Youth,Train,45412
+2024-06,UNKNOWN,Light Rail,3
+2024-06,UNKNOWN,Metro,4
+2024-06,UNKNOWN,Train,38
+2024-07,Adult,Ferry,357638
+2024-07,Adult,Light Rail,1100200
+2024-07,Adult,Metro,898838
+2024-07,Adult,Train,11385442
+2024-07,Adult,unallocated,11
+2024-07,CTP,Ferry,626330
+2024-07,CTP,Light Rail,1284484
+2024-07,CTP,Metro,662592
+2024-07,CTP,Train,9888196
+2024-07,CTP,unallocated,48
+2024-07,CTP,unallocated,33
+2024-07,Child/Youth,Ferry,111562
+2024-07,Child/Youth,Light Rail,140926
+2024-07,Child/Youth,Metro,141515
+2024-07,Child/Youth,Train,902308
+2024-07,Child/Youth,unallocated,4
+2024-07,Concession,Ferry,18954
+2024-07,Concession,Light Rail,275262
+2024-07,Concession,Metro,152228
+2024-07,Concession,Train,1197585
+2024-07,Concession,unallocated,1
+2024-07,Day Pass Child/Youth w/o SAF,Ferry,78
+2024-07,Day Pass Child/Youth w/o SAF,Light Rail,7
+2024-07,Day Pass Child/Youth w/o SAF,Metro,0
+2024-07,Day Pass Child/Youth w/o SAF,Train,186
+2024-07,Day Pass without SAF,Ferry,25
+2024-07,Day Pass without SAF,Light Rail,55
+2024-07,Day Pass without SAF,Metro,24
+2024-07,Day Pass without SAF,Train,984
+2024-07,Employee,Ferry,4233
+2024-07,Employee,Light Rail,9145
+2024-07,Employee,Metro,9940
+2024-07,Employee,Train,208330
+2024-07,Employee,unallocated,1
+2024-07,Free Travel,Ferry,1657
+2024-07,Free Travel,Light Rail,3044
+2024-07,Free Travel,Metro,1852
+2024-07,Free Travel,Train,25043
+2024-07,School Student,Ferry,4509
+2024-07,School Student,Light Rail,17881
+2024-07,School Student,Metro,92863
+2024-07,School Student,Train,519948
+2024-07,Senior/Pensioner,Ferry,167782
+2024-07,Senior/Pensioner,Light Rail,361049
+2024-07,Senior/Pensioner,Metro,161337
+2024-07,Senior/Pensioner,Train,2510732
+2024-07,Sgl Trip Ferry Adult,Ferry,23301
+2024-07,Sgl Trip Ferry Child/Youth,Ferry,17148
+2024-07,Sgl Trip LR Adult,Light Rail,3694
+2024-07,Sgl Trip LR Child/Youth,Light Rail,2635
+2024-07,Sgl Trip Rail Adult,Metro,4292
+2024-07,Sgl Trip Rail Adult,Train,79468
+2024-07,Sgl Trip Rail Child/Youth,Metro,7534
+2024-07,Sgl Trip Rail Child/Youth,Train,61688
+2024-07,UNKNOWN,Train,21
+2024-08,Adult,Ferry,349477
+2024-08,Adult,Light Rail,1260117
+2024-08,Adult,Metro,1512432
+2024-08,Adult,Train,11481722
+2024-08,Adult,unallocated,154
+2024-08,CTP,Ferry,634870
+2024-08,CTP,Light Rail,1480674
+2024-08,CTP,Metro,1368348
+2024-08,CTP,Train,10086640
+2024-08,CTP,unallocated,199
+2024-08,Child/Youth,Ferry,62402
+2024-08,Child/Youth,Light Rail,101342
+2024-08,Child/Youth,Metro,148759
+2024-08,Child/Youth,Train,624061
+2024-08,Child/Youth,unallocated,4
+2024-08,Concession,Ferry,22806
+2024-08,Concession,Light Rail,235255
+2024-08,Concession,Metro,337093
+2024-08,Concession,Train,1610126
+2024-08,Concession,unallocated,3
+2024-08,Day Pass Child/Youth w/o SAF,Ferry,58
+2024-08,Day Pass Child/Youth w/o SAF,Light Rail,17
+2024-08,Day Pass Child/Youth w/o SAF,Metro,2
+2024-08,Day Pass Child/Youth w/o SAF,Train,292
+2024-08,Day Pass without SAF,Ferry,47
+2024-08,Day Pass without SAF,Light Rail,72
+2024-08,Day Pass without SAF,Metro,30
+2024-08,Day Pass without SAF,Train,950
+2024-08,Employee,Ferry,4138
+2024-08,Employee,Light Rail,10620
+2024-08,Employee,Metro,20885
+2024-08,Employee,Train,196368
+2024-08,Employee,unallocated,2
+2024-08,Free Travel,Ferry,1685
+2024-08,Free Travel,Light Rail,3400
+2024-08,Free Travel,Metro,4028
+2024-08,Free Travel,Train,24387
+2024-08,School Student,Ferry,9871
+2024-08,School Student,Light Rail,38693
+2024-08,School Student,Metro,227581
+2024-08,School Student,Train,998260
+2024-08,Senior/Pensioner,Ferry,169077
+2024-08,Senior/Pensioner,Light Rail,417293
+2024-08,Senior/Pensioner,Metro,353789
+2024-08,Senior/Pensioner,Train,2579462
+2024-08,Senior/Pensioner,unallocated,13
+2024-08,Sgl Trip Ferry Adult,Ferry,16109
+2024-08,Sgl Trip Ferry Child/Youth,Ferry,7979
+2024-08,Sgl Trip LR Adult,Light Rail,2731
+2024-08,Sgl Trip LR Child/Youth,Light Rail,1485
+2024-08,Sgl Trip Rail Adult,Metro,5849
+2024-08,Sgl Trip Rail Adult,Train,63787
+2024-08,Sgl Trip Rail Child/Youth,Metro,7242
+2024-08,Sgl Trip Rail Child/Youth,Train,33100
+2024-08,UNKNOWN,Light Rail,2
+2024-08,UNKNOWN,Train,31
+2024-09,Adult,Ferry,356958
+2024-09,Adult,Light Rail,1193342
+2024-09,Adult,Metro,2029469
+2024-09,Adult,Train,10016346
+2024-09,CTP,Ferry,717064
+2024-09,CTP,Light Rail,1449581
+2024-09,CTP,Metro,2007267
+2024-09,CTP,Train,8937715
+2024-09,Child/Youth,Ferry,66374
+2024-09,Child/Youth,Light Rail,88194
+2024-09,Child/Youth,Metro,169783
+2024-09,Child/Youth,Train,520070
+2024-09,Concession,Ferry,23311
+2024-09,Concession,Light Rail,304405
+2024-09,Concession,Metro,381271
+2024-09,Concession,Train,1372020
+2024-09,Day Pass Child/Youth w/o SAF,Ferry,79
+2024-09,Day Pass Child/Youth w/o SAF,Metro,6
+2024-09,Day Pass Child/Youth w/o SAF,Train,52
+2024-09,Day Pass without SAF,Ferry,66
+2024-09,Day Pass without SAF,Light Rail,62
+2024-09,Day Pass without SAF,Metro,57
+2024-09,Day Pass without SAF,Train,888
+2024-09,Employee,Ferry,4569
+2024-09,Employee,Light Rail,9998
+2024-09,Employee,Metro,28850
+2024-09,Employee,Train,185314
+2024-09,Free Travel,Ferry,1865
+2024-09,Free Travel,Light Rail,3166
+2024-09,Free Travel,Metro,5108
+2024-09,Free Travel,Train,22195
+2024-09,School Student,Ferry,11006
+2024-09,School Student,Light Rail,35707
+2024-09,School Student,Metro,257905
+2024-09,School Student,Train,875958
+2024-09,Senior/Pensioner,Ferry,176017
+2024-09,Senior/Pensioner,Light Rail,390601
+2024-09,Senior/Pensioner,Metro,430972
+2024-09,Senior/Pensioner,Train,2318551
+2024-09,Sgl Trip Ferry Adult,Ferry,19548
+2024-09,Sgl Trip Ferry Child/Youth,Ferry,10318
+2024-09,Sgl Trip LR Adult,Light Rail,2841
+2024-09,Sgl Trip LR Child/Youth,Light Rail,1408
+2024-09,Sgl Trip Rail Adult,Metro,9012
+2024-09,Sgl Trip Rail Adult,Train,66721
+2024-09,Sgl Trip Rail Child/Youth,Metro,9708
+2024-09,Sgl Trip Rail Child/Youth,Train,34763
+2024-09,UNKNOWN,Ferry,5
+2024-09,UNKNOWN,Light Rail,1
+2024-09,UNKNOWN,Metro,2
+2024-09,UNKNOWN,Train,17
+2024-10,Adult,Ferry,407155
+2024-10,Adult,Light Rail,1302743
+2024-10,Adult,Metro,2267016
+2024-10,Adult,Train,10596772
+2024-10,CTP,Ferry,781771
+2024-10,CTP,Light Rail,1565559
+2024-10,CTP,Metro,2222538
+2024-10,CTP,Train,9612373
+2024-10,Child/Youth,Ferry,103091
+2024-10,Child/Youth,Light Rail,118659
+2024-10,Child/Youth,Metro,246132
+2024-10,Child/Youth,Train,775047
+2024-10,Concession,Ferry,24104
+2024-10,Concession,Light Rail,320872
+2024-10,Concession,Metro,418713
+2024-10,Concession,Train,1362044
+2024-10,Day Pass Child/Youth w/o SAF,Ferry,71
+2024-10,Day Pass Child/Youth w/o SAF,Light Rail,8
+2024-10,Day Pass Child/Youth w/o SAF,Train,141
+2024-10,Day Pass without SAF,Ferry,89
+2024-10,Day Pass without SAF,Light Rail,90
+2024-10,Day Pass without SAF,Metro,73
+2024-10,Day Pass without SAF,Train,1046
+2024-10,Employee,Ferry,4948
+2024-10,Employee,Light Rail,11758
+2024-10,Employee,Metro,30211
+2024-10,Employee,Train,194296
+2024-10,Free Travel,Ferry,2107
+2024-10,Free Travel,Light Rail,3325
+2024-10,Free Travel,Metro,4899
+2024-10,Free Travel,Train,22987
+2024-10,School Student,Ferry,6100
+2024-10,School Student,Light Rail,22489
+2024-10,School Student,Metro,168292
+2024-10,School Student,Train,559172
+2024-10,Senior/Pensioner,Ferry,198047
+2024-10,Senior/Pensioner,Light Rail,435406
+2024-10,Senior/Pensioner,Metro,440239
+2024-10,Senior/Pensioner,Train,2475871
+2024-10,Sgl Trip Ferry Adult,Ferry,21245
+2024-10,Sgl Trip Ferry Child/Youth,Ferry,11816
+2024-10,Sgl Trip LR Adult,Light Rail,2864
+2024-10,Sgl Trip LR Child/Youth,Light Rail,1581
+2024-10,Sgl Trip Rail Adult,Metro,10045
+2024-10,Sgl Trip Rail Adult,Train,70787
+2024-10,Sgl Trip Rail Child/Youth,Metro,13038
+2024-10,Sgl Trip Rail Child/Youth,Train,43731
+2024-10,UNKNOWN,Ferry,2
+2024-10,UNKNOWN,Light Rail,1
+2024-10,UNKNOWN,Metro,4
+2024-10,UNKNOWN,Train,11
+2024-11,Adult,Ferry,371285
+2024-11,Adult,Light Rail,957797
+2024-11,Adult,Metro,2109889
+2024-11,Adult,Train,10165477
+2024-11,Adult,unallocated,398
+2024-11,Adult,unallocated,1
+2024-11,CTP,Ferry,844069
+2024-11,CTP,Light Rail,1242668
+2024-11,CTP,Metro,2172315
+2024-11,CTP,Train,9630079
+2024-11,CTP,unallocated,619
+2024-11,Child/Youth,Ferry,58347
+2024-11,Child/Youth,Light Rail,63913
+2024-11,Child/Youth,Metro,169250
+2024-11,Child/Youth,Train,579341
+2024-11,Child/Youth,unallocated,6
+2024-11,Concession,Ferry,21143
+2024-11,Concession,Light Rail,183383
+2024-11,Concession,Metro,298336
+2024-11,Concession,Train,1043357
+2024-11,Concession,unallocated,28
+2024-11,Day Pass Child/Youth w/o SAF,Light Rail,1
+2024-11,Day Pass Child/Youth w/o SAF,Train,53
+2024-11,Day Pass without SAF,Ferry,23
+2024-11,Day Pass without SAF,Light Rail,43
+2024-11,Day Pass without SAF,Metro,31
+2024-11,Day Pass without SAF,Train,931
+2024-11,Employee,Ferry,4590
+2024-11,Employee,Light Rail,8571
+2024-11,Employee,Metro,28927
+2024-11,Employee,Train,193889
+2024-11,Employee,unallocated,4
+2024-11,Free Travel,Ferry,1981
+2024-11,Free Travel,Light Rail,2734
+2024-11,Free Travel,Metro,4957
+2024-11,Free Travel,Train,23476
+2024-11,School Student,Ferry,10709
+2024-11,School Student,Light Rail,26552
+2024-11,School Student,Metro,254246
+2024-11,School Student,Train,836518
+2024-11,Senior/Pensioner,Ferry,186231
+2024-11,Senior/Pensioner,Light Rail,333506
+2024-11,Senior/Pensioner,Metro,404726
+2024-11,Senior/Pensioner,Train,2392114
+2024-11,Senior/Pensioner,unallocated,50
+2024-11,Sgl Trip Ferry Adult,Ferry,22699
+2024-11,Sgl Trip Ferry Child/Youth,Ferry,7430
+2024-11,Sgl Trip LR Adult,Light Rail,2812
+2024-11,Sgl Trip LR Child/Youth,Light Rail,1020
+2024-11,Sgl Trip Rail Adult,Metro,10607
+2024-11,Sgl Trip Rail Adult,Train,82119
+2024-11,Sgl Trip Rail Child/Youth,Metro,9592
+2024-11,Sgl Trip Rail Child/Youth,Train,37052
+2024-11,UNKNOWN,Train,10
+2024-12,Adult,Ferry,437430
+2024-12,Adult,Light Rail,1140868
+2024-12,Adult,Metro,2015731
+2024-12,Adult,Train,8838631
+2024-12,CTP,Ferry,996657
+2024-12,CTP,Light Rail,1557509
+2024-12,CTP,Metro,2130228
+2024-12,CTP,Train,8537193
+2024-12,Child/Youth,Ferry,114655
+2024-12,Child/Youth,Light Rail,133172
+2024-12,Child/Youth,Metro,260684
+2024-12,Child/Youth,Train,730178
+2024-12,Concession,Ferry,23961
+2024-12,Concession,Light Rail,110511
+2024-12,Concession,Metro,243106
+2024-12,Concession,Train,758378
+2024-12,Day Pass Child/Youth w/o SAF,Ferry,37
+2024-12,Day Pass Child/Youth w/o SAF,Light Rail,22
+2024-12,Day Pass Child/Youth w/o SAF,Metro,78
+2024-12,Day Pass Child/Youth w/o SAF,Train,76
+2024-12,Day Pass without SAF,Ferry,55
+2024-12,Day Pass without SAF,Light Rail,49
+2024-12,Day Pass without SAF,Metro,68
+2024-12,Day Pass without SAF,Train,755
+2024-12,Employee,Ferry,5407
+2024-12,Employee,Light Rail,11936
+2024-12,Employee,Metro,38795
+2024-12,Employee,Train,181763
+2024-12,Free Travel,Ferry,1934
+2024-12,Free Travel,Light Rail,3124
+2024-12,Free Travel,Metro,4778
+2024-12,Free Travel,Train,20655
+2024-12,School Student,Ferry,9242
+2024-12,School Student,Light Rail,18416
+2024-12,School Student,Metro,129447
+2024-12,School Student,Train,393694
+2024-12,Senior/Pensioner,Ferry,196891
+2024-12,Senior/Pensioner,Light Rail,427150
+2024-12,Senior/Pensioner,Metro,441009
+2024-12,Senior/Pensioner,Train,2239759
+2024-12,Sgl Trip Ferry Adult,Ferry,37819
+2024-12,Sgl Trip Ferry Child/Youth,Ferry,21888
+2024-12,Sgl Trip LR Adult,Light Rail,5375
+2024-12,Sgl Trip LR Child/Youth,Light Rail,3065
+2024-12,Sgl Trip Rail Adult,Metro,15169
+2024-12,Sgl Trip Rail Adult,Train,86549
+2024-12,Sgl Trip Rail Child/Youth,Metro,19399
+2024-12,Sgl Trip Rail Child/Youth,Train,57689
+2024-12,UNKNOWN,Ferry,2
+2024-12,UNKNOWN,Light Rail,4
+2024-12,UNKNOWN,Metro,1
+2025-01,Adult,Ferry,429857
+2025-01,Adult,Light Rail,1086031
+2025-01,Adult,Metro,1981563
+2025-01,Adult,Train,8097186
+2025-01,CTP,Ferry,919793
+2025-01,CTP,Light Rail,1409516
+2025-01,CTP,Metro,1811239
+2025-01,CTP,Train,6978741
+2025-01,Child/Youth,Ferry,156030
+2025-01,Child/Youth,Light Rail,176312
+2025-01,Child/Youth,Metro,311132
+2025-01,Child/Youth,Train,849338
+2025-01,Concession,Ferry,20516
+2025-01,Concession,Light Rail,98553
+2025-01,Concession,Metro,231009
+2025-01,Concession,Train,661709
+2025-01,Day Pass Child/Youth w/o SAF,Metro,0
+2025-01,Day Pass Child/Youth w/o SAF,Train,7
+2025-01,Day Pass without SAF,Ferry,39
+2025-01,Day Pass without SAF,Light Rail,68
+2025-01,Day Pass without SAF,Metro,36
+2025-01,Day Pass without SAF,Train,731
+2025-01,Employee,Ferry,5750
+2025-01,Employee,Light Rail,10855
+2025-01,Employee,Metro,35806
+2025-01,Employee,Train,166598
+2025-01,Free Travel,Ferry,2041
+2025-01,Free Travel,Light Rail,3140
+2025-01,Free Travel,Metro,4945
+2025-01,Free Travel,Train,19362
+2025-01,School Student,Ferry,236
+2025-01,School Student,Light Rail,425
+2025-01,School Student,Metro,3251
+2025-01,School Student,Train,9193
+2025-01,Senior/Pensioner,Ferry,201875
+2025-01,Senior/Pensioner,Light Rail,422803
+2025-01,Senior/Pensioner,Metro,421351
+2025-01,Senior/Pensioner,Train,2051943
+2025-01,Sgl Trip Ferry Adult,Ferry,37493
+2025-01,Sgl Trip Ferry Child/Youth,Ferry,25159
+2025-01,Sgl Trip LR Adult,Light Rail,5189
+2025-01,Sgl Trip LR Child/Youth,Light Rail,3622
+2025-01,Sgl Trip Rail Adult,Metro,12597
+2025-01,Sgl Trip Rail Adult,Train,72830
+2025-01,Sgl Trip Rail Child/Youth,Metro,19201
+2025-01,Sgl Trip Rail Child/Youth,Train,62293
+2025-01,UNKNOWN,Ferry,5
+2025-01,UNKNOWN,Light Rail,6
+2025-02,Adult,Ferry,368663
+2025-02,Adult,Light Rail,1074969
+2025-02,Adult,Metro,2142894
+2025-02,Adult,Train,8659020
+2025-02,Adult,unallocated,166
+2025-02,CTP,Ferry,872170
+2025-02,CTP,Light Rail,1534884
+2025-02,CTP,Metro,2273180
+2025-02,CTP,Train,8529705
+2025-02,CTP,unallocated,322
+2025-02,Child/Youth,Ferry,59667
+2025-02,Child/Youth,Light Rail,97046
+2025-02,Child/Youth,Metro,201794
+2025-02,Child/Youth,Train,584829
+2025-02,Child/Youth,unallocated,3
+2025-02,Concession,Ferry,23535
+2025-02,Concession,Light Rail,263160
+2025-02,Concession,Metro,348216
+2025-02,Concession,Train,1060230
+2025-02,Concession,unallocated,12
+2025-02,Day Pass Child/Youth w/o SAF,Ferry,1
+2025-02,Day Pass Child/Youth w/o SAF,Light Rail,20
+2025-02,Day Pass Child/Youth w/o SAF,Metro,1
+2025-02,Day Pass Child/Youth w/o SAF,Train,42
+2025-02,Day Pass without SAF,Ferry,27
+2025-02,Day Pass without SAF,Light Rail,66
+2025-02,Day Pass without SAF,Metro,39
+2025-02,Day Pass without SAF,Train,821
+2025-02,Employee,Ferry,4895
+2025-02,Employee,Light Rail,9654
+2025-02,Employee,Metro,35907
+2025-02,Employee,Train,168981
+2025-02,Free Travel,Ferry,2025
+2025-02,Free Travel,Light Rail,2756
+2025-02,Free Travel,Metro,5066
+2025-02,Free Travel,Train,20717
+2025-02,School Student,Ferry,10682
+2025-02,School Student,Light Rail,42277
+2025-02,School Student,Metro,266061
+2025-02,School Student,Train,822991
+2025-02,Senior/Pensioner,Ferry,191282
+2025-02,Senior/Pensioner,Light Rail,378080
+2025-02,Senior/Pensioner,Metro,410837
+2025-02,Senior/Pensioner,Train,2077386
+2025-02,Senior/Pensioner,unallocated,18
+2025-02,Sgl Trip Ferry Adult,Ferry,24140
+2025-02,Sgl Trip Ferry Child/Youth,Ferry,7517
+2025-02,Sgl Trip LR Adult,Light Rail,3595
+2025-02,Sgl Trip LR Child/Youth,Light Rail,1146
+2025-02,Sgl Trip Rail Adult,Metro,10521
+2025-02,Sgl Trip Rail Adult,Train,68995
+2025-02,Sgl Trip Rail Child/Youth,Metro,9833
+2025-02,Sgl Trip Rail Child/Youth,Train,34465
+2025-02,UNKNOWN,Ferry,25
+2025-02,UNKNOWN,Light Rail,11
+2025-02,UNKNOWN,Metro,0
+2025-02,UNKNOWN,Train,9
+2025-03,Adult,Ferry,364936
+2025-03,Adult,Light Rail,1358730
+2025-03,Adult,Metro,2282889
+2025-03,Adult,Train,9843167
+2025-03,Adult,unallocated,917
+2025-03,CTP,Ferry,894161
+2025-03,CTP,Light Rail,1835597
+2025-03,CTP,Metro,2446439
+2025-03,CTP,Train,9855812
+2025-03,CTP,unallocated,1760
+2025-03,Child/Youth,Ferry,49764
+2025-03,Child/Youth,Light Rail,99044
+2025-03,Child/Youth,Metro,193432
+2025-03,Child/Youth,Train,566076
+2025-03,Child/Youth,unallocated,23
+2025-03,Concession,Ferry,28318
+2025-03,Concession,Light Rail,413970
+2025-03,Concession,Metro,549669
+2025-03,Concession,Train,1680009
+2025-03,Concession,unallocated,45
+2025-03,Day Pass Child/Youth w/o SAF,Light Rail,108
+2025-03,Day Pass Child/Youth w/o SAF,Train,232
+2025-03,Day Pass without SAF,Ferry,36
+2025-03,Day Pass without SAF,Light Rail,83
+2025-03,Day Pass without SAF,Metro,55
+2025-03,Day Pass without SAF,Train,914
+2025-03,Employee,Ferry,4666
+2025-03,Employee,Light Rail,13627
+2025-03,Employee,Metro,37533
+2025-03,Employee,Train,189402
+2025-03,Employee,unallocated,7
+2025-03,Free Travel,Ferry,1902
+2025-03,Free Travel,Light Rail,3827
+2025-03,Free Travel,Metro,5192
+2025-03,Free Travel,Train,23511
+2025-03,Free Travel,unallocated,1
+2025-03,School Student,Ferry,11278
+2025-03,School Student,Light Rail,56099
+2025-03,School Student,Metro,304106
+2025-03,School Student,Train,968534
+2025-03,Senior/Pensioner,Ferry,191062
+2025-03,Senior/Pensioner,Light Rail,495790
+2025-03,Senior/Pensioner,Metro,426496
+2025-03,Senior/Pensioner,Train,2352836
+2025-03,Senior/Pensioner,unallocated,178
+2025-03,Sgl Trip Ferry Adult,Ferry,23756
+2025-03,Sgl Trip Ferry Child/Youth,Ferry,7662
+2025-03,Sgl Trip LR Adult,Light Rail,3415
+2025-03,Sgl Trip LR Child/Youth,Light Rail,1389
+2025-03,Sgl Trip Rail Adult,Metro,10763
+2025-03,Sgl Trip Rail Adult,Train,71397
+2025-03,Sgl Trip Rail Child/Youth,Metro,11119
+2025-03,Sgl Trip Rail Child/Youth,Train,37431
+2025-03,UNKNOWN,Light Rail,3
+2025-03,UNKNOWN,Train,21
+2025-04,Adult,Ferry,383984
+2025-04,Adult,Light Rail,1277036
+2025-04,Adult,Metro,2171254
+2025-04,Adult,Train,8918142
+2025-04,Adult,unallocated,80
+2025-04,CTP,Ferry,888334
+2025-04,CTP,Light Rail,1712425
+2025-04,CTP,Metro,2347273
+2025-04,CTP,Train,8956757
+2025-04,CTP,unallocated,143
+2025-04,Child/Youth,Ferry,108549
+2025-04,Child/Youth,Light Rail,155201
+2025-04,Child/Youth,Metro,270591
+2025-04,Child/Youth,Train,754266
+2025-04,Child/Youth,unallocated,2
+2025-04,Concession,Ferry,27304
+2025-04,Concession,Light Rail,359765
+2025-04,Concession,Metro,445976
+2025-04,Concession,Train,1357001
+2025-04,Concession,unallocated,6
+2025-04,Day Pass Child/Youth w/o SAF,Ferry,1
+2025-04,Day Pass Child/Youth w/o SAF,Light Rail,4
+2025-04,Day Pass Child/Youth w/o SAF,Metro,8
+2025-04,Day Pass Child/Youth w/o SAF,Train,34
+2025-04,Day Pass without SAF,Ferry,43
+2025-04,Day Pass without SAF,Light Rail,65
+2025-04,Day Pass without SAF,Metro,49
+2025-04,Day Pass without SAF,Train,879
+2025-04,Employee,Ferry,5030
+2025-04,Employee,Light Rail,13239
+2025-04,Employee,Metro,33869
+2025-04,Employee,Train,171511
+2025-04,Free Travel,Ferry,1909
+2025-04,Free Travel,Light Rail,3642
+2025-04,Free Travel,Metro,5019
+2025-04,Free Travel,Train,21354
+2025-04,School Student,Ferry,5962
+2025-04,School Student,Light Rail,28341
+2025-04,School Student,Metro,156143
+2025-04,School Student,Train,464741
+2025-04,Senior/Pensioner,Ferry,193977
+2025-04,Senior/Pensioner,Light Rail,471963
+2025-04,Senior/Pensioner,Metro,433086
+2025-04,Senior/Pensioner,Train,2231550
+2025-04,Senior/Pensioner,unallocated,11
+2025-04,Sgl Trip Ferry Adult,Ferry,27585
+2025-04,Sgl Trip Ferry Child/Youth,Ferry,18369
+2025-04,Sgl Trip LR Adult,Light Rail,3993
+2025-04,Sgl Trip LR Child/Youth,Light Rail,2679
+2025-04,Sgl Trip Rail Adult,Metro,10902
+2025-04,Sgl Trip Rail Adult,Train,68925
+2025-04,Sgl Trip Rail Child/Youth,Metro,15382
+2025-04,Sgl Trip Rail Child/Youth,Train,54466
+2025-04,UNKNOWN,Ferry,12
+2025-04,UNKNOWN,Light Rail,8
+2025-04,UNKNOWN,Train,3
+2025-05,Adult,Ferry,316723
+2025-05,Adult,Light Rail,1278219
+2025-05,Adult,Metro,2324760
+2025-05,Adult,Train,9280020
+2025-05,Adult,unallocated,926
+2025-05,CTP,Ferry,730003
+2025-05,CTP,Light Rail,1673145
+2025-05,CTP,Metro,2522542
+2025-05,CTP,Train,9350006
+2025-05,CTP,unallocated,1463
+2025-05,Child/Youth,Ferry,47279
+2025-05,Child/Youth,Light Rail,89448
+2025-05,Child/Youth,Metro,181455
+2025-05,Child/Youth,Train,522978
+2025-05,Child/Youth,unallocated,47
+2025-05,Concession,Ferry,23770
+2025-05,Concession,Light Rail,236907
+2025-05,Concession,Metro,463310
+2025-05,Concession,Train,1325389
+2025-05,Concession,unallocated,37
+2025-05,Day Pass Child/Youth w/o SAF,Ferry,121
+2025-05,Day Pass Child/Youth w/o SAF,Light Rail,85
+2025-05,Day Pass Child/Youth w/o SAF,Metro,1
+2025-05,Day Pass Child/Youth w/o SAF,Train,92
+2025-05,Day Pass without SAF,Ferry,28
+2025-05,Day Pass without SAF,Light Rail,99
+2025-05,Day Pass without SAF,Metro,57
+2025-05,Day Pass without SAF,Train,800
+2025-05,Employee,Ferry,4519
+2025-05,Employee,Light Rail,13878
+2025-05,Employee,Metro,38622
+2025-05,Employee,Train,177862
+2025-05,Employee,unallocated,13
+2025-05,Free Travel,Ferry,1672
+2025-05,Free Travel,Light Rail,3707
+2025-05,Free Travel,Metro,5288
+2025-05,Free Travel,Train,21318
+2025-05,Free Travel,unallocated,1
+2025-05,School Student,Ferry,10883
+2025-05,School Student,Light Rail,56535
+2025-05,School Student,Metro,314371
+2025-05,School Student,Train,892328
+2025-05,Senior/Pensioner,Ferry,171890
+2025-05,Senior/Pensioner,Light Rail,480618
+2025-05,Senior/Pensioner,Metro,437016
+2025-05,Senior/Pensioner,Train,2274866
+2025-05,Senior/Pensioner,unallocated,173
+2025-05,Sgl Trip Ferry Adult,Ferry,13618
+2025-05,Sgl Trip Ferry Child/Youth,Ferry,5286
+2025-05,Sgl Trip LR Adult,Light Rail,2514
+2025-05,Sgl Trip LR Child/Youth,Light Rail,972
+2025-05,Sgl Trip Rail Adult,Metro,9393
+2025-05,Sgl Trip Rail Adult,Train,56811
+2025-05,Sgl Trip Rail Child/Youth,Metro,11218
+2025-05,Sgl Trip Rail Child/Youth,Train,32377
+2025-05,UNKNOWN,Train,1
+2025-06,Adult,Ferry,309133
+2025-06,Adult,Light Rail,1208083
+2025-06,Adult,Metro,2274810
+2025-06,Adult,Train,9108027
+2025-06,CTP,Ferry,707681
+2025-06,CTP,Light Rail,1573912
+2025-06,CTP,Metro,2483018
+2025-06,CTP,Train,9189720
+2025-06,Child/Youth,Ferry,63180
+2025-06,Child/Youth,Light Rail,100097
+2025-06,Child/Youth,Metro,206289
+2025-06,Child/Youth,Train,574589
+2025-06,Concession,Ferry,21456
+2025-06,Concession,Light Rail,350693
+2025-06,Concession,Metro,387828
+2025-06,Concession,Train,1097668
+2025-06,Day Pass Child/Youth w/o SAF,Ferry,51
+2025-06,Day Pass Child/Youth w/o SAF,Light Rail,36
+2025-06,Day Pass Child/Youth w/o SAF,Metro,1
+2025-06,Day Pass Child/Youth w/o SAF,Train,210
+2025-06,Day Pass without SAF,Ferry,30
+2025-06,Day Pass without SAF,Light Rail,74
+2025-06,Day Pass without SAF,Metro,37
+2025-06,Day Pass without SAF,Train,899
+2025-06,Employee,Ferry,4627
+2025-06,Employee,Light Rail,13709
+2025-06,Employee,Metro,41214
+2025-06,Employee,Train,187089
+2025-06,Free Travel,Ferry,1849
+2025-06,Free Travel,Light Rail,3860
+2025-06,Free Travel,Metro,5440
+2025-06,Free Travel,Train,22311
+2025-06,School Student,Ferry,9369
+2025-06,School Student,Light Rail,47573
+2025-06,School Student,Metro,297195
+2025-06,School Student,Train,841965
+2025-06,Senior/Pensioner,Ferry,175913
+2025-06,Senior/Pensioner,Light Rail,462706
+2025-06,Senior/Pensioner,Metro,467844
+2025-06,Senior/Pensioner,Train,2319560
+2025-06,Sgl Trip Ferry Adult,Ferry,17001
+2025-06,Sgl Trip Ferry Child/Youth,Ferry,10352
+2025-06,Sgl Trip LR Adult,Light Rail,2790
+2025-06,Sgl Trip LR Child/Youth,Light Rail,1754
+2025-06,Sgl Trip Rail Adult,Metro,9758
+2025-06,Sgl Trip Rail Adult,Train,62784
+2025-06,Sgl Trip Rail Child/Youth,Metro,12986
+2025-06,Sgl Trip Rail Child/Youth,Train,41445
+2025-06,UNKNOWN,Light Rail,1
+2025-06,UNKNOWN,Train,13
