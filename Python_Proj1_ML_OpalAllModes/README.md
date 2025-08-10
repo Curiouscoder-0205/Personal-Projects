@@ -27,8 +27,6 @@ transport-trips-forecast/
 - **Grain:** Monthly counts by `year_month`, `travel_mode`, `card_type`.
 - **Range used in demo:** 2024-01 to 2025-06.
 
-> If licensing allows, place the CSV under `data/` and update the notebook path. Otherwise, link to the source in this section.
-
 ---
 
 ## 🧪 Models & Results (Test Window)
