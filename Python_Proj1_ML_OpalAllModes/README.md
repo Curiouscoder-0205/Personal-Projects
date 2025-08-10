@@ -45,7 +45,7 @@ transport-trips-forecast/
 ## 📈 Key Visuals
 - **SARIMAX – Next 6 Months Forecast (Total Trips)**  
 
-![SARIMAX Forecast](reports/sarimax_forecast.png)
+- [SARIMAX Forecast](sarimax_forecast.png)
 
 ---
 
