@@ -140,7 +140,7 @@ Folder Link [Python_Proj1_ML_OpalAllModes](./Python_Proj1_ML_OpalAllModes/)
 Forecast monthly public transport trips using open NSW data to support planning and demand management.  
 
 ## 📁 Data Source:
-- **Source:** NSW Open Data (Opal Trips – All Modes): [[https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data]()](https://opendata.transport.nsw.gov.au/data/dataset/opal-trips-all-modes)
+- **Source:** NSW Open Data (Opal Trips – All Modes): https://opendata.transport.nsw.gov.au/data/dataset/opal-trips-all-modes
 - **Grain:** Monthly counts by `year_month`, `travel_mode`, `card_type`.
 - **Range used in demo:** 2024-01 to 2025-06.
 
