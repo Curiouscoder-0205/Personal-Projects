@@ -13,7 +13,7 @@ transport-trips-forecast/
 ├─ reports/
 │  └─ Transport_Trips_Forecast_Summary.pdf
 ├─ data/   Opal_all_modes.csv          
-├─ src/ https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data
+├─ src/ [https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data](https://opendata.transport.nsw.gov.au/data/dataset/opal-trips-all-modes)
 ├─ README.md
 ```
 
