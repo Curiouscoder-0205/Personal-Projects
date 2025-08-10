@@ -1,4 +1,4 @@
-# Public Transport Trip Forecasting (NSW) — Linear Regression, SARIMA, SARIMAX
+# 🚃 Public Transport Trip Forecasting (NSW) — Linear Regression, SARIMA, SARIMAX
 
 **Goal:** Forecast monthly public transport trips using open NSW data to support planning and demand management.  
 **Author:** Sahil Nagpal · [LinkedIn](https://www.linkedin.com/in/sahil-nagpal-318999172/)
