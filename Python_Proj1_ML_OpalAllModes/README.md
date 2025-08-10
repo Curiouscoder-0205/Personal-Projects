@@ -23,7 +23,7 @@ transport-trips-forecast/
 ---
 
 ## 🗂️ Data
-- **Source:** NSW Open Data (Opal Trips – All Modes): https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data
+- **Source:** NSW Open Data (Opal Trips – All Modes): [https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data](https://opendata.transport.nsw.gov.au/data/dataset/opal-trips-all-modes)
 - **Grain:** Monthly counts by `year_month`, `travel_mode`, `card_type`.
 - **Range used in demo:** 2024-01 to 2025-06.
 
