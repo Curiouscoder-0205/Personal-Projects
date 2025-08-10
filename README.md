@@ -130,10 +130,23 @@ To analyse and visualise bus performance data for Greater Sydney (GS) and Outer 
 ## 📁 Data Source: https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data
 
 
+# 🚃 Project 9: Public Transport Trip Forecasting (NSW) — Linear Regression, SARIMA, SARIMAX
 
+## 📅 Date: 10 August 2025
+Folder Link [PowerBI_Proj3_Bus_Data_May25](./PowerBI_Proj3_Bus_Data_May25/)
+
+## ℹ️  About the Project
+
+Forecast monthly public transport trips using open NSW data to support planning and demand management.  
+
+## 📁 Data Source:
+- **Source:** NSW Open Data (Opal Trips – All Modes): https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data
+- **Grain:** Monthly counts by `year_month`, `travel_mode`, `card_type`.
+- **Range used in demo:** 2024-01 to 2025-06.
 
     
 # 👤 Author
 
 **Sahil Nagpal**  
+[LinkedIn](https://www.linkedin.com/in/sahil-nagpal-318999172/)
 
