@@ -49,13 +49,11 @@ transport-trips-forecast/
 
 ---
 
-## 🔧 Reproducibility (Conda)
+## 🔧 Tools 
 Create and activate an environment:
 
 ```bash
-conda env create -f environment.yml
-conda activate ml
-jupyter lab
+Databricks
 ```
 
 Minimal packages you’ll need:
@@ -70,7 +68,6 @@ dependencies:
   - seaborn
   - scikit-learn
   - statsmodels
-  - jupyterlab
 ```
 
 ---
