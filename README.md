@@ -130,7 +130,7 @@ To analyse and visualise bus performance data for Greater Sydney (GS) and Outer 
 ## 📁 Data Source: https://opendata.transport.nsw.gov.au/data/dataset/greater-sydney-outer-metropolitan-bus-service-performance-data
 
 
-# 🚃 Project 9: Public Transport Trip Forecasting (NSW) — Linear Regression, SARIMA, SARIMAX
+# 🚃 Project 9: Public Transport Trip Forecasting (NSW) — Linear Regression, SARIMA, SARIMAX in Databricks Python
 
 ## 📅 Date: 10 August 2025
 Folder Link [Python_Proj1_ML_OpalAllModes](./Python_Proj1_ML_OpalAllModes/)
