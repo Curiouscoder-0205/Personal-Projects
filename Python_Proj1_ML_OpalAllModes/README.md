@@ -53,21 +53,7 @@ transport-trips-forecast/
 Create and activate an environment:
 
 ```bash
-Databricks
-```
-
-Minimal packages you’ll need:
-```yaml
-name: ml
-channels: [conda-forge]
-dependencies:
-  - python=3.11
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - scikit-learn
-  - statsmodels
+Databricks, Python
 ```
 
 ---
