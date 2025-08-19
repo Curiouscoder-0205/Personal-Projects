@@ -9,7 +9,7 @@
 ```
 transport-trips-forecast/
 ├─ notebooks/
-│  └─ Python_code.ipynb
+│  └─ Python_code_databricks.ipynb
 ├─ reports/
 │  └─ Transport_Trips_Forecast_Summary.pdf
 ├─ data/   Opal_all_modes.csv          
@@ -34,7 +34,7 @@ transport-trips-forecast/
 |--------------------|----------:|----------:|:---------:|
 | Linear Regression  | 782,018   | 1,196,300 | R² = 0.572 |
 | SARIMA             | 8,169,985 | 8,836,844 | 23.36%    |
-| **SARIMAX**        | **5,016,261** | **5,164,030** | **14.40%** |
+| **SARIMAX**        | **4,317,210** | **4,470,594** | **12.40%** |
 
 - **Linear Regression**: one‑hot(`travel_mode`, `card_type`) + time index `t`. Good baseline, captures 57% of variance.  
 - **SARIMA**: seasonality only; underperformed on this short history.  
@@ -171,7 +171,7 @@ pred = fc.predicted_mean
 ---
 
 ## 📝 Business Takeaways
-- **SARIMAX** best captured **seasonality + trend**, giving the lowest percentage error (MAPE 14.4% on the test window).  
+- **SARIMAX** best captured **seasonality + trend**, giving the lowest percentage error (MAPE 12.4% on the test window).  
 - **Linear Regression** explained 57% of historical variation but doesn’t handle seasonality explicitly.  
 - **Recommendation:** Retrain monthly; extend history; consider holiday/weather features.
 
