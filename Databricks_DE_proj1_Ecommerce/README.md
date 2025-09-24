@@ -54,7 +54,9 @@ These KPIs demonstrate how raw data can be transformed into actionable insights.
 
 ## 🖼️ Screenshots
 The notebook includes key screenshots to highlight the pipeline. 
+
 [Databricks_DE_proj1_Ecommerce/Databricks Screenshots](./Databricks_DE_proj1_Ecommerce/Databricks Screenshots/)
+
 ---
 
 ## 🚀 How to Reproduce
