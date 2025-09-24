@@ -62,8 +62,8 @@ The notebook includes key screenshots to highlight the pipeline.
 ## 🚀 How to Reproduce
 1. Launch **Databricks Community Edition** (or paid workspace).  
 2. Import raw CSVs into Bronze tables. > [Archived_CSVs](./Archived_CSVs/)
-3. Run the notebook step by step > **[DE_Ecommerce_Proj_24092025.ipynb
-](DE_Ecommerce_Proj_24092025.ipynb)**:
+3. Run the notebook step by step > [DE_Ecommerce_Proj_24092025.ipynb
+](DE_Ecommerce_Proj_24092025.ipynb):
    - Bronze sanity checks  
    - Silver transformations  
    - Gold fact/dim modeling  
