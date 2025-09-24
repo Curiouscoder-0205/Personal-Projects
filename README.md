@@ -144,6 +144,25 @@ Forecast monthly public transport trips using open NSW data to support planning 
 - **Grain:** Monthly counts by `year_month`, `travel_mode`, `card_type`.
 - **Range used in demo:** 2024-01 to 2025-06.
 
+# 🛒 Project 10: E-Commerce Sales Pipeline in Databricks (Medallion Architecture)
+
+## 📅 Date: 24 September 2025
+Folder Link [Python_Proj1_ML_OpalAllModes](./Python_Proj1_ML_OpalAllModes/)
+
+## ℹ️  About the Project
+
+This project demonstrates how to build an **end-to-end data engineering pipeline** using **Databricks, PySpark, and Delta tables**, following the **Medallion architecture (Bronze → Silver → Gold)**.  
+The pipeline transforms raw e-commerce sales CSVs into business-ready fact and dimension tables, enabling KPI reporting and dashboards.
+
+## 📁 Data Source: 
+- A **dummy e-commerce dataset** was created to simulate real-world sales data.  
+- Includes 4 CSV files ingested into the Bronze layer:
+  - `customers` → basic customer profiles (id, name, region, signup date)  
+  - `orders` → order headers (order id, customer id, order date, status)  
+  - `order_items` → order line items (order_item id, order id, product id, quantity, unit price)  
+  - `products` → product catalog (product id, name, category, list price)  
+- Data was intentionally seeded with minor imperfections (blank fields, inconsistent casing, mixed date formats, `$` signs in prices) to demonstrate cleaning and transformation in the Silver layer.
+
     
 # 👤 Author
 
