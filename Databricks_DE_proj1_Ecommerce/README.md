@@ -53,8 +53,8 @@ These KPIs demonstrate how raw data can be transformed into actionable insights.
 ---
 
 ## 🖼️ Screenshots
-The notebook includes key screenshots to highlight the pipeline.
-**[Databrick Screenshots](Databrick Screenshots)**
+The notebook includes key screenshots to highlight the pipeline. 
+[Databrick Screenshots](./Databrick Screenshots/)
 ---
 
 ## 🚀 How to Reproduce
