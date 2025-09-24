@@ -147,7 +147,7 @@ Forecast monthly public transport trips using open NSW data to support planning 
 # 🛒 Project 10: E-Commerce Sales Pipeline in Databricks (Medallion Architecture)
 
 ## 📅 Date: 24 September 2025
-Folder Link [Python_Proj1_ML_OpalAllModes](./Python_Proj1_ML_OpalAllModes/)
+Folder Link [Databricks_DE_proj1_Ecommerce](./Databricks_DE_proj1_Ecommerce/)
 
 ## ℹ️  About the Project
 
