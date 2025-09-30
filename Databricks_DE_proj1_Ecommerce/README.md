@@ -89,3 +89,6 @@ This project demonstrates my ability to:
 - Translate technical pipelines into **real business insights**.  
 
 ---
+
+## 🔗 Related Projects  
+- [Databricks_DE_proj2_Ecommerce](../Databricks_DE_proj2_Ecommerce/)
