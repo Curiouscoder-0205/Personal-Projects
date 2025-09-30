@@ -85,4 +85,5 @@ We now have a complete pipeline that ingests daily data, applies CDC/SCD logic, 
 ---
 
 ## 🔗 Related Projects  
-- [Project 1 – Medallion ETL (batch/static)](link-to-project-1)  
+- [Databricks_DE_proj1_Ecommerce](../Databricks_DE_proj1_Ecommerce/)
+
