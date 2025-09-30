@@ -163,6 +163,27 @@ The pipeline transforms raw e-commerce sales CSVs into business-ready fact and d
   - `products` → product catalog (product id, name, category, list price)  
 - Data was intentionally seeded with minor imperfections (blank fields, inconsistent casing, mixed date formats, `$` signs in prices) to demonstrate cleaning and transformation in the Silver layer.
 
+# 🛒 Project 11: Incremental ETL with CDC & SCD in Databricks using E-commerce sales data
+
+## 📅 Date: 30 September 2025
+Folder Link [Databricks_DE_proj2_Ecommerce](./Databricks_DE_proj2_Ecommerce/)
+
+## ℹ️  About the Project 
+In **Project 1 Databrciks E-commerce**, we implemented a baseline medallion architecture (Bronze → Silver → Gold) on static CSV files of e-commerce data, focusing on cleaning and structuring. Those original CSVs remain available in the same Project for reference.  [Databricks_DE_proj1_Ecommerce](./Databricks_DE_proj1_Ecommerce/)
+
+This follow-up project extends that work into a more realistic **incremental pipeline**, introducing advanced data engineering concepts:  
+- ⚡ **Incremental loads (daily feeds)** instead of static files.  
+- 🔄 **CDC (Change Data Capture)** for customers → keep only the latest state.  
+- 🗂️ **SCD Type-2 (Slowly Changing Dimension)** for products → preserve history with valid date ranges.  
+- ⏳ **Fact tables with point-in-time joins** to attach the correct product version to each order. 
+- 📊 **Incremental aggregates (Gold layer)** for KPIs such as revenue, order counts, and average order value.  
+
+The pipeline is built using the **Databricks Lakehouse (PySpark + Delta Lake)** and simulates daily e-commerce data feeds. 
+
+## 📁 Data Source  
+- The e-commerce dataset is **simulated** within this notebook for Day-1 and Day-2 feeds.  
+- The original static CSVs referenced in Project 1 provide the base dataset idea.  
+- Day-2 simulation introduces changes and new records to demonstrate CDC/SCD behaviour.
     
 # 👤 Author
 
