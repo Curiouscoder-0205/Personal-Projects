@@ -65,7 +65,7 @@ Below are recommended outputs to highlight in the repository (see `/assets` fold
 ---
 
 ## ⚙️ How to Run  
-- Import this notebook into a **Databricks Community Edition** workspace.  
+- Import this Python notebook in the project folder **DE_proj_2 2025-09-30.ipynb** into a **Databricks Community Edition** workspace.  
 - Run cells sequentially (Steps 1–9 complete Day-1 pipeline).  
 - Step 10 is **optional** to simulate Day-2 data. After running Step 10, re-run Steps 3–7 to see CDC and SCD in action.  
 
