@@ -169,7 +169,7 @@ The pipeline transforms raw e-commerce sales CSVs into business-ready fact and d
 Folder Link [Databricks_DE_proj2_Ecommerce](./Databricks_DE_proj2_Ecommerce/)
 
 ## ℹ️  About the Project 
-In **Project 1 Databrciks E-commerce**, we implemented a baseline medallion architecture (Bronze → Silver → Gold) on static CSV files of e-commerce data, focusing on cleaning and structuring. Those original CSVs remain available in the same Project for reference.  [Databricks_DE_proj1_Ecommerce](./Databricks_DE_proj1_Ecommerce/)
+In **Project 1 Databrciks E-commerce**, we implemented a baseline medallion architecture (Bronze → Silver → Gold) on static CSV files of e-commerce data, focusing on cleaning and structuring. Those original CSVs and Python notebook remain available in the same Project for reference. Please click on the link, and then open the 'Archived_CSVs' folder.  [Databricks_DE_proj1_Ecommerce](./Databricks_DE_proj1_Ecommerce/)
 
 This follow-up project extends that work into a more realistic **incremental pipeline**, introducing advanced data engineering concepts:  
 - ⚡ **Incremental loads (daily feeds)** instead of static files.  
