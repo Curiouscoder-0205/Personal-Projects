@@ -1,7 +1,7 @@
 # Project 2: Incremental ETL with CDC & SCD in Databricks  
 
 ## 📖 Overview  
-In **Project 1 Databricks Ecommerce**, we implemented a baseline medallion architecture (Bronze → Silver → Gold) on static CSV files of e-commerce data, focusing on cleaning and structuring. Those original CSVs remain available in Project 1 for reference.  [Databricks_DE_proj1_Ecommerce](../Databricks_DE_proj1_Ecommerce/)
+In **Project 1 Databricks Ecommerce**, we implemented a baseline medallion architecture (Bronze → Silver → Gold) on static CSV files of e-commerce data, focusing on cleaning and structuring. Those original CSVs remain available in Project 1 for reference. Please click on the link then open 'Archived CSVs' folder.  [Databricks_DE_proj1_Ecommerce](../Databricks_DE_proj1_Ecommerce/)
 
 This follow-up project extends that work into a more realistic **incremental pipeline**, introducing advanced data engineering concepts:  
 - ⚡ **Incremental loads (daily feeds)** instead of static files.  
