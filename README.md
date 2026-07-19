@@ -185,6 +185,8 @@ The pipeline is built using the **Databricks Lakehouse (PySpark + Delta Lake)** 
 - The original static CSVs referenced in Project 1 provide the base dataset idea.  
 - Day-2 simulation introduces changes and new records to demonstrate CDC/SCD behaviour.
 
+# Project 12: Analytics Engineering Project with dbt & BigQuery
+
 ## 📅 Date: 19 July 2026
 Folder Link [dbt_Project_Fleet_Data](./dbt_Project_Fleet_Data/)
 
