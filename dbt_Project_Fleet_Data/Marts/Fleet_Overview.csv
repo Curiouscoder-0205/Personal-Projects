@@ -1,0 +1,586 @@
+Contract_ID,Contract_Type,Contract_Status,License_Plate,Make,Model,Build_Year,Driver_Identification,Driver_Email_Address
+105,novated,active,SP318,Tesla,i30,2026,"Taylor, Lucas",lucas.taylor1166@fleetdemo.com
+139,novated,inactive,KA271,Ford,Corolla,2018,"Wilson, Ava",ava.wilson1112@fleetdemo.com
+178,novated,inactive,FN611,Kia,CX-5,2026,"Brown, Ethan",ethan.brown1119@fleetdemo.com
+45,fleet_managed,active,SV762,Ford,i30,2024,"Brown, Noah",noah.brown1155@fleetdemo.com
+30,novated,active,EV407,Mazda,Corolla,2026,"Martin, Mason",mason.martin1087@fleetdemo.com
+36,novated,active,IP705,Hyundai,i30,2018,"Martin, Jack",jack.martin1134@fleetdemo.com
+134,fleet_managed,active,WZ132,Ford,Corolla,2022,"King, Grace",grace.king1032@fleetdemo.com
+60,novated,active,QG884,Mazda,Ranger,2026,"White, Isla",isla.white1010@fleetdemo.com
+140,fleet_managed,active,UE593,Mazda,i30,2025,"Brown, Mason",mason.brown1058@fleetdemo.com
+118,fleet_managed,active,KE104,Kia,Sportage,2022,"Martin, Jack",jack.martin1034@fleetdemo.com
+150,fleet_managed,active,OR378,Mazda,Ranger,2025,"King, James",james.king1045@fleetdemo.com
+146,fleet_managed,active,DY421,Ford,Model 3,2023,"Taylor, Ethan",ethan.taylor1085@fleetdemo.com
+79,novated,active,VC814,Mazda,Corolla,2023,"Harris, Chloe",chloe.harris1026@fleetdemo.com
+123,fleet_managed,active,TE484,Mazda,Ranger,2019,"White, Ethan",ethan.white1021@fleetdemo.com
+44,novated,inactive,VP221,Hyundai,i30,2025,"White, Grace",grace.white1126@fleetdemo.com
+132,fleet_managed,active,AX214,Kia,Ranger,2025,"King, Olivia",olivia.king1157@fleetdemo.com
+105,novated,active,UC116,Kia,Model 3,2018,"Walker, Isla",isla.walker1183@fleetdemo.com
+36,novated,active,FT219,Kia,Corolla,2022,"Young, Mason",mason.young1173@fleetdemo.com
+46,novated,active,DA576,Ford,CX-5,2024,"Lee, Noah",noah.lee1037@fleetdemo.com
+131,novated,active,YY106,Hyundai,i30,2026,"Taylor, Isla",isla.taylor1176@fleetdemo.com
+91,novated,active,CO303,Toyota,Model 3,2024,"Walker, Jack",jack.walker1172@fleetdemo.com
+196,novated,active,IE213,Hyundai,Ranger,2022,"Brown, Lucas",lucas.brown1153@fleetdemo.com
+190,novated,active,VF815,Toyota,Ranger,2020,"White, Jack",jack.white1049@fleetdemo.com
+180,fleet_managed,active,WS541,Mazda,Sportage,2021,"Johnson, Ava",ava.johnson1107@fleetdemo.com
+111,novated,active,NN426,Tesla,i30,2022,"Lee, Ava",ava.lee1132@fleetdemo.com
+121,fleet_managed,inactive,KO147,Kia,i30,2018,"Lee, Ava",ava.lee1132@fleetdemo.com
+121,fleet_managed,inactive,SG210,Toyota,CX-5,2021,"Lee, Ava",ava.lee1132@fleetdemo.com
+172,fleet_managed,active,QJ678,Toyota,Ranger,2023,"Lee, Ava",ava.lee1132@fleetdemo.com
+190,novated,active,WV645,Tesla,Corolla,2024,"Smith, Ava",ava.smith1092@fleetdemo.com
+41,fleet_managed,active,BF251,Ford,Corolla,2022,"Smith, Ava",ava.smith1092@fleetdemo.com
+41,fleet_managed,active,AB447,Toyota,Model 3,2019,"Smith, Ava",ava.smith1092@fleetdemo.com
+131,novated,active,HD684,Kia,CX-5,2026,"Taylor, Ava",ava.taylor1029@fleetdemo.com
+131,novated,active,IC508,Ford,Ranger,2025,"Taylor, Ava",ava.taylor1029@fleetdemo.com
+94,fleet_managed,active,NW704,Tesla,Model 3,2024,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+83,novated,active,LO652,Toyota,Model 3,2025,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+3,fleet_managed,active,AO609,Mazda,Model 3,2021,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+3,fleet_managed,active,JX109,Hyundai,i30,2021,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+24,novated,active,WH577,Kia,i30,2024,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+94,fleet_managed,active,HN396,Toyota,Model 3,2018,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+94,fleet_managed,active,OM108,Hyundai,i30,2019,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+24,novated,active,NM357,Mazda,Ranger,2018,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+24,novated,active,ZT780,Tesla,i30,2026,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+83,novated,active,KW764,Toyota,Corolla,2025,"Taylor, Ava",ava.taylor1169@fleetdemo.com
+10,novated,active,CH714,Hyundai,CX-5,2024,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+10,novated,active,QQ949,Kia,CX-5,2022,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+119,novated,inactive,IZ200,Tesla,Sportage,2021,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+119,novated,inactive,JE287,Hyundai,Model 3,2020,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+10,novated,active,NN380,Tesla,i30,2026,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+10,novated,active,LA521,Mazda,Ranger,2026,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+175,novated,inactive,ZA661,Mazda,Model 3,2024,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+175,novated,inactive,DL412,Toyota,Ranger,2020,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+8,novated,inactive,KZ291,Mazda,i30,2019,"Brown, Chloe",chloe.brown1115@fleetdemo.com
+74,novated,active,WP585,Mazda,Sportage,2018,"Brown, Chloe",chloe.brown1115@fleetdemo.com
+18,novated,active,CP305,Tesla,Corolla,2020,"Brown, Chloe",chloe.brown1115@fleetdemo.com
+18,novated,active,DZ725,Mazda,Corolla,2026,"Brown, Chloe",chloe.brown1115@fleetdemo.com
+74,novated,active,OM587,Toyota,Model 3,2023,"Brown, Chloe",chloe.brown1115@fleetdemo.com
+8,novated,inactive,SV699,Mazda,CX-5,2020,"Brown, Chloe",chloe.brown1115@fleetdemo.com
+3,fleet_managed,active,HZ863,Kia,Sportage,2026,"Harris, Chloe",chloe.harris1061@fleetdemo.com
+73,fleet_managed,active,FY650,Ford,CX-5,2025,"Harris, Chloe",chloe.harris1061@fleetdemo.com
+6,novated,active,DP141,Mazda,Model 3,2025,"Lee, Chloe",chloe.lee1125@fleetdemo.com
+6,novated,active,ZE163,Kia,Model 3,2019,"Lee, Chloe",chloe.lee1125@fleetdemo.com
+12,fleet_managed,active,WM209,Toyota,Sportage,2025,"Lee, Chloe",chloe.lee1180@fleetdemo.com
+12,fleet_managed,active,RM628,Hyundai,Model 3,2024,"Lee, Chloe",chloe.lee1180@fleetdemo.com
+98,fleet_managed,inactive,YE771,Toyota,CX-5,2026,"Taylor, Chloe",chloe.taylor1175@fleetdemo.com
+98,fleet_managed,inactive,RG775,Mazda,Ranger,2019,"Taylor, Chloe",chloe.taylor1175@fleetdemo.com
+113,novated,active,IL529,Toyota,i30,2022,"Walker, Chloe",chloe.walker1164@fleetdemo.com
+113,novated,active,YE616,Kia,Model 3,2020,"Walker, Chloe",chloe.walker1164@fleetdemo.com
+113,novated,active,OC966,Ford,i30,2026,"Walker, Chloe",chloe.walker1164@fleetdemo.com
+139,novated,inactive,QD622,Kia,Sportage,2022,"Young, Chloe",chloe.young1015@fleetdemo.com
+139,novated,inactive,JF925,Ford,CX-5,2019,"Young, Chloe",chloe.young1015@fleetdemo.com
+48,fleet_managed,active,YT701,Ford,i30,2021,"Young, Chloe",chloe.young1015@fleetdemo.com
+134,fleet_managed,active,SC887,Kia,Model 3,2020,"Young, Chloe",chloe.young1075@fleetdemo.com
+62,novated,inactive,KH200,Ford,Model 3,2021,"Harris, Emma",emma.harris1108@fleetdemo.com
+62,novated,inactive,SP967,Tesla,CX-5,2023,"Harris, Emma",emma.harris1108@fleetdemo.com
+30,novated,active,VN681,Toyota,Sportage,2025,"Lee, Emma",emma.lee1069@fleetdemo.com
+30,novated,active,EW994,Kia,Corolla,2025,"Lee, Emma",emma.lee1069@fleetdemo.com
+130,fleet_managed,active,RK377,Hyundai,CX-5,2021,"Taylor, Emma",emma.taylor1042@fleetdemo.com
+130,fleet_managed,active,RP737,Toyota,Model 3,2026,"Taylor, Emma",emma.taylor1042@fleetdemo.com
+130,fleet_managed,active,HE977,Ford,Ranger,2020,"Taylor, Emma",emma.taylor1042@fleetdemo.com
+159,fleet_managed,active,TB451,Tesla,CX-5,2025,"Taylor, Emma",emma.taylor1143@fleetdemo.com
+159,fleet_managed,active,BF856,Toyota,Model 3,2019,"Taylor, Emma",emma.taylor1143@fleetdemo.com
+52,novated,inactive,CX612,Kia,CX-5,2020,"Taylor, Emma",emma.taylor1143@fleetdemo.com
+52,novated,inactive,WY902,Tesla,Model 3,2018,"Taylor, Emma",emma.taylor1143@fleetdemo.com
+159,fleet_managed,active,QU754,Tesla,CX-5,2021,"Taylor, Emma",emma.taylor1143@fleetdemo.com
+52,novated,inactive,IB298,Tesla,Model 3,2020,"Taylor, Emma",emma.taylor1143@fleetdemo.com
+52,novated,inactive,PR483,Tesla,Sportage,2021,"Taylor, Emma",emma.taylor1143@fleetdemo.com
+28,novated,active,RC237,Hyundai,Ranger,2018,"Taylor, Emma",emma.taylor1186@fleetdemo.com
+28,novated,active,YG408,Tesla,Sportage,2020,"Taylor, Emma",emma.taylor1186@fleetdemo.com
+105,novated,active,ZU162,Tesla,i30,2018,"Taylor, Emma",emma.taylor1197@fleetdemo.com
+105,novated,active,GU699,Ford,Ranger,2022,"Taylor, Emma",emma.taylor1197@fleetdemo.com
+153,novated,active,XG340,Ford,Ranger,2021,"Brown, Ethan",ethan.brown1063@fleetdemo.com
+153,novated,active,UE765,Mazda,Ranger,2019,"Brown, Ethan",ethan.brown1063@fleetdemo.com
+138,fleet_managed,active,DU566,Mazda,Model 3,2021,"King, Ethan",ethan.king1160@fleetdemo.com
+138,fleet_managed,active,ML576,Ford,Sportage,2026,"King, Ethan",ethan.king1160@fleetdemo.com
+43,novated,active,YL865,Tesla,Ranger,2020,"King, Ethan",ethan.king1160@fleetdemo.com
+107,novated,inactive,QB851,Ford,CX-5,2019,"King, Ethan",ethan.king1160@fleetdemo.com
+43,novated,active,AI667,Mazda,Sportage,2020,"King, Ethan",ethan.king1160@fleetdemo.com
+43,novated,active,PH628,Tesla,Sportage,2025,"King, Ethan",ethan.king1160@fleetdemo.com
+124,fleet_managed,inactive,PX887,Tesla,Model 3,2019,"Lee, Ethan",ethan.lee1171@fleetdemo.com
+186,novated,inactive,OQ180,Ford,Model 3,2019,"Lee, Ethan",ethan.lee1171@fleetdemo.com
+186,novated,inactive,EO711,Ford,Sportage,2022,"Lee, Ethan",ethan.lee1171@fleetdemo.com
+124,fleet_managed,inactive,NG725,Kia,i30,2022,"Lee, Ethan",ethan.lee1171@fleetdemo.com
+186,novated,inactive,EU377,Ford,CX-5,2018,"Lee, Ethan",ethan.lee1171@fleetdemo.com
+24,novated,active,KM684,Tesla,Corolla,2021,"Martin, Ethan",ethan.martin1005@fleetdemo.com
+24,novated,active,WX761,Hyundai,Corolla,2024,"Martin, Ethan",ethan.martin1005@fleetdemo.com
+24,novated,active,PX170,Ford,Ranger,2021,"Martin, Ethan",ethan.martin1005@fleetdemo.com
+170,fleet_managed,active,VR252,Toyota,Sportage,2020,"Smith, Ethan",ethan.smith1055@fleetdemo.com
+170,fleet_managed,active,BU584,Kia,i30,2018,"Smith, Ethan",ethan.smith1055@fleetdemo.com
+170,fleet_managed,active,XO706,Kia,Sportage,2023,"Smith, Ethan",ethan.smith1055@fleetdemo.com
+53,fleet_managed,inactive,QY898,Hyundai,Ranger,2026,"Smith, Ethan",ethan.smith1100@fleetdemo.com
+61,fleet_managed,active,DB571,Hyundai,CX-5,2021,"Smith, Ethan",ethan.smith1100@fleetdemo.com
+146,fleet_managed,active,XB570,Toyota,Corolla,2022,"White, Ethan",ethan.white1048@fleetdemo.com
+122,novated,active,YO353,Toyota,CX-5,2021,"White, Ethan",ethan.white1048@fleetdemo.com
+35,novated,inactive,PR108,Hyundai,Corolla,2024,"White, Ethan",ethan.white1048@fleetdemo.com
+122,novated,active,MA843,Toyota,CX-5,2020,"White, Ethan",ethan.white1048@fleetdemo.com
+68,fleet_managed,active,XD257,Ford,Corolla,2021,"Young, Ethan",ethan.young1116@fleetdemo.com
+68,fleet_managed,active,EA173,Tesla,Sportage,2024,"Young, Ethan",ethan.young1116@fleetdemo.com
+83,novated,active,EL457,Kia,i30,2024,"Harris, Grace",grace.harris1138@fleetdemo.com
+83,novated,active,DK628,Hyundai,Model 3,2019,"Harris, Grace",grace.harris1138@fleetdemo.com
+19,novated,active,DT972,Mazda,i30,2018,"Lee, Grace",grace.lee1041@fleetdemo.com
+104,novated,active,YZ920,Tesla,Sportage,2024,"Martin, Grace",grace.martin1184@fleetdemo.com
+22,fleet_managed,inactive,EI219,Tesla,i30,2023,"Martin, Grace",grace.martin1184@fleetdemo.com
+104,novated,active,GB920,Toyota,Sportage,2019,"Martin, Grace",grace.martin1184@fleetdemo.com
+22,fleet_managed,inactive,FK333,Kia,i30,2024,"Martin, Grace",grace.martin1184@fleetdemo.com
+53,fleet_managed,inactive,EZ539,Tesla,CX-5,2023,"Martin, Grace",grace.martin1184@fleetdemo.com
+53,fleet_managed,inactive,YP582,Kia,Model 3,2019,"Martin, Grace",grace.martin1184@fleetdemo.com
+62,novated,inactive,EF380,Mazda,CX-5,2019,"Taylor, Grace",grace.taylor1135@fleetdemo.com
+189,fleet_managed,active,LL521,Ford,Ranger,2022,"Taylor, Grace",grace.taylor1135@fleetdemo.com
+194,novated,active,VF586,Hyundai,Model 3,2020,"Taylor, Grace",grace.taylor1135@fleetdemo.com
+194,novated,active,CG936,Kia,Corolla,2020,"Taylor, Grace",grace.taylor1135@fleetdemo.com
+61,fleet_managed,active,UW542,Mazda,CX-5,2026,"White, Grace",grace.white1140@fleetdemo.com
+61,fleet_managed,active,DI244,Mazda,Ranger,2025,"White, Grace",grace.white1140@fleetdemo.com
+61,fleet_managed,active,EU925,Kia,CX-5,2024,"White, Grace",grace.white1140@fleetdemo.com
+14,novated,active,CZ646,Toyota,Model 3,2018,"White, Grace",grace.white1140@fleetdemo.com
+14,novated,active,BL326,Ford,Sportage,2025,"White, Grace",grace.white1140@fleetdemo.com
+61,fleet_managed,active,IL832,Ford,Ranger,2026,"White, Grace",grace.white1140@fleetdemo.com
+29,novated,active,EY110,Hyundai,i30,2024,"Brown, Isla",isla.brown1040@fleetdemo.com
+99,novated,active,ON552,Ford,CX-5,2022,"Brown, Isla",isla.brown1040@fleetdemo.com
+157,novated,inactive,UE234,Toyota,Sportage,2023,"Brown, Isla",isla.brown1040@fleetdemo.com
+128,fleet_managed,active,CY157,Tesla,Model 3,2019,"Brown, Isla",isla.brown1040@fleetdemo.com
+31,novated,inactive,LJ391,Mazda,Sportage,2020,"Brown, Isla",isla.brown1179@fleetdemo.com
+31,novated,inactive,QZ883,Hyundai,i30,2024,"Brown, Isla",isla.brown1179@fleetdemo.com
+31,novated,inactive,FW809,Ford,Corolla,2018,"Brown, Isla",isla.brown1179@fleetdemo.com
+40,fleet_managed,active,KM772,Mazda,Sportage,2021,"Brown, Isla",isla.brown1179@fleetdemo.com
+40,fleet_managed,active,VS658,Ford,Corolla,2020,"Brown, Isla",isla.brown1179@fleetdemo.com
+187,novated,active,UU905,Kia,CX-5,2026,"Harris, Isla",isla.harris1022@fleetdemo.com
+75,fleet_managed,active,WN853,Mazda,Corolla,2018,"Harris, Isla",isla.harris1022@fleetdemo.com
+187,novated,active,QA275,Tesla,Ranger,2019,"Harris, Isla",isla.harris1022@fleetdemo.com
+67,fleet_managed,inactive,WS197,Mazda,CX-5,2025,"Harris, Isla",isla.harris1103@fleetdemo.com
+67,fleet_managed,inactive,BG125,Toyota,CX-5,2022,"Harris, Isla",isla.harris1103@fleetdemo.com
+128,fleet_managed,active,GV587,Mazda,CX-5,2023,"Harris, Isla",isla.harris1103@fleetdemo.com
+128,fleet_managed,active,CZ815,Kia,Sportage,2025,"Harris, Isla",isla.harris1103@fleetdemo.com
+76,novated,active,GC623,Kia,Ranger,2018,"Martin, Isla",isla.martin1154@fleetdemo.com
+76,novated,active,OQ534,Hyundai,Ranger,2020,"Martin, Isla",isla.martin1154@fleetdemo.com
+14,novated,active,UZ177,Toyota,i30,2024,"Smith, Isla",isla.smith1084@fleetdemo.com
+195,novated,active,SP155,Mazda,Model 3,2020,"Walker, Isla",isla.walker1025@fleetdemo.com
+195,novated,active,SP679,Kia,Model 3,2019,"Walker, Isla",isla.walker1025@fleetdemo.com
+44,novated,inactive,HY610,Toyota,i30,2019,"Walker, Isla",isla.walker1167@fleetdemo.com
+44,novated,inactive,DA951,Toyota,i30,2021,"Walker, Isla",isla.walker1167@fleetdemo.com
+182,fleet_managed,active,KS992,Ford,Ranger,2018,"Wilson, Isla",isla.wilson1030@fleetdemo.com
+80,novated,inactive,IE816,Toyota,CX-5,2025,"Wilson, Isla",isla.wilson1030@fleetdemo.com
+182,fleet_managed,active,QA223,Toyota,i30,2021,"Wilson, Isla",isla.wilson1030@fleetdemo.com
+80,novated,inactive,TV105,Mazda,Model 3,2023,"Wilson, Isla",isla.wilson1030@fleetdemo.com
+154,novated,active,DB874,Hyundai,CX-5,2018,"Wilson, Isla",isla.wilson1030@fleetdemo.com
+154,novated,active,AF191,Tesla,Sportage,2025,"Wilson, Isla",isla.wilson1030@fleetdemo.com
+154,novated,active,LZ178,Hyundai,Model 3,2026,"Wilson, Isla",isla.wilson1030@fleetdemo.com
+182,fleet_managed,active,DD635,Ford,Ranger,2018,"Wilson, Isla",isla.wilson1030@fleetdemo.com
+113,novated,active,EA240,Tesla,Model 3,2023,"Wilson, Isla",isla.wilson1091@fleetdemo.com
+7,fleet_managed,active,MM811,Ford,Corolla,2023,"Young, Isla",isla.young1018@fleetdemo.com
+7,fleet_managed,active,OT274,Toyota,Corolla,2025,"Young, Isla",isla.young1018@fleetdemo.com
+144,fleet_managed,inactive,TG389,Ford,Ranger,2020,"Young, Isla",isla.young1018@fleetdemo.com
+7,fleet_managed,active,NS327,Mazda,Corolla,2024,"Young, Isla",isla.young1018@fleetdemo.com
+36,novated,active,EE114,Kia,Ranger,2018,"Young, Isla",isla.young1181@fleetdemo.com
+7,fleet_managed,active,UY747,Toyota,i30,2026,"Young, Isla",isla.young1199@fleetdemo.com
+7,fleet_managed,active,RB401,Tesla,Ranger,2018,"Young, Isla",isla.young1199@fleetdemo.com
+52,novated,inactive,LG428,Hyundai,Ranger,2023,"Brown, Jack",jack.brown1189@fleetdemo.com
+27,fleet_managed,active,VQ512,Tesla,i30,2025,"Brown, Jack",jack.brown1189@fleetdemo.com
+52,novated,inactive,SX962,Toyota,Corolla,2020,"Brown, Jack",jack.brown1189@fleetdemo.com
+197,fleet_managed,inactive,TE186,Hyundai,Ranger,2021,"Brown, Jack",jack.brown1189@fleetdemo.com
+85,fleet_managed,active,KV410,Toyota,i30,2026,"King, Jack",jack.king1081@fleetdemo.com
+85,fleet_managed,active,ZF663,Ford,CX-5,2025,"King, Jack",jack.king1081@fleetdemo.com
+120,fleet_managed,active,OV209,Tesla,Ranger,2026,"King, Jack",jack.king1081@fleetdemo.com
+114,novated,inactive,BG252,Tesla,i30,2020,"King, Jack",jack.king1081@fleetdemo.com
+114,novated,inactive,QR979,Ford,Sportage,2021,"King, Jack",jack.king1081@fleetdemo.com
+156,novated,inactive,JO776,Hyundai,Model 3,2023,"King, Jack",jack.king1081@fleetdemo.com
+120,fleet_managed,active,QK793,Kia,Corolla,2019,"King, Jack",jack.king1081@fleetdemo.com
+35,novated,inactive,TU455,Ford,i30,2021,"Lee, Jack",jack.lee1007@fleetdemo.com
+155,novated,active,FJ515,Mazda,Model 3,2023,"Lee, Jack",jack.lee1007@fleetdemo.com
+94,fleet_managed,active,TE551,Ford,Sportage,2023,"Lee, Jack",jack.lee1007@fleetdemo.com
+155,novated,active,MX899,Tesla,Sportage,2025,"Lee, Jack",jack.lee1007@fleetdemo.com
+18,novated,active,ZH668,Ford,Sportage,2020,"Martin, Jack",jack.martin1141@fleetdemo.com
+18,novated,active,NO578,Tesla,i30,2022,"Martin, Jack",jack.martin1141@fleetdemo.com
+57,novated,active,CN476,Mazda,Ranger,2018,"Martin, Jack",jack.martin1141@fleetdemo.com
+122,novated,active,CZ307,Kia,Sportage,2024,"Smith, Jack",jack.smith1020@fleetdemo.com
+58,fleet_managed,active,ZV809,Tesla,Corolla,2019,"Smith, Jack",jack.smith1020@fleetdemo.com
+54,novated,active,GT964,Tesla,Sportage,2025,"Smith, Jack",jack.smith1027@fleetdemo.com
+54,novated,active,QT250,Mazda,CX-5,2025,"Smith, Jack",jack.smith1027@fleetdemo.com
+157,novated,inactive,MV377,Hyundai,Corolla,2018,"Smith, Jack",jack.smith1052@fleetdemo.com
+136,fleet_managed,active,EC476,Toyota,Sportage,2026,"Smith, Jack",jack.smith1052@fleetdemo.com
+144,fleet_managed,inactive,LI615,Toyota,i30,2023,"Smith, Jack",jack.smith1070@fleetdemo.com
+81,fleet_managed,active,CB527,Tesla,i30,2024,"Smith, Jack",jack.smith1070@fleetdemo.com
+13,novated,active,PU198,Hyundai,i30,2026,"Smith, Jack",jack.smith1070@fleetdemo.com
+13,novated,active,LM386,Mazda,Sportage,2021,"Smith, Jack",jack.smith1070@fleetdemo.com
+180,fleet_managed,active,MD153,Mazda,Ranger,2025,"Taylor, Jack",jack.taylor1111@fleetdemo.com
+11,fleet_managed,active,WF603,Tesla,Model 3,2019,"Taylor, Jack",jack.taylor1111@fleetdemo.com
+115,novated,inactive,JR602,Mazda,i30,2025,"Taylor, Jack",jack.taylor1111@fleetdemo.com
+180,fleet_managed,active,LZ138,Mazda,Corolla,2025,"Taylor, Jack",jack.taylor1111@fleetdemo.com
+180,fleet_managed,active,SR800,Kia,Sportage,2026,"Taylor, Jack",jack.taylor1111@fleetdemo.com
+70,novated,active,FA471,Mazda,Corolla,2020,"Taylor, Jack",jack.taylor1111@fleetdemo.com
+17,fleet_managed,active,XC230,Ford,CX-5,2022,"Taylor, Jack",jack.taylor1137@fleetdemo.com
+4,novated,active,EO837,Ford,i30,2020,"Taylor, Jack",jack.taylor1137@fleetdemo.com
+180,fleet_managed,active,SD957,Tesla,Sportage,2025,"Taylor, Jack",jack.taylor1137@fleetdemo.com
+180,fleet_managed,active,IY540,Toyota,Corolla,2024,"Taylor, Jack",jack.taylor1137@fleetdemo.com
+55,fleet_managed,active,IF615,Tesla,Ranger,2019,"White, Jack",jack.white1043@fleetdemo.com
+158,novated,active,XB950,Ford,Model 3,2023,"White, Jack",jack.white1043@fleetdemo.com
+55,fleet_managed,active,DZ525,Mazda,Corolla,2018,"White, Jack",jack.white1043@fleetdemo.com
+46,novated,active,CM390,Mazda,Corolla,2025,"Wilson, Jack",jack.wilson1053@fleetdemo.com
+46,novated,active,UD991,Kia,i30,2025,"Wilson, Jack",jack.wilson1053@fleetdemo.com
+32,fleet_managed,active,SP821,Kia,Corolla,2020,"Wilson, Jack",jack.wilson1056@fleetdemo.com
+154,novated,active,RO793,Tesla,Ranger,2025,"Wilson, Jack",jack.wilson1056@fleetdemo.com
+154,novated,active,PL720,Kia,Sportage,2018,"Wilson, Jack",jack.wilson1056@fleetdemo.com
+32,fleet_managed,active,LP832,Kia,CX-5,2018,"Wilson, Jack",jack.wilson1056@fleetdemo.com
+43,novated,active,EQ698,Tesla,Sportage,2019,"Young, Jack",jack.young1074@fleetdemo.com
+138,fleet_managed,active,AA788,Kia,Sportage,2025,"Young, Jack",jack.young1096@fleetdemo.com
+43,novated,active,YE995,Hyundai,Sportage,2025,"Young, Jack",jack.young1096@fleetdemo.com
+43,novated,active,VT341,Ford,Corolla,2021,"Young, Jack",jack.young1096@fleetdemo.com
+25,novated,active,QU762,Tesla,Corolla,2025,"Young, Jack",jack.young1123@fleetdemo.com
+159,fleet_managed,active,RP285,Tesla,Corolla,2019,"Young, Jack",jack.young1123@fleetdemo.com
+25,novated,active,JP988,Mazda,Model 3,2019,"Young, Jack",jack.young1123@fleetdemo.com
+25,novated,active,GK595,Ford,Corolla,2026,"Young, Jack",jack.young1123@fleetdemo.com
+159,fleet_managed,active,RM294,Mazda,Sportage,2020,"Young, Jack",jack.young1123@fleetdemo.com
+159,fleet_managed,active,EZ294,Hyundai,i30,2024,"Young, Jack",jack.young1123@fleetdemo.com
+159,fleet_managed,active,UR187,Mazda,Corolla,2026,"Young, Jack",jack.young1123@fleetdemo.com
+58,fleet_managed,active,HY411,Kia,Corolla,2023,"Johnson, James",james.johnson1038@fleetdemo.com
+113,novated,active,IR493,Hyundai,Sportage,2019,"Johnson, James",james.johnson1038@fleetdemo.com
+58,fleet_managed,active,XH806,Ford,Ranger,2020,"Johnson, James",james.johnson1038@fleetdemo.com
+58,fleet_managed,active,PR546,Ford,Ranger,2022,"Johnson, James",james.johnson1038@fleetdemo.com
+55,fleet_managed,active,OF532,Kia,CX-5,2020,"Walker, James",james.walker1072@fleetdemo.com
+55,fleet_managed,active,NL917,Kia,CX-5,2022,"Walker, James",james.walker1072@fleetdemo.com
+164,novated,active,NT968,Mazda,i30,2020,"White, James",james.white1003@fleetdemo.com
+164,novated,active,DI162,Toyota,Model 3,2018,"White, James",james.white1003@fleetdemo.com
+58,fleet_managed,active,QD562,Ford,CX-5,2026,"Wilson, James",james.wilson1104@fleetdemo.com
+99,novated,active,VZ408,Hyundai,Corolla,2026,"Wilson, James",james.wilson1104@fleetdemo.com
+58,fleet_managed,active,EL391,Ford,Sportage,2026,"Wilson, James",james.wilson1104@fleetdemo.com
+184,fleet_managed,active,SX741,Tesla,Ranger,2021,"Wilson, James",james.wilson1196@fleetdemo.com
+8,novated,inactive,XF119,Mazda,Ranger,2023,"Wilson, James",james.wilson1196@fleetdemo.com
+8,novated,inactive,OZ538,Kia,Sportage,2018,"Wilson, James",james.wilson1196@fleetdemo.com
+184,fleet_managed,active,YU161,Kia,CX-5,2019,"Wilson, James",james.wilson1196@fleetdemo.com
+8,novated,inactive,SN344,Tesla,Model 3,2019,"Wilson, James",james.wilson1196@fleetdemo.com
+8,novated,inactive,ZV182,Toyota,CX-5,2023,"Wilson, James",james.wilson1196@fleetdemo.com
+23,novated,inactive,KG539,Mazda,Corolla,2023,"Young, James",james.young1122@fleetdemo.com
+23,novated,inactive,XW499,Kia,Sportage,2023,"Young, James",james.young1122@fleetdemo.com
+23,novated,inactive,WP849,Mazda,Ranger,2025,"Young, James",james.young1122@fleetdemo.com
+195,novated,active,MT943,Mazda,Sportage,2024,"Young, James",james.young1122@fleetdemo.com
+195,novated,active,GE209,Tesla,Model 3,2022,"Young, James",james.young1122@fleetdemo.com
+195,novated,active,UI524,Mazda,Ranger,2021,"Young, James",james.young1122@fleetdemo.com
+195,novated,active,LV262,Mazda,Corolla,2019,"Young, James",james.young1122@fleetdemo.com
+195,novated,active,MV894,Kia,CX-5,2025,"Young, James",james.young1122@fleetdemo.com
+175,novated,inactive,NW452,Mazda,Model 3,2020,"Harris, Liam",liam.harris1024@fleetdemo.com
+169,novated,active,RC399,Hyundai,i30,2026,"Harris, Liam",liam.harris1024@fleetdemo.com
+175,novated,inactive,WP726,Hyundai,i30,2024,"Harris, Liam",liam.harris1024@fleetdemo.com
+175,novated,inactive,XI761,Toyota,CX-5,2022,"Harris, Liam",liam.harris1024@fleetdemo.com
+85,fleet_managed,active,PM597,Kia,Model 3,2021,"Johnson, Liam",liam.johnson1068@fleetdemo.com
+85,fleet_managed,active,BZ775,Toyota,i30,2018,"Johnson, Liam",liam.johnson1068@fleetdemo.com
+101,fleet_managed,active,QN112,Tesla,Sportage,2023,"Johnson, Liam",liam.johnson1068@fleetdemo.com
+102,fleet_managed,active,PU405,Kia,Ranger,2019,"Johnson, Liam",liam.johnson1117@fleetdemo.com
+102,fleet_managed,active,JK937,Mazda,Corolla,2025,"Johnson, Liam",liam.johnson1117@fleetdemo.com
+169,novated,active,XS730,Hyundai,i30,2025,"Lee, Liam",liam.lee1188@fleetdemo.com
+169,novated,active,NZ249,Ford,CX-5,2025,"Lee, Liam",liam.lee1188@fleetdemo.com
+110,novated,active,LK789,Tesla,Corolla,2024,"Lee, Liam",liam.lee1194@fleetdemo.com
+110,novated,active,QW493,Tesla,CX-5,2024,"Lee, Liam",liam.lee1194@fleetdemo.com
+184,fleet_managed,active,GS291,Tesla,i30,2026,"Martin, Liam",liam.martin1011@fleetdemo.com
+184,fleet_managed,active,YW857,Hyundai,i30,2023,"Martin, Liam",liam.martin1011@fleetdemo.com
+141,novated,inactive,EK344,Kia,CX-5,2021,"Martin, Liam",liam.martin1011@fleetdemo.com
+141,novated,inactive,VR801,Mazda,Ranger,2026,"Martin, Liam",liam.martin1011@fleetdemo.com
+141,novated,inactive,JT446,Toyota,Model 3,2018,"Martin, Liam",liam.martin1011@fleetdemo.com
+88,novated,active,QE560,Hyundai,Model 3,2018,"Martin, Liam",liam.martin1011@fleetdemo.com
+198,novated,active,HA910,Kia,Sportage,2025,"Martin, Liam",liam.martin1011@fleetdemo.com
+167,novated,active,DT332,Hyundai,i30,2023,"Martin, Liam",liam.martin1185@fleetdemo.com
+75,fleet_managed,active,TU410,Hyundai,Corolla,2022,"Martin, Liam",liam.martin1185@fleetdemo.com
+75,fleet_managed,active,GE615,Mazda,CX-5,2026,"Martin, Liam",liam.martin1185@fleetdemo.com
+75,fleet_managed,active,GO109,Hyundai,Sportage,2023,"Martin, Liam",liam.martin1185@fleetdemo.com
+75,fleet_managed,active,KQ814,Kia,Model 3,2025,"Martin, Liam",liam.martin1185@fleetdemo.com
+167,novated,active,EY209,Kia,Model 3,2018,"Martin, Liam",liam.martin1185@fleetdemo.com
+2,novated,active,TC158,Ford,CX-5,2019,"Martin, Liam",liam.martin1190@fleetdemo.com
+168,fleet_managed,active,DD165,Tesla,CX-5,2019,"Martin, Liam",liam.martin1190@fleetdemo.com
+156,novated,inactive,NU536,Tesla,Sportage,2021,"White, Liam",liam.white1156@fleetdemo.com
+199,novated,active,HE981,Tesla,Ranger,2023,"Wilson, Liam",liam.wilson1044@fleetdemo.com
+68,fleet_managed,active,YU869,Tesla,Ranger,2023,"Wilson, Liam",liam.wilson1044@fleetdemo.com
+199,novated,active,JT932,Kia,Sportage,2024,"Wilson, Liam",liam.wilson1044@fleetdemo.com
+199,novated,active,RJ499,Ford,Sportage,2023,"Wilson, Liam",liam.wilson1044@fleetdemo.com
+199,novated,active,FO987,Tesla,Ranger,2024,"Wilson, Liam",liam.wilson1044@fleetdemo.com
+158,novated,active,SR319,Kia,i30,2023,"Wilson, Liam",liam.wilson1105@fleetdemo.com
+191,fleet_managed,inactive,JU860,Ford,Corolla,2020,"Wilson, Liam",liam.wilson1105@fleetdemo.com
+191,fleet_managed,inactive,BI530,Tesla,Ranger,2023,"Wilson, Liam",liam.wilson1105@fleetdemo.com
+121,fleet_managed,inactive,NF603,Hyundai,Model 3,2019,"Wilson, Liam",liam.wilson1105@fleetdemo.com
+191,fleet_managed,inactive,PJ587,Kia,Model 3,2025,"Wilson, Liam",liam.wilson1105@fleetdemo.com
+121,fleet_managed,inactive,HK671,Tesla,Sportage,2021,"Wilson, Liam",liam.wilson1105@fleetdemo.com
+75,fleet_managed,active,GC122,Kia,i30,2024,"Young, Liam",liam.young1147@fleetdemo.com
+75,fleet_managed,active,MY512,Ford,Corolla,2022,"Johnson, Lucas",lucas.johnson1131@fleetdemo.com
+75,fleet_managed,active,BU472,Hyundai,CX-5,2025,"Johnson, Lucas",lucas.johnson1131@fleetdemo.com
+182,fleet_managed,active,IZ817,Mazda,Corolla,2023,"King, Lucas",lucas.king1177@fleetdemo.com
+60,novated,active,XE226,Hyundai,Ranger,2020,"King, Lucas",lucas.king1177@fleetdemo.com
+182,fleet_managed,active,GO983,Tesla,Model 3,2020,"King, Lucas",lucas.king1177@fleetdemo.com
+186,novated,inactive,VK356,Kia,i30,2021,"Smith, Lucas",lucas.smith1023@fleetdemo.com
+168,fleet_managed,active,UG428,Mazda,i30,2025,"Smith, Lucas",lucas.smith1023@fleetdemo.com
+186,novated,inactive,QT490,Hyundai,Ranger,2026,"Smith, Lucas",lucas.smith1023@fleetdemo.com
+168,fleet_managed,active,FB390,Hyundai,Corolla,2025,"Smith, Lucas",lucas.smith1023@fleetdemo.com
+81,fleet_managed,active,NS423,Kia,Model 3,2025,"Taylor, Lucas",lucas.taylor1051@fleetdemo.com
+10,novated,active,PG201,Tesla,Sportage,2025,"Taylor, Lucas",lucas.taylor1051@fleetdemo.com
+81,fleet_managed,active,NM797,Kia,i30,2023,"Taylor, Lucas",lucas.taylor1051@fleetdemo.com
+145,fleet_managed,inactive,AO699,Tesla,Corolla,2023,"Wilson, Lucas",lucas.wilson1192@fleetdemo.com
+145,fleet_managed,inactive,PT146,Toyota,Ranger,2018,"Wilson, Lucas",lucas.wilson1192@fleetdemo.com
+145,fleet_managed,inactive,DX155,Ford,i30,2018,"Wilson, Lucas",lucas.wilson1192@fleetdemo.com
+122,novated,active,BP379,Tesla,i30,2021,"Young, Lucas",lucas.young1191@fleetdemo.com
+138,fleet_managed,active,XZ417,Toyota,i30,2026,"Young, Lucas",lucas.young1191@fleetdemo.com
+138,fleet_managed,active,EP416,Toyota,CX-5,2020,"Young, Lucas",lucas.young1191@fleetdemo.com
+138,fleet_managed,active,KS744,Tesla,Model 3,2021,"Young, Lucas",lucas.young1191@fleetdemo.com
+159,fleet_managed,active,JI675,Kia,Ranger,2018,"Brown, Mason",mason.brown1162@fleetdemo.com
+76,novated,active,CR282,Mazda,i30,2020,"Brown, Mason",mason.brown1162@fleetdemo.com
+76,novated,active,RM292,Tesla,Sportage,2022,"Brown, Mason",mason.brown1162@fleetdemo.com
+76,novated,active,PA166,Tesla,Ranger,2022,"Brown, Mason",mason.brown1162@fleetdemo.com
+144,fleet_managed,inactive,ZU766,Kia,Model 3,2019,"Harris, Mason",mason.harris1031@fleetdemo.com
+144,fleet_managed,inactive,CE617,Hyundai,Ranger,2022,"Harris, Mason",mason.harris1031@fleetdemo.com
+144,fleet_managed,inactive,TT198,Tesla,Model 3,2021,"Harris, Mason",mason.harris1031@fleetdemo.com
+35,novated,inactive,KB722,Ford,i30,2021,"Martin, Mason",mason.martin1146@fleetdemo.com
+35,novated,inactive,YB756,Kia,Ranger,2018,"Martin, Mason",mason.martin1146@fleetdemo.com
+158,novated,active,UJ421,Ford,CX-5,2020,"Martin, Mason",mason.martin1146@fleetdemo.com
+144,fleet_managed,inactive,EY565,Tesla,Ranger,2020,"Martin, Mason",mason.martin1146@fleetdemo.com
+185,novated,active,JN798,Hyundai,Model 3,2025,"Smith, Mason",mason.smith1050@fleetdemo.com
+185,novated,active,PQ367,Mazda,CX-5,2018,"Smith, Mason",mason.smith1050@fleetdemo.com
+183,fleet_managed,active,NG714,Kia,Sportage,2021,"Taylor, Mason",mason.taylor1099@fleetdemo.com
+183,fleet_managed,active,BJ390,Tesla,Corolla,2019,"Taylor, Mason",mason.taylor1099@fleetdemo.com
+190,novated,active,TL496,Kia,Corolla,2019,"Walker, Mason",mason.walker1178@fleetdemo.com
+190,novated,active,DV666,Mazda,Model 3,2018,"Walker, Mason",mason.walker1178@fleetdemo.com
+190,novated,active,XB650,Tesla,CX-5,2019,"Walker, Mason",mason.walker1178@fleetdemo.com
+165,novated,active,EI960,Kia,CX-5,2020,"Walker, Mason",mason.walker1178@fleetdemo.com
+165,novated,active,KE844,Tesla,Model 3,2022,"Walker, Mason",mason.walker1178@fleetdemo.com
+184,fleet_managed,active,EV664,Mazda,Ranger,2025,"White, Mason",mason.white1035@fleetdemo.com
+183,fleet_managed,active,BN882,Ford,Sportage,2021,"White, Mason",mason.white1035@fleetdemo.com
+183,fleet_managed,active,HC254,Tesla,i30,2025,"White, Mason",mason.white1035@fleetdemo.com
+184,fleet_managed,active,CK605,Mazda,Sportage,2022,"White, Mason",mason.white1035@fleetdemo.com
+184,fleet_managed,active,NO178,Toyota,Model 3,2023,"White, Mason",mason.white1035@fleetdemo.com
+10,novated,active,LR154,Hyundai,Corolla,2022,"White, Mason",mason.white1158@fleetdemo.com
+123,fleet_managed,active,HM620,Mazda,CX-5,2019,"White, Mason",mason.white1158@fleetdemo.com
+123,fleet_managed,active,ZI333,Toyota,CX-5,2021,"White, Mason",mason.white1158@fleetdemo.com
+123,fleet_managed,active,QS169,Toyota,CX-5,2021,"White, Mason",mason.white1158@fleetdemo.com
+129,novated,active,ZK562,Hyundai,Ranger,2023,"Wilson, Mason",mason.wilson1076@fleetdemo.com
+113,novated,active,XH777,Kia,Corolla,2021,"Wilson, Mason",mason.wilson1076@fleetdemo.com
+64,novated,active,EY292,Mazda,CX-5,2022,"Wilson, Mason",mason.wilson1076@fleetdemo.com
+113,novated,active,LX237,Kia,Model 3,2026,"Wilson, Mason",mason.wilson1076@fleetdemo.com
+131,novated,active,GD642,Mazda,CX-5,2021,"Wilson, Mason",mason.wilson1076@fleetdemo.com
+64,novated,active,QD515,Toyota,i30,2026,"Wilson, Mason",mason.wilson1076@fleetdemo.com
+64,novated,active,GT758,Hyundai,Corolla,2018,"Wilson, Mason",mason.wilson1076@fleetdemo.com
+100,novated,active,QC460,Mazda,Sportage,2023,"Brown, Mia",mia.brown1094@fleetdemo.com
+104,novated,active,OY884,Mazda,Corolla,2024,"Brown, Mia",mia.brown1094@fleetdemo.com
+127,fleet_managed,active,IF695,Kia,Ranger,2023,"Brown, Mia",mia.brown1094@fleetdemo.com
+127,fleet_managed,active,WG726,Kia,CX-5,2019,"Brown, Mia",mia.brown1094@fleetdemo.com
+127,fleet_managed,active,FA830,Hyundai,Ranger,2024,"Brown, Mia",mia.brown1094@fleetdemo.com
+83,novated,active,KO125,Kia,Ranger,2025,"Johnson, Mia",mia.johnson1136@fleetdemo.com
+83,novated,active,CM361,Tesla,Corolla,2018,"Johnson, Mia",mia.johnson1136@fleetdemo.com
+83,novated,active,BD526,Mazda,Sportage,2026,"Johnson, Mia",mia.johnson1136@fleetdemo.com
+85,fleet_managed,active,HL928,Mazda,Model 3,2019,"Lee, Mia",mia.lee1012@fleetdemo.com
+85,fleet_managed,active,RK965,Tesla,Sportage,2023,"Lee, Mia",mia.lee1012@fleetdemo.com
+83,novated,active,FN124,Toyota,Corolla,2019,"Lee, Mia",mia.lee1012@fleetdemo.com
+9,fleet_managed,active,VJ430,Kia,CX-5,2026,"Lee, Mia",mia.lee1012@fleetdemo.com
+85,fleet_managed,active,WT258,Ford,Model 3,2019,"Lee, Mia",mia.lee1012@fleetdemo.com
+9,fleet_managed,active,WV586,Hyundai,CX-5,2021,"Lee, Mia",mia.lee1012@fleetdemo.com
+83,novated,active,WQ983,Tesla,Model 3,2018,"Lee, Mia",mia.lee1012@fleetdemo.com
+184,fleet_managed,active,ZQ363,Hyundai,Sportage,2025,"Lee, Mia",mia.lee1168@fleetdemo.com
+184,fleet_managed,active,VY513,Toyota,CX-5,2018,"Lee, Mia",mia.lee1168@fleetdemo.com
+188,fleet_managed,inactive,XW687,Tesla,i30,2026,"Martin, Mia",mia.martin1088@fleetdemo.com
+19,novated,active,YC383,Toyota,i30,2022,"Martin, Mia",mia.martin1088@fleetdemo.com
+92,fleet_managed,active,TX944,Mazda,Sportage,2026,"Martin, Mia",mia.martin1088@fleetdemo.com
+19,novated,active,NC194,Tesla,Ranger,2025,"Martin, Mia",mia.martin1088@fleetdemo.com
+56,novated,active,VL507,Hyundai,Model 3,2023,"Martin, Mia",mia.martin1088@fleetdemo.com
+92,fleet_managed,active,AV315,Hyundai,CX-5,2022,"Martin, Mia",mia.martin1088@fleetdemo.com
+56,novated,active,YS782,Tesla,i30,2019,"Martin, Mia",mia.martin1088@fleetdemo.com
+133,novated,active,IC491,Kia,Sportage,2021,"Martin, Mia",mia.martin1088@fleetdemo.com
+193,fleet_managed,active,AC249,Hyundai,Ranger,2026,"Young, Mia",mia.young1008@fleetdemo.com
+193,fleet_managed,active,IZ922,Kia,Corolla,2025,"Young, Mia",mia.young1008@fleetdemo.com
+169,novated,active,AC754,Hyundai,Sportage,2024,"Young, Mia",mia.young1008@fleetdemo.com
+85,fleet_managed,active,WU482,Tesla,Ranger,2020,"Johnson, Noah",noah.johnson1062@fleetdemo.com
+85,fleet_managed,active,OI478,Toyota,Sportage,2023,"Johnson, Noah",noah.johnson1062@fleetdemo.com
+189,fleet_managed,active,ZB161,Mazda,Sportage,2023,"Johnson, Noah",noah.johnson1193@fleetdemo.com
+147,novated,active,RN397,Tesla,Sportage,2023,"Johnson, Noah",noah.johnson1193@fleetdemo.com
+131,novated,active,SP571,Toyota,i30,2025,"King, Noah",noah.king1152@fleetdemo.com
+175,novated,inactive,RN668,Tesla,CX-5,2022,"King, Noah",noah.king1152@fleetdemo.com
+131,novated,active,GS584,Tesla,Sportage,2021,"King, Noah",noah.king1152@fleetdemo.com
+66,fleet_managed,active,TE957,Tesla,Ranger,2025,"King, Noah",noah.king1152@fleetdemo.com
+175,novated,inactive,PH480,Ford,CX-5,2022,"King, Noah",noah.king1152@fleetdemo.com
+145,fleet_managed,inactive,ZZ753,Mazda,Ranger,2019,"White, Noah",noah.white1109@fleetdemo.com
+145,fleet_managed,inactive,HI582,Tesla,Model 3,2021,"White, Noah",noah.white1109@fleetdemo.com
+152,fleet_managed,inactive,JC211,Ford,Model 3,2020,"White, Noah",noah.white1109@fleetdemo.com
+189,fleet_managed,active,ZJ194,Ford,Sportage,2019,"White, Noah",noah.white1109@fleetdemo.com
+158,novated,active,ZB740,Toyota,CX-5,2022,"White, Noah",noah.white1109@fleetdemo.com
+113,novated,active,CK716,Tesla,i30,2019,"White, Noah",noah.white1109@fleetdemo.com
+113,novated,active,BC526,Tesla,Sportage,2025,"White, Noah",noah.white1109@fleetdemo.com
+189,fleet_managed,active,PM767,Kia,CX-5,2021,"White, Noah",noah.white1109@fleetdemo.com
+132,fleet_managed,active,OH619,Hyundai,CX-5,2025,"Young, Noah",noah.young1090@fleetdemo.com
+37,fleet_managed,active,EB647,Hyundai,i30,2020,"Young, Noah",noah.young1090@fleetdemo.com
+45,fleet_managed,active,VP788,Kia,Sportage,2019,"Young, Noah",noah.young1090@fleetdemo.com
+37,fleet_managed,active,EP532,Ford,Sportage,2025,"Young, Noah",noah.young1090@fleetdemo.com
+45,fleet_managed,active,NK266,Toyota,Model 3,2021,"Young, Noah",noah.young1090@fleetdemo.com
+37,fleet_managed,active,JO582,Mazda,Ranger,2021,"Young, Noah",noah.young1090@fleetdemo.com
+37,fleet_managed,active,QO674,Mazda,i30,2023,"Young, Noah",noah.young1090@fleetdemo.com
+21,novated,active,MW440,Hyundai,Sportage,2026,"Young, Noah",noah.young1114@fleetdemo.com
+150,fleet_managed,active,IG107,Tesla,CX-5,2021,"Young, Noah",noah.young1114@fleetdemo.com
+31,novated,inactive,FO339,Toyota,i30,2026,"King, Olivia",olivia.king1095@fleetdemo.com
+65,novated,active,LQ648,Ford,i30,2019,"King, Olivia",olivia.king1095@fleetdemo.com
+31,novated,inactive,IT949,Ford,i30,2025,"King, Olivia",olivia.king1095@fleetdemo.com
+107,novated,inactive,GQ799,Mazda,i30,2023,"Martin, Olivia",olivia.martin1064@fleetdemo.com
+107,novated,inactive,QX747,Mazda,Ranger,2022,"Martin, Olivia",olivia.martin1064@fleetdemo.com
+12,fleet_managed,active,TH336,Tesla,Ranger,2026,"Martin, Olivia",olivia.martin1064@fleetdemo.com
+112,fleet_managed,active,BM877,Ford,CX-5,2018,"White, Olivia",olivia.white1098@fleetdemo.com
+178,novated,inactive,JS235,Ford,Model 3,2023,"White, Olivia",olivia.white1098@fleetdemo.com
+14,novated,active,HC671,Ford,Ranger,2023,"White, Olivia",olivia.white1098@fleetdemo.com
+112,fleet_managed,active,XS468,Hyundai,i30,2024,"White, Olivia",olivia.white1098@fleetdemo.com
+14,novated,active,SY771,Ford,Model 3,2021,"White, Olivia",olivia.white1098@fleetdemo.com
+154,novated,active,JJ618,Toyota,Sportage,2023,"White, Olivia",olivia.white1098@fleetdemo.com
+26,fleet_managed,active,SE536,Tesla,CX-5,2020,"White, Olivia",olivia.white1098@fleetdemo.com
+178,novated,inactive,WC989,Toyota,CX-5,2023,"White, Olivia",olivia.white1098@fleetdemo.com
+14,novated,active,AM219,Tesla,Sportage,2024,"White, Olivia",olivia.white1098@fleetdemo.com
+184,fleet_managed,active,XD884,Tesla,Sportage,2024,"White, Olivia",olivia.white1106@fleetdemo.com
+98,fleet_managed,inactive,OU248,Hyundai,Model 3,2024,"White, Olivia",olivia.white1106@fleetdemo.com
+184,fleet_managed,active,KL673,Ford,Sportage,2022,"White, Olivia",olivia.white1106@fleetdemo.com
+184,fleet_managed,active,AG940,Hyundai,CX-5,2026,"White, Olivia",olivia.white1106@fleetdemo.com
+134,fleet_managed,active,MH868,Tesla,Model 3,2026,"Wilson, Olivia",olivia.wilson1139@fleetdemo.com
+198,novated,active,XF118,Kia,i30,2021,"Wilson, Olivia",olivia.wilson1139@fleetdemo.com
+134,fleet_managed,active,FP945,Mazda,Sportage,2022,"Wilson, Olivia",olivia.wilson1139@fleetdemo.com
+45,fleet_managed,active,GF549,Kia,Model 3,2018,"Wilson, Olivia",olivia.wilson1150@fleetdemo.com
+45,fleet_managed,active,ED910,Ford,Corolla,2025,"Wilson, Olivia",olivia.wilson1150@fleetdemo.com
+172,fleet_managed,active,JL522,Toyota,CX-5,2020,"Wilson, Olivia",olivia.wilson1163@fleetdemo.com
+22,fleet_managed,inactive,UQ362,Mazda,Model 3,2020,"Wilson, Olivia",olivia.wilson1163@fleetdemo.com
+22,fleet_managed,inactive,DR752,Mazda,Sportage,2022,"Wilson, Olivia",olivia.wilson1163@fleetdemo.com
+142,novated,active,YH875,Kia,Model 3,2018,"Harris, Sophia",sophia.harris1082@fleetdemo.com
+34,novated,active,BC536,Mazda,Sportage,2025,"Harris, Sophia",sophia.harris1082@fleetdemo.com
+142,novated,active,IX278,Ford,Ranger,2018,"Harris, Sophia",sophia.harris1082@fleetdemo.com
+190,novated,active,SX356,Ford,Sportage,2018,"King, Sophia",sophia.king1014@fleetdemo.com
+190,novated,active,JX887,Toyota,Ranger,2021,"King, Sophia",sophia.king1014@fleetdemo.com
+190,novated,active,DQ206,Hyundai,i30,2021,"King, Sophia",sophia.king1014@fleetdemo.com
+190,novated,active,YD740,Toyota,Corolla,2024,"King, Sophia",sophia.king1014@fleetdemo.com
+190,novated,active,LL415,Ford,Sportage,2025,"King, Sophia",sophia.king1014@fleetdemo.com
+150,fleet_managed,active,VA872,Mazda,Ranger,2021,"White, Sophia",sophia.white1121@fleetdemo.com
+150,fleet_managed,active,CU740,Toyota,CX-5,2023,"White, Sophia",sophia.white1121@fleetdemo.com
+131,novated,active,DM560,Tesla,Corolla,2018,"Young, Sophia",sophia.young1013@fleetdemo.com
+96,fleet_managed,active,HV429,Hyundai,Corolla,2020,"Young, Sophia",sophia.young1013@fleetdemo.com
+96,fleet_managed,active,DP344,Hyundai,CX-5,2021,"Young, Sophia",sophia.young1013@fleetdemo.com
+131,novated,active,PL735,Mazda,i30,2025,"Young, Sophia",sophia.young1013@fleetdemo.com
+131,novated,active,JH319,Kia,i30,2026,"Young, Sophia",sophia.young1013@fleetdemo.com
+152,fleet_managed,inactive,TBD,,,,"Wilson, Emma",emma.wilson1002@fleetdemo.com
+91,novated,active,TBD,,,,"Taylor, Ava",ava.taylor1151@fleetdemo.com
+20,fleet_managed,inactive,TBD,,,,"King, Mia",mia.king1149@fleetdemo.com
+28,novated,active,TBD,,,,"Walker, Lucas",lucas.walker1129@fleetdemo.com
+166,novated,active,TBD,,,,"Wilson, Noah",noah.wilson1142@fleetdemo.com
+115,novated,inactive,TBD,,,,"Lee, Isla",isla.lee1004@fleetdemo.com
+53,fleet_managed,inactive,TBD,,,,"Brown, James",james.brown1145@fleetdemo.com
+1,novated,active,TBD,,,,"White, Liam",liam.white1120@fleetdemo.com
+115,novated,inactive,TBD,,,,"Lee, Emma",emma.lee1174@fleetdemo.com
+118,fleet_managed,active,TBD,,,,"Young, Mia",mia.young1127@fleetdemo.com
+1,novated,active,TBD,,,,"Taylor, Noah",noah.taylor1133@fleetdemo.com
+151,fleet_managed,inactive,TBD,,,,"Young, Lucas",lucas.young1006@fleetdemo.com
+108,fleet_managed,inactive,TBD,,,,"Brown, Isla",isla.brown1195@fleetdemo.com
+186,novated,inactive,TBD,,,,"Taylor, Emma",emma.taylor1187@fleetdemo.com
+16,novated,active,TBD,,,,"Martin, Chloe",chloe.martin1033@fleetdemo.com
+183,fleet_managed,active,TBD,,,,"King, Emma",emma.king1059@fleetdemo.com
+41,fleet_managed,active,TBD,,,,"Lee, Ava",ava.lee1124@fleetdemo.com
+90,fleet_managed,active,TBD,,,,"Harris, Ava",ava.harris1077@fleetdemo.com
+71,fleet_managed,active,TBD,,,,"Johnson, Ethan",ethan.johnson1066@fleetdemo.com
+136,fleet_managed,active,TBD,,,,"Johnson, James",james.johnson1060@fleetdemo.com
+113,novated,active,TBD,,,,"Young, Noah",noah.young1128@fleetdemo.com
+120,fleet_managed,active,TBD,,,,"Smith, Noah",noah.smith1079@fleetdemo.com
+123,fleet_managed,active,TBD,,,,"Lee, James",james.lee1073@fleetdemo.com
+2,novated,active,TBD,,,,"Walker, Liam",liam.walker1039@fleetdemo.com
+160,fleet_managed,inactive,TBD,,,,,
+72,fleet_managed,active,TBD,,,,,
+109,fleet_managed,inactive,TBD,,,,,
+93,fleet_managed,active,TBD,,,,,
+42,novated,active,TBD,,,,,
+162,novated,active,TBD,,,,,
+117,fleet_managed,active,TBD,,,,,
+77,fleet_managed,active,TBD,,,,,
+49,novated,inactive,TBD,,,,,
+50,fleet_managed,inactive,TBD,,,,,
+82,novated,active,TBD,,,,,
+89,fleet_managed,active,TBD,,,,,
+33,fleet_managed,inactive,TBD,,,,,
+125,novated,inactive,TBD,,,,,
+97,novated,active,TBD,,,,,
+116,fleet_managed,active,TBD,,,,,
+161,novated,active,TBD,,,,,
+95,novated,active,TBD,,,,,
+137,fleet_managed,active,TBD,,,,,
+126,fleet_managed,active,TBD,,,,,
+171,novated,active,TBD,,,,,
+86,fleet_managed,inactive,TBD,,,,,
+15,fleet_managed,active,TBD,,,,,
+176,fleet_managed,active,TBD,,,,,
+181,fleet_managed,inactive,TBD,,,,,
+5,fleet_managed,active,TBD,,,,,
+51,novated,active,TBD,,,,,
+63,novated,active,TBD,,,,,
+87,fleet_managed,active,TBD,,,,,
+47,novated,active,TBD,,,,,
+174,fleet_managed,active,TBD,,,,,
+173,novated,active,TBD,,,,,
+163,fleet_managed,active,TBD,,,,,
+103,novated,active,TBD,,,,,
+149,fleet_managed,inactive,TBD,,,,,
+179,novated,active,TBD,,,,,
+39,novated,active,TBD,,,,,
+29,novated,active,TBD,,,,"Johnson, Ava",ava.johnson1107@fleetdemo.com
+196,novated,active,TBD,,,,"Johnson, Ava",ava.johnson1107@fleetdemo.com
+84,novated,active,TBD,,,,"Brown, Chloe",chloe.brown1047@fleetdemo.com
+167,novated,active,TBD,,,,"Brown, Chloe",chloe.brown1115@fleetdemo.com
+60,novated,active,TBD,,,,"Harris, Chloe",chloe.harris1061@fleetdemo.com
+28,novated,active,TBD,,,,"Harris, Chloe",chloe.harris1061@fleetdemo.com
+115,novated,inactive,TBD,,,,"Lee, Chloe",chloe.lee1125@fleetdemo.com
+24,novated,active,TBD,,,,"Lee, Chloe",chloe.lee1180@fleetdemo.com
+104,novated,active,TBD,,,,"Young, Chloe",chloe.young1015@fleetdemo.com
+198,novated,active,TBD,,,,"Young, Chloe",chloe.young1075@fleetdemo.com
+45,fleet_managed,active,TBD,,,,"Young, Chloe",chloe.young1075@fleetdemo.com
+56,novated,active,TBD,,,,"Johnson, Emma",emma.johnson1101@fleetdemo.com
+38,novated,active,TBD,,,,"Johnson, Emma",emma.johnson1101@fleetdemo.com
+21,novated,active,TBD,,,,"Johnson, Emma",emma.johnson1101@fleetdemo.com
+190,novated,active,TBD,,,,"Taylor, Emma",emma.taylor1143@fleetdemo.com
+124,fleet_managed,inactive,TBD,,,,"Brown, Ethan",ethan.brown1063@fleetdemo.com
+62,novated,inactive,TBD,,,,"Harris, Grace",grace.harris1138@fleetdemo.com
+177,fleet_managed,active,TBD,,,,"Harris, Grace",grace.harris1138@fleetdemo.com
+141,novated,inactive,TBD,,,,"Lee, Grace",grace.lee1041@fleetdemo.com
+96,fleet_managed,active,TBD,,,,"Taylor, Grace",grace.taylor1135@fleetdemo.com
+8,novated,inactive,TBD,,,,"White, Grace",grace.white1140@fleetdemo.com
+34,novated,active,TBD,,,,"Harris, Isla",isla.harris1103@fleetdemo.com
+99,novated,active,TBD,,,,"Smith, Isla",isla.smith1084@fleetdemo.com
+175,novated,inactive,TBD,,,,"Smith, Isla",isla.smith1084@fleetdemo.com
+200,novated,active,TBD,,,,"Walker, Isla",isla.walker1025@fleetdemo.com
+106,novated,active,TBD,,,,"Walker, Isla",isla.walker1167@fleetdemo.com
+124,fleet_managed,inactive,TBD,,,,"Walker, Isla",isla.walker1167@fleetdemo.com
+186,novated,inactive,TBD,,,,"Wilson, Isla",isla.wilson1091@fleetdemo.com
+122,novated,active,TBD,,,,"Young, Isla",isla.young1181@fleetdemo.com
+28,novated,active,TBD,,,,"Brown, Jack",jack.brown1189@fleetdemo.com
+69,novated,inactive,TBD,,,,"Smith, Jack",jack.smith1020@fleetdemo.com
+75,fleet_managed,active,TBD,,,,"Smith, Jack",jack.smith1020@fleetdemo.com
+2,novated,active,TBD,,,,"Smith, Jack",jack.smith1027@fleetdemo.com
+145,fleet_managed,inactive,TBD,,,,"Smith, Jack",jack.smith1070@fleetdemo.com
+56,novated,active,TBD,,,,"Young, Jack",jack.young1074@fleetdemo.com
+56,novated,active,TBD,,,,"Walker, James",james.walker1072@fleetdemo.com
+121,fleet_managed,inactive,TBD,,,,"Wilson, James",james.wilson1196@fleetdemo.com
+38,novated,active,TBD,,,,"Johnson, Liam",liam.johnson1068@fleetdemo.com
+199,novated,active,TBD,,,,"Lee, Liam",liam.lee1188@fleetdemo.com
+59,novated,active,TBD,,,,"Martin, Liam",liam.martin1011@fleetdemo.com
+155,novated,active,TBD,,,,"Martin, Liam",liam.martin1011@fleetdemo.com
+132,fleet_managed,active,TBD,,,,"Martin, Liam",liam.martin1011@fleetdemo.com
+9,fleet_managed,active,TBD,,,,"White, Liam",liam.white1156@fleetdemo.com
+54,novated,active,TBD,,,,"Wilson, Liam",liam.wilson1105@fleetdemo.com
+143,fleet_managed,active,TBD,,,,"Young, Liam",liam.young1147@fleetdemo.com
+70,novated,active,TBD,,,,"Young, Liam",liam.young1147@fleetdemo.com
+182,fleet_managed,active,TBD,,,,"King, Lucas",lucas.king1177@fleetdemo.com
+150,fleet_managed,active,TBD,,,,"King, Lucas",lucas.king1177@fleetdemo.com
+153,novated,active,TBD,,,,"King, Lucas",lucas.king1177@fleetdemo.com
+148,fleet_managed,active,TBD,,,,"Brown, Mason",mason.brown1162@fleetdemo.com
+130,fleet_managed,active,TBD,,,,"Martin, Mason",mason.martin1028@fleetdemo.com
+191,fleet_managed,inactive,TBD,,,,"Martin, Mason",mason.martin1028@fleetdemo.com
+7,fleet_managed,active,TBD,,,,"Taylor, Mason",mason.taylor1099@fleetdemo.com
+24,novated,active,TBD,,,,"Walker, Mason",mason.walker1178@fleetdemo.com
+78,fleet_managed,active,TBD,,,,"White, Mason",mason.white1158@fleetdemo.com
+150,fleet_managed,active,TBD,,,,"White, Mason",mason.white1158@fleetdemo.com
+147,novated,active,TBD,,,,"Johnson, Mia",mia.johnson1136@fleetdemo.com
+188,fleet_managed,inactive,TBD,,,,"Johnson, Noah",noah.johnson1193@fleetdemo.com
+158,novated,active,TBD,,,,"King, Noah",noah.king1152@fleetdemo.com
+21,novated,active,TBD,,,,"Young, Noah",noah.young1114@fleetdemo.com
+24,novated,active,TBD,,,,"King, Olivia",olivia.king1095@fleetdemo.com
+192,fleet_managed,active,TBD,,,,"White, Olivia",olivia.white1098@fleetdemo.com
+61,fleet_managed,active,TBD,,,,"White, Olivia",olivia.white1098@fleetdemo.com
+114,novated,inactive,TBD,,,,"White, Olivia",olivia.white1106@fleetdemo.com
+135,fleet_managed,active,TBD,,,,"Wilson, Olivia",olivia.wilson1139@fleetdemo.com
+94,fleet_managed,active,TBD,,,,"Wilson, Olivia",olivia.wilson1139@fleetdemo.com
+22,fleet_managed,inactive,TBD,,,,"Young, Olivia",olivia.young1019@fleetdemo.com
+14,novated,active,TBD,,,,"Young, Olivia",olivia.young1019@fleetdemo.com
+128,fleet_managed,active,TBD,,,,"Johnson, Sophia",sophia.johnson1078@fleetdemo.com
+145,fleet_managed,inactive,TBD,,,,"Johnson, Sophia",sophia.johnson1078@fleetdemo.com
+101,fleet_managed,active,TBD,,,,"Walker, Sophia",sophia.walker1057@fleetdemo.com
+121,fleet_managed,inactive,TBD,,,,"Walker, Sophia",sophia.walker1057@fleetdemo.com
+57,novated,active,TBD,,,,"White, Sophia",sophia.white1121@fleetdemo.com
+99,novated,active,TBD,,,,"White, Sophia",sophia.white1121@fleetdemo.com
