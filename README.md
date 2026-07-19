@@ -184,6 +184,35 @@ The pipeline is built using the **Databricks Lakehouse (PySpark + Delta Lake)** 
 - The e-commerce dataset is **simulated** within this notebook for Day-1 and Day-2 feeds.  
 - The original static CSVs referenced in Project 1 provide the base dataset idea.  
 - Day-2 simulation introduces changes and new records to demonstrate CDC/SCD behaviour.
+
+## 📅 Date: 19 July 2026
+Folder Link [dbt_Project_Fleet_Data](./dbt_Project_Fleet_Data/)
+
+## ℹ️  About the Project 
+This project demonstrates an end-to-end Analytics Engineering workflow using **dbt Core**, **Google BigQuery**, and **SQL**.
+
+The objective was to transform raw operational fleet management data into analytics-ready business models while applying software engineering best practices such as modular SQL development, data quality testing, documentation, and version control.
+
+## 🚀 Tech Stack
+
+- dbt Core
+- Google BigQuery
+- SQL
+- Git & GitHub
+
+## 📁 Data Source  
+The project uses a **synthetic fleet management dataset** generated with AI to simulate realistic business scenarios.
+
+The dataset contains five operational source tables:
+
+- Contract
+- Fleet Vehicle
+- Vehicle Usage
+- Driver
+- Invoice
+
+The generated data was intentionally designed to include realistic business relationships and data quality considerations suitable for Analytics Engineering practice.
+
     
 # 👤 Author
 
