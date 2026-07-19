@@ -1,0 +1,37 @@
+models:
+
+  - name: stg_raw_fleet__contract
+    columns:
+      - name: Contract_Id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_raw_fleet__fleet_vehicle
+    columns:
+      - name: FleetVehicle_ID
+        data_tests:
+          - unique
+          - not_null
+  
+  - name: stg_raw_fleet__vehicle_usage
+    columns:
+      - name: VehicleUsage_Id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_raw_fleet__invoice
+    columns:
+      - name: Invoice_ID
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_raw_fleet__driver
+    columns:
+      - name: Driver_Id
+        data_tests:
+          - unique
+          - not_null
+          

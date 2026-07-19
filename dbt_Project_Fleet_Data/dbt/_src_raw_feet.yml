@@ -1,0 +1,19 @@
+sources:
+  - name: raw_fleet
+    database: dbt-project-18072026
+    schema: dbt_snagpal
+    tables:
+    - name: Raw_Contract
+      config:
+        freshness:
+          warn_after:
+            count: 12
+            period: hour
+          error_after:
+            count: 24
+            period: hour
+        loaded_at_field: createddate
+    - name: Raw_FleetVehicle
+    - name: Raw_VehicleUsage
+    - name: Raw_Driver
+    - name: Raw_Invoice
